@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Messaggio di errore possibile:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > [ Baking ] Baking non riuscito (Mappa colori da trama)\
 > Impossibile trovare i colori dei vertici

@@ -33,7 +33,7 @@ Normali piegati da fornaio trama calcola una texture che descrive la direzione m
 | *Parametro* | *Descrizione* |
 | --- | --- |
 | **Raggi secondari** | Quantità di raggi di occlusione. Un valore elevato produce meno rumore ma richiede più tempo per il calcolo. |
-| **Distanza minima occlusione** | Distanza minima alla quale i raggi di occlusione colpiscono la geometria poly elevata**.** |
+| **Distanza minima occlusione** | Distanza minima alla quale i raggi di occlusione colpiscono la geometria poly elevata&#x200B;**.** |
 | **Distanza massima occlusione** | Distanza massima alla quale i raggi di occlusione colpiscono la geometria poly elevata. |
 | **Rispetto al rettangolo di selezione** | Se questa opzione è attivata, i calcoli della distanza dei raggi sono basati sullo spazio normalizzato (da 0 a 1) della trama a basso poli. Se è disattivata, il calcolo della distanza del raggio si basa sulle unità specificate nella trama a basso poli al momento dell’esportazione (metri, centimetri, ecc.). |
 | **Angolo di diffusione** | Angolo di estensione massimo dei raggi di occlusione. Il valore predefinito è 180. |

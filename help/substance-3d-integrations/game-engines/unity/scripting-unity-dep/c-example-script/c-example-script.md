@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Esempio di script C#
+# Esempio di script C&#35;
 
 ## Modifica dei parametri
 

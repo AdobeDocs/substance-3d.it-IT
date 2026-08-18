@@ -20,7 +20,7 @@ ht-degree: 8%
 
 # Keyshot
 
-*Keyshot 6.1.72*[ Scarica Scena Di Esempio](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
+*Keyshot 6.1.72*[&#x200B; Scarica Scena Di Esempio](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
 
 ## Substance Painter esportazione
 
