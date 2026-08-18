@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/it/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Utilizzate la funzione Corrispondenza per nome (Matching by Name) per isolare le trame a basso e alto poli e impedire il sanguinamento della geometria durante la cottura al forno.
 helpx_creative_field: ''

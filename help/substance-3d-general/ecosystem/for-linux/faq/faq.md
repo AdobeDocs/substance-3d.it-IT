@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux/faq.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-general/ecosystem/substance-for-linux/faq.html"
 breadcrumb-title: ''
 description: Trova le risposte alle domande frequenti sulla gestione delle licenze Substance 3D e sull'accesso al software tramite il portale Adobe Download Access.
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ Se ricevi un messaggio di errore relativo a un&#39;e-mail o a una password errat
 
 
 
-Se si verifica un errore di tipo diverso, [contatta il supporto Enterprise](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+Se si verifica un errore di tipo diverso, [contatta il supporto Enterprise](https://helpx.adobe.com/it/enterprise/using/support-for-enterprise.html).
 
 
 
@@ -118,20 +118,20 @@ Se si verifica un errore di tipo diverso, [contatta il supporto Enterprise](http
 
 * Fare clic su Cerca.
 
-[Ulteriori informazioni su LWS sono disponibili qui](https://helpx.adobe.com/x-productkb/policy-pricing/volume-licensing-site.html).
+[Ulteriori informazioni su LWS sono disponibili qui](https://helpx.adobe.com/it/x-productkb/policy-pricing/volume-licensing-site.html).
 
 
 
 +++
 
 +++Chi posso contattare se ho bisogno di ulteriore assistenza?
-Se hai bisogno di ulteriore assistenza, puoi contattare il nostro team di supporto Enterprise. L&#39;amministratore dovrà [accedere ad Adobe Admin Console e aprire un caso di supporto](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+Se hai bisogno di ulteriore assistenza, puoi contattare il nostro team di supporto Enterprise. L&#39;amministratore dovrà [accedere ad Adobe Admin Console e aprire un caso di supporto](https://helpx.adobe.com/it/enterprise/using/support-for-enterprise.html).
 
 Se hai bisogno di ulteriore assistenza, puoi contattare il tuo Adobe CSM.
 
 +++
 
 +++Impossibile attivare il software con il file del codice di licenza da ADA.
-[Istruzioni dettagliate per l&#39;attivazione sono disponibili qui](../../../ecosystem/for-linux/substance-for-linux.md). Se il problema persiste, [contattare il team di supporto dell&#39;organizzazione](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+[Istruzioni dettagliate per l&#39;attivazione sono disponibili qui](../../../ecosystem/for-linux/substance-for-linux.md). Se il problema persiste, [contattare il team di supporto dell&#39;organizzazione](https://helpx.adobe.com/it/enterprise/using/support-for-enterprise.html).
 
 +++

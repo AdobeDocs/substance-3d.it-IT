@@ -57,4 +57,4 @@ non esitare a contattarci per discutere di questo argomento.
 
 ## Problemi di sicurezza
 
-I problemi di sicurezza non devono essere segnalati su questo tracciatore dei problemi. Piuttosto, [segnala un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/security/alertus.html)
+I problemi di sicurezza non devono essere segnalati su questo tracciatore dei problemi. Piuttosto, [segnala un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html)

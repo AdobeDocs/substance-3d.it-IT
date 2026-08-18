@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: Calcolate e salvate la posizione della geometria della trama nelle texture per creare effetti basati sul volume e maschere di sfumatura.
 helpx_creative_field: ""

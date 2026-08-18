@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
 description: Correggi strane sfumature colorate nelle mappe normali controllando le normali della trama, i gruppi di arrotondamento e la mappatura UV.
 helpx_creative_field: ""

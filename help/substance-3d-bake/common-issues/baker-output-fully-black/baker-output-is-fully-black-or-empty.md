@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: Risolvete i problemi relativi al nero o allo spazio vuoto degli output dei fornelli e scoprite come correggere i problemi relativi a trama e UV.
 helpx_creative_field: ""

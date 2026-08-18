@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance con il modulo di rendering Octane in 3ds Max tramite i materiali Live DB e impostazioni di output corrette.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance in Roblox Studio con il flusso di lavoro Rugosità metallica PBR per esperienze 3D coinvolgenti.
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ Quindi, chiedi a Designer di *guardare* la cartella dei modelli per cercare i mo
 * Passa alla directory `templates` e fai clic su **Seleziona cartella**
 * Fai clic sul pulsante **OK**.
 * Vai a **File > Nuovo > Substance grafico...**
-* Verifica che il modello `Roblox` sia elencato nella parte inferiore dell&#39;elenco dei modelli nella finestra [Nuovo grafico Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)
+* Verifica che il modello `Roblox` sia elencato nella parte inferiore dell&#39;elenco dei modelli nella finestra [Nuovo grafico Substance](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,7 +102,7 @@ Quindi, chiedi a Designer di *guardare* la cartella dei modelli per cercare i mo
 
 Create un grafico utilizzando il modello Roblox ed esportate le bitmap da quel grafico una volta terminato di lavorare su un materiale.
 
-* Nella finestra [Nuovo grafico Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), selezionare il modello `Roblox`
+* Nella finestra [Nuovo grafico Substance](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), selezionare il modello `Roblox`
 * Imposta eventuali identificatori e altri parametri per il grafico e fai clic su **OK**
 * Lavora sul tuo materiale nella [Visualizzazione grafico](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Per iniziare a usare il flusso di lavoro, consulta [qui](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)
 * Al termine, vai a **Strumenti > Esporta bitmap...** nella *barra degli strumenti* della visualizzazione Grafico

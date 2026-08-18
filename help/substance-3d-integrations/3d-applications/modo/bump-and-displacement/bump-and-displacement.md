@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
 description: Utilizzate le mappe di spostamento e di rilievo dai materiali delle Substance in MODO per aggiungere dettagli e profondità della superficie ai modelli.
 helpx_creative_field: ""

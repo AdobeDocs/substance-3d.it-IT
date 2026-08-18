@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
 breadcrumb-title: ''
 description: Diagnostica e risolvi i problemi più comuni con il componente aggiuntivo Substance 3D in Blender utilizzando la console di sistema.
 helpx_creative_field: ""

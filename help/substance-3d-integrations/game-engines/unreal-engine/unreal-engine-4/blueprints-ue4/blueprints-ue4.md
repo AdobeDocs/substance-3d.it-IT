@@ -26,7 +26,7 @@ In questa sezione viene descritto come utilizzare i materiali Substance e [Bluep
 
 ## Sommario
 
-* [Blueprint(UE4): Substance parametri materiale](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
-* [Blueprint(UE4): Dynamic Material Instance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
-* [Blueprint(UE4): Substance aggregata](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
-* [Blueprint(UE4): riferimento al nodo](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)
+* [Blueprint(UE4): Substance parametri materiale](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
+* [Blueprint(UE4): Dynamic Material Instance](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+* [Blueprint(UE4): Substance aggregata](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
+* [Blueprint(UE4): riferimento al nodo](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)

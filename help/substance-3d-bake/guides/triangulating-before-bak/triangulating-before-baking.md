@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: Comprendere in che modo la triangolazione della trama influisce sui risultati di cottura e apprendere le procedure ottimali per la preparazione della geometria.
 helpx_creative_field: ""

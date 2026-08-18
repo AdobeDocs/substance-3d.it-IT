@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
 description: Correggi l’aspetto sfaccettato nelle texture normali uniformando le normali della trama e regolando le impostazioni del gruppo di arrotondamento.
 helpx_creative_field: ""

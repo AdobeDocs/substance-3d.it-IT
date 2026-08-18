@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: Salvate le normali della trama, le tangenti e i binormali nelle texture utilizzando le coordinate dello spazio globale per flussi di lavoro avanzati.
 helpx_creative_field: ""

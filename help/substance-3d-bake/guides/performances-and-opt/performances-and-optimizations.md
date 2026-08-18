@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Scoprite come ottimizzare la configurazione hardware e la preparazione della trama per ottenere prestazioni di cottura più rapide.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Gli arresti anomali possono essere causati da diversi fattori, tra cui il TDR (T
 * quando si cuociono trame dense con il fornaio a Occlusione ambiente
 * quando si utilizzano forni accelerati DXR con maglie poly molto dense (più di 60 milioni di triangoli)
 
-Puoi trovare ulteriori informazioni sul TDR e una guida dettagliata su come modificare le impostazioni associate qui: [Arresto anomalo dei driver GPU con calcoli lunghi (arresto anomalo del TDR)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Puoi trovare ulteriori informazioni sul TDR e una guida dettagliata su come modificare le impostazioni associate qui: [Arresto anomalo dei driver GPU con calcoli lunghi (arresto anomalo del TDR)](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

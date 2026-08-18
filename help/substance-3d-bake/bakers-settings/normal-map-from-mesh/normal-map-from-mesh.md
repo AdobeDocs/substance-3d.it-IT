@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: Crea mappe normali di spazio tangente o di spazio mondo da mesh ad alto poli utilizzando la mappa normale dal fornaio di mesh.
 helpx_creative_field: ""

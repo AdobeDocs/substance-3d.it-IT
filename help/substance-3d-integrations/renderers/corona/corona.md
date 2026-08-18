@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/corona.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance con il modulo di rendering Corona in 3ds Max utilizzando il flusso di lavoro Specular/lucidità e le mappe richieste.
 helpx_creative_field: ""

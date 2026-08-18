@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
 breadcrumb-title: ''
 description: Risoluzione dei problemi relativi al motivo per cui le texture create al di fuori del software Substance non sono corrette e come risolvere i problemi di spazio colore.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/geometry-cache.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
 description: Utilizzate la memorizzazione nella cache della geometria per conservare i dati di mesh pre-elaborati e velocizzare notevolmente le successive operazioni di cottura.
 helpx_creative_field: ""

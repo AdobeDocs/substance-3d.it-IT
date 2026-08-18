@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
 breadcrumb-title: ''
 description: Documentazione di riferimento per la classe SubstanceRuntime utilizzata per le operazioni sui materiali di Substance in fase di runtime in Unity.
 helpx_creative_field: ""

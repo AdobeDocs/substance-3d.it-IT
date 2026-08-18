@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/error-and-warning-messages.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
 description: Guida di riferimento per tutti i messaggi di errore e di avvertenza che possono apparire durante la cottura con il software Substance.
 helpx_creative_field: ""
