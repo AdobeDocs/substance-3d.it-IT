@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: Scoprite cos'è il baking e scoprite come salvare le informazioni sulla trama 3D nei file di texture per migliorare i materiali Substance.
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 'Che cos’è Baking '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
+>> 
 
-(crediti: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)
+(Crediti: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0))
 
 Baking è il nome del processo relativo al **salvataggio delle informazioni** relative a una **trama 3D** in un file **texture** ([bitmap](https://en.wikipedia.org/wiki/Raster_graphics)). Nella maggior parte dei casi questo processo coinvolge un’altra trama. In questo caso, le informazioni della prima trama vengono trasferite sugli UV della seconda trama e quindi salvate in una texture.
 
