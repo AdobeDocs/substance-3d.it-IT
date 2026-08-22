@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Arnold - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) viene fornito con [Modelli di output](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets) per Arnold utilizzando il [materiale aiStandard](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface).
+Substance Painter 2020.1 (6.1.0) viene fornito con [Modelli di output](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets) per Arnold utilizzando il [materiale aiStandard](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface).
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

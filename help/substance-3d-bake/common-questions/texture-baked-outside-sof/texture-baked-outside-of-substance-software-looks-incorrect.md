@@ -33,6 +33,6 @@ ht-degree: 0%
 > Non esiste una soluzione immediata a questo problema, in quanto molti fattori possono contribuire a risolvere il problema:
 > 
 > * Verificare che il formato normale tra il software di Substance e l&#39;applicazione esterna sia lo stesso. OpenGL è [X+, Y+, Z+] e DirectX è [X+, Y-, Z+]
->   * In Substance Painter è possibile modificare il formato normale nella [configurazione del progetto](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration).
->   * In Substance Designer il formato normale può essere modificato nelle [preferenze del progetto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings).
+>   * In Substance Painter è possibile modificare il formato normale nella [configurazione del progetto](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/interface/project-configuration).
+>   * In Substance Designer il formato normale può essere modificato nelle [preferenze del progetto](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/workspace/preferences/project-settings).
 > * Verificare che la trama sia stata triangolata prima della cottura al forno e dell&#39;importazione nel software di Substance. Per ulteriori informazioni, vedere [questa pagina](../../guides/triangulating-before-bak/triangulating-before-baking.md).

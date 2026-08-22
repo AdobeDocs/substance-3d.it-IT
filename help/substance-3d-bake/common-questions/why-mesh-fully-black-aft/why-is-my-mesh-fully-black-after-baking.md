@@ -39,4 +39,4 @@ ht-degree: 0%
 > Esistono due possibili soluzioni:
 > 
 > * Correggi la tua impostazione di cottura al forno per evitare texture nere, consulta: [L&#39;output del forno è completamente nero o vuoto](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * Rimuovi la texture nera dalle [Impostazioni set texture](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).
+> * Rimuovi la texture nera dalle [Impostazioni set texture](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).
