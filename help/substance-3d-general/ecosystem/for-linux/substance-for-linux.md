@@ -75,6 +75,6 @@ Sono disponibili due opzioni per l&#39;attivazione del software: attivazione loc
 1. Inserire i file delle chiavi di licenza decompressi in una rete montata condivisa.
 1. Nel computer dell&#39;utente, imposta una variabile di ambiente che punti al file del codice di licenza come spiegato in queste pagine:
 
-   * Substance 3D Painter - <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
-   * Substance 3D Designer - <https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
-   * Substance 3D Sampler - <https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>
+   * Substance 3D Painter - <https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
+   * Substance 3D Designer - <https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
+   * Substance 3D Sampler - <https://experienceleague.adobe.com/it/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>

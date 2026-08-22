@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Per il rendering con Vray potete utilizzare le mappe esportate da Substance Painter o dal plug-in Substance in [Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) o [3ds Max](https://www.substance3d.com/ecosystem-plug-ins/substance-in-3ds-max/).
 
-Substance Painter 2020.1 (6.1.0) viene fornito con shader VrayMtl per flussi di lavoro sia metallici che specular e supporta Vray through Vray Next [Modelli di output](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export).
+Substance Painter 2020.1 (6.1.0) viene fornito con shader VrayMtl per flussi di lavoro sia metallici che specular e supporta Vray through Vray Next [Modelli di output](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/getting-started/export/export).
 
 ## Sommario
 

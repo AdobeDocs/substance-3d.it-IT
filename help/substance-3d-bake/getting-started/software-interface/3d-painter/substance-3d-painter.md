@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-È possibile accedere alla finestra di cottura tramite le [impostazioni del set di texture](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Fate clic sul pulsante &quot;**Mappe trama di cottura**&quot; per aprire la finestra di cottura del progetto corrente.
+È possibile accedere alla finestra di cottura tramite le [impostazioni del set di texture](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Fate clic sul pulsante &quot;**Mappe trama di cottura**&quot; per aprire la finestra di cottura del progetto corrente.
 
 ## Panoramica
 

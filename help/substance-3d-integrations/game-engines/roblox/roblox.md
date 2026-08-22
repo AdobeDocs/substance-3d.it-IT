@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Modello Substance 3D Designer
 
-Per creare texture per Roblox, puoi utilizzare il file Substance 3D seguente come modello [Substance grafici di composizione](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
+Per creare texture per Roblox, puoi utilizzare il file Substance 3D seguente come modello [Substance grafici di composizione](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
 
 [![Immagine dell&#39;icona del formato di file sbs collegata al modello roblox.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
@@ -78,7 +78,7 @@ Per prima cosa, *installa* il modello Roblox.
 Quindi, chiedi a Designer di *guardare* la cartella dei modelli per cercare i modelli di grafico.
 
 * In Designer, passa a **Modifica > Preferenze...**
-* Nella finestra [Preferenze](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window), vai a **Progetti > Progetto utente > Generali**
+* Nella finestra [Preferenze](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/workspace/preferences/preferences-window), vai a **Progetti > Progetto utente > Generali**
 * Nell&#39;elenco **Directory modelli** fare clic sul pulsante **+**
 * Passa alla directory `templates` e fai clic su **Seleziona cartella**
 * Fai clic sul pulsante **OK**.
@@ -104,9 +104,9 @@ Create un grafico utilizzando il modello Roblox ed esportate le bitmap da quel g
 
 * Nella finestra [Nuovo grafico Substance](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), selezionare il modello `Roblox`
 * Imposta eventuali identificatori e altri parametri per il grafico e fai clic su **OK**
-* Lavora sul tuo materiale nella [Visualizzazione grafico](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Per iniziare a usare il flusso di lavoro, consulta [qui](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)
+* Lavora sul tuo materiale nella [Visualizzazione grafico](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Per iniziare a usare il flusso di lavoro, consulta [qui](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/getting-started/workflow-overview)
 * Al termine, vai a **Strumenti > Esporta bitmap...** nella *barra degli strumenti* della visualizzazione Grafico
-* Nella finestra [Esporta bitmap](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps), imposta un percorso **Destinazione** valido, assicurati che *tutti* gli output siano *selezionati* e fai clic su **Esporta**
+* Nella finestra [Esporta bitmap](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps), imposta un percorso **Destinazione** valido, assicurati che *tutti* gli output siano *selezionati* e fai clic su **Esporta**
 * Verifica che le texture siano esportate correttamente nel percorso **Destinazione**
 
 </td>
