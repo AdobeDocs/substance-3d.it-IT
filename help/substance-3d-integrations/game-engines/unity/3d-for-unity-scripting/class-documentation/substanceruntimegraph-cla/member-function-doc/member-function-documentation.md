@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: Documentazione dettagliata per tutte le funzioni membro della classe SubstanceRuntimeGraph nello scripting Unity.
 helpx_creative_field: ""
@@ -330,7 +330,7 @@ Vector2Int Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetTexturesResolution (
 ```
 
 
-Restituisce la risoluzione dell’output della texture dell’istanza.
+Restituisce la risoluzione dell&#39;output della texture di istanza.
 
 **Restituzioni**
 
@@ -616,7 +616,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.SetTexturesResolution ( Vecto
 ```
 
 
-Imposta la risoluzione dell’output della texture dell’istanza.
+Imposta la risoluzione di output della texture di istanza.
 
 **Parametri**
 

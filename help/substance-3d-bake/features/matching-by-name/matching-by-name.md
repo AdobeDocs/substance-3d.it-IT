@@ -1,7 +1,7 @@
 ---
-helpx_url: 'https://helpx.adobe.com/it/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
-description: Utilizzate la funzione Corrispondenza per nome (Matching by Name) per isolare le trame a basso e alto poli e impedire il sanguinamento della geometria durante la cottura al forno.
+description: Utilizzate la funzione Corrispondenza per nome (Matching by Name) per isolare le trame di poli bassi e alti e impedire il sanguinamento della geometria durante la eseguita i baking.
 helpx_creative_field: ''
 helpx_description: bakers > Features > Matching by Name
 helpx_experience_level: ''
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 Corrispondenza per nome è il nome di un metodo di filtraggio che può essere utilizzato in Substance Bakers per isolare le trame poly basse e poly alte in base al loro nome.
 
-Questa funzionalità è molto utile per evitare che la geometria si dissolva l&#39;una sull&#39;altra durante il processo di cottura al forno per ottenere texture pulite. Per ottenere lo stesso risultato, evita di dover allontanare le trame (spesso definite &quot;esplose&quot;).
+Questa funzionalità è molto utile per evitare il sanguinamento della geometria l&#39;uno sull&#39;altro durante il eseguo i baking per ottenere texture pulite. Per ottenere lo stesso risultato, evita di dover allontanare le trame (spesso definite &quot;esplose&quot;).
 
 ## Quando utilizzare Corrispondenza per nome
 
-### Normale cottura mappa con sanguinamento mesh
+### Mappa normale di eseguita i baking con sanguinamento della trama
 
 In questo esempio il casco sopra la testa del personaggio sanguina sul volto del personaggio.
 
-Abilitando Corrispondenza per nome possiamo ignorare il casco e cuocere correttamente il volto. *Questo risultato si basa sull&#39;impostazione Corrispondenza principale.*
+Abilitando Corrispondenza per nome possiamo ignorare il casco e eseguire i baking correttamente il volto. *Questo risultato si basa sull&#39;impostazione Corrispondenza principale.*
 
 | *Trama* | *Corrispondenza per nome disattivata* | *Corrispondenza Per Nome Su* |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Abilitando Corrispondenza per nome possiamo ignorare il casco e cuocere corretta
 
 In questo esempio, i &quot;pulsanti&quot; nella parte superiore della casella sono geometrie mobili, non sono collegati alla trama poly alta. Di conseguenza, per impostazione predefinita, le ombre verranno proiettate sulla casella sottostante, che mostrerà il bordo della geometria.
 
-Abilitando l&#39;opzione Corrispondenza per nome per l&#39;impostazione **Ignora backface** possiamo eseguire l&#39;occlusione ambiente ignorando l&#39;area sotto i pulsanti per farla sembrare una singola casella.*Questo risultato si basa sull&#39;utilizzo dell&#39;impostazione Ignora sfondo.*
+Abilitando l&#39;opzione Corrispondenza per nome per l&#39;impostazione **Ignora backface**, è possibile eseguire i baking l&#39;occlusione ambientale ignorando l&#39;area sotto i pulsanti in modo da farla sembrare come una singola casella.*Questo risultato si basa sull&#39;utilizzo dell&#39;impostazione Ignora sfondo.*
 
 | *Trama* | *Corrispondenza per nome disattivata* | *Corrispondenza Per Nome Su* |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ La corrispondenza per nome può essere abilitata in [Parametri comuni](../../bak
 I suffissi predefiniti sono \_low e \_high e possono essere modificati nel modo seguente:
 
 * **Substance Painter**: nella [finestra di cottura](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), entro i parametri comuni.
-* **Substance Designer**: nelle [impostazioni del progetto](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/workspace/preferences/project-settings), sotto le impostazioni del forno.
+* **Substance Designer**: nelle [impostazioni del progetto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings), sotto le impostazioni del forno.
 
 ## Trame ad alto poli da zBrush
 

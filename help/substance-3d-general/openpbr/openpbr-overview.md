@@ -206,7 +206,7 @@ I livelli che costituiscono una superficie OpenPBR, dal più profondo al più es
 
 * **Pellicola sottile**: se presente, un livello Pellicola sottile viene posizionato sopra il livello Base. Riproduce l’aspetto visivo di strati superficiali molto sottili, producendo colori iridescenti, come quelli visti nelle bolle di sapone, metallo bruciato o pellicole di olio.
 
-* **Rivestimento**: un livello Rivestimento, se presente, riproduce un livello trasparente e riflettente posizionato sopra ogni altro livello tranne Fuzz. Questo può simulare effetti reali come vernici, superfici bagnate o alcuni tipi di pittura per auto.
+* **Rivestimento**: un livello Rivestimento, se presente, riproduce un livello trasparente e riflettente posizionato sopra ogni altro livello tranne Fuzz. Questo può simulare effetti reali come vernici, superfici bagnate o alcuni tipi di pitture per auto.
 
 * **Fuzz**: se presente, un livello Fuzz riproduce il riflesso da microfibre. Può essere utilizzato per riprodurre l&#39;aspetto di un tessuto sfocato, ad esempio, o uno strato di dust.
 
@@ -220,7 +220,7 @@ Il Metallismo di base, a sua volta, determina le caratteristiche che si applican
 
 Un materiale interamente non metallico (ovvero un materiale con un valore di Metallicità di base pari a 0) può essere suddiviso in tre tipi di base: **diffuso**, **sottosuperficie** o **traslucido**. Si noti che i materiali non rientrano necessariamente in uno solo dei tipi di base sopra riportati. Sono possibili materiali più complessi che sono una combinazione di questi tipi di materiali di base.
 
-**I materiali diffusi** sono in genere materiali opachi come il legno o la pietra.
+I **materiali per Diffuse** sono in genere materiali opachi come il legno o la pietra.
 
 **I materiali sottosuperficiali** dispersione la luce internamente; la pelle o la cera rientrerebbero in questo tipo di materiale, ad esempio.
 
@@ -231,14 +231,14 @@ Un materiale interamente non metallico (ovvero un materiale con un valore di Met
 Al contrario, quando è attivato (ovvero ha un valore maggiore di 0), Metalness base acquisisce alcune caratteristiche comportamentali specifiche:
 
 * Il valore di Colore Specular del materiale controlla la tinta del materiale vicino agli angoli di pascolo (quando la luce colpisce una superficie con un angolo prossimo al parallelo).
-* Il valore del colore di base del materiale controlla il riflesso con incidenza normale, ovvero quando la luce viene riflessa a 90 gradi dalla superficie.
+* Il valore Colore di base del materiale controlla il riflesso con incidenza normale, ovvero quando la luce viene riflessa a 90 gradi dalla superficie.
 * Il valore Peso Specular del materiale ridimensiona l’intensità complessiva dei riflessi, influendo sia sull’angolo normale che su quello di pascolo.
 
 Combinati con i seguenti canali, i materiali metallici possono creare vari effetti.
 
 **Emissione**
 
-L’emissione consente a una superficie di agire come sorgente luminosa emettendo direttamente luce. Sebbene l&#39;emissione non sia un fenomeno riflessivo, è inclusa nell&#39;OpenPBR in modo che i materiali emissivi possano essere definiti in modo coerente insieme alle proprietà riflessive e trasmissive.
+L’emissione consente a una superficie di agire come sorgente luminosa emettendo direttamente luce. Sebbene l&#39;emissione non sia un fenomeno riflessivo, è inclusa nell&#39;OpenPBR in modo che i materiali emissivi possano essere definiti in modo coerente insieme alle proprietà riflettenti e trasmissivi.
 
 **Pellicola sottile**
 
@@ -251,7 +251,7 @@ L’emissione consente a una superficie di agire come sorgente luminosa emettend
 
 **Cappotto**
 
-Un livello Coat (Rivestimento), se presente, riproduce un livello trasparente e riflettente posizionato sopra ogni altro livello eccetto Fuzz. Questo può simulare effetti reali come vernici o alcuni tipi di pittura per auto. Un livello Coat (Rivestimento) è definito da un intervallo compreso tra 0 e 1; impostando questo valore su 0, il livello Coat (Rivestimento) viene completamente disattivato.
+Un livello Coat (Rivestimento), se presente, riproduce un livello trasparente e riflettente posizionato sopra ogni altro livello eccetto Fuzz. Questo può simulare effetti reali come vernici o alcuni tipi di pitture per auto. Un livello Coat (Rivestimento) è definito da un intervallo compreso tra 0 e 1; impostando questo valore su 0, il livello Coat (Rivestimento) viene completamente disattivato.
 
 **Fuzz**
 
@@ -404,7 +404,7 @@ Nella parte inferiore del modello di OpenPBR, il livello Base rappresenta l’in
   </tr>
 </table>
 
-* **Colore di base**: determina il &#39;colore principale&#39; di un materiale, impostando l&#39;albedo, ovvero la quantità di luce rossa, verde e blu riflessa, delle basi metalliche e diffuse (per le basi non metalliche). Come descritto in precedenza, mentre Colore base determina quali colori vengono riflessi, l’impostazione Spessore base determina l’intensità del riflesso.
+* **Colore di base**: determina il &#39;colore principale&#39; di un materiale, impostando l&#39;albedo, ovvero la quantità di luce rossa, verde e blu riflessa, delle basi metalliche e diffuse (per le basi non metalliche). Come descritto in precedenza, mentre Colori di base determina quali colori vengono riflessi, l’impostazione Spessore base determina l’intensità del riflesso.
 
 <table>
   <tr style="border: 0;">
@@ -424,12 +424,12 @@ Nella parte inferiore del modello di OpenPBR, il livello Base rappresenta l’in
   </tr>
 </table>
 
-* **Rugosità diffusa**: definisce la rugosità della micro superficie di un materiale, che va da 0 (avente un riflesso molto liscio e uniforme) a 1 (con un riflesso molto ruvido e diffuso), adatto per materiali come la corteccia della roccia o dell&#39;albero.
+* **Rugosità Diffusa**: definisce la micro rugosità superficiale di un materiale, che va da 0 (avente un riflesso molto liscio e uniforme) a 1 (con un riflesso molto ruvido e diffuso), adatto per materiali come la corteccia della roccia o dell&#39;albero.
 
 <table>
   <tr style="border: 0;">
-    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness0.png" alt=""/><br><em>Rugosità diffusa = 0,0</em></td>
-    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness1.png" alt=""/><br><em>Rugosità diffusa = 1,0</em></td>
+    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness0.png" alt=""/><br><em>Rugosità Diffusa = 0,0</em></td>
+    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness1.png" alt=""/><br><em>Rugosità Diffusa = 1,0</em></td>
     <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughnessSplit.png" alt=""/><br><em>Affiancato 0,0 vs 1,0</em></td>
   </tr>
 </table>
@@ -719,7 +719,7 @@ L’emissione controlla se il materiale emette luce propria (indipendente dalla 
 >
 > Tenete presente che, anche se un livello Base è uniforme (ossia il suo valore di rugosità è vicino a 0), la rugosità del livello Rivestimento può potenzialmente rendere il materiale complessivo molto più ruvido.
 
-* Anisotropia: l’Anisotropia descrive il modo in cui i riflessi del livello del pelo variano a seconda della direzione, causando l’allungamento o l’allineamento delle luci lungo una superficie, anziché apparire circolari. Questo effetto viene utilizzato per rappresentare la struttura direzionale della superficie nel rivestimento, ad esempio per applicare pennelli, striature o pattern di flusso.
+* Anisotropia: l’Anisotropia descrive il modo in cui i riflessi del livello del pelo variano a seconda della direzione, causando la allungamento o l’allineamento delle luci lungo una superficie, anziché apparire circolari. Questo effetto viene utilizzato per rappresentare la struttura direzionale della superficie nel rivestimento, ad esempio per applicare pennelli, striature o pattern di flusso.
 
 <table>
   <tr>
@@ -729,7 +729,7 @@ L’emissione controlla se il materiale emette luce propria (indipendente dalla 
   </tr>
 </table>
 
-* Tangente di Anisotropia: la direzione di qualsiasi dilatazione o striatura dovuta al valore di Anisotropia, sopra.
+* Tangente di Anisotropia: la direzione di qualsiasi allungamento o striatura dovuta al valore di Anisotropia riportato sopra.
 
 <table>
   <tr>
@@ -741,7 +741,7 @@ L’emissione controlla se il materiale emette luce propria (indipendente dalla 
 
 *Orientamenti diversi della tangente di Anisotropia.*
 
-* Rivestimento normale: il livello Rivestimento può essere deformato in piccola misura per produrre l&#39;aspetto di una geometria su scala fine. Questo può essere utilizzato, ad esempio, per riprodurre l’aspetto di graffi o gocce d’acqua su un materiale.
+* Normale dei rivestimenti: il livello Rivestimento può essere deformato in piccola misura per produrre l’aspetto di una geometria in scala fine. Questo può essere utilizzato, ad esempio, per riprodurre l’aspetto di graffi o gocce d’acqua su un materiale.
 
 +++
 

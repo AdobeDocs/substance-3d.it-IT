@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: Estrai le informazioni di curvatura dalla trama per creare texture che evidenzino le cavità e i bordi della geometria.
 helpx_creative_field: ""

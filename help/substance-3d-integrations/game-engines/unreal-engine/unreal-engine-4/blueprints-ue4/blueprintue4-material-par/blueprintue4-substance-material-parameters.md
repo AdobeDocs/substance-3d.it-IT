@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Modificate i parametri del materiale Substance in fase di runtime in Unreal Engine 4 utilizzando i nodi di Blueprint per il controllo dinamico del materiale.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Modifica di un parametro float:
 
-Per modificare i parametri float, color(float4) e booleano della sostanza, utilizzare il [nodo Float di input](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html).
+Per modificare i parametri float, color(float4) e booleano della sostanza, utilizzare il [nodo Float di input](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html).
 
 1. Create una variabile con un tipo di &quot;Istanza di Grafico Substance&quot; come riferimento.
 1. Creare un set di nodi mobili di input e impostare la destinazione come variabile dell&#39;istanza di Grafico Substance.

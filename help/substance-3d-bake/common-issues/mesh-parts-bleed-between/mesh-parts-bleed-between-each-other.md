@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
 description: Per evitare che le parti della trama si disperdano durante la cottura al forno, utilizzate l’opzione Corrispondenza per nome (Matching by Name) o modificate le distanze.
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ ht-degree: 0%
 > Sono disponibili alcune soluzioni per evitare questo problema:
 > 
 > * Utilizza la funzione [Corrispondenza per nome](../../features/matching-by-name/matching-by-name.md) per isolare le trame
-> * Utilizzate una [gabbia](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) per limitare la distanza dei raggi.
+> * Utilizzate una [gabbia](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) per limitare la distanza dei raggi.
 > * Impostate a un valore inferiore la distanza di raggio predefinita nelle impostazioni comuni dei forni.

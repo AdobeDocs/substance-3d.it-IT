@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/maverick.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance nel modulo di rendering Maverick per la visualizzazione del prodotto con l’integrazione di Painter e il supporto SBSAR.
 helpx_creative_field: ""

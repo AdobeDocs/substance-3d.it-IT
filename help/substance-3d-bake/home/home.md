@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
 breadcrumb-title: ''
-description: Scoprite come utilizzare Substance Baker per calcolare le informazioni basate sulle trame nei file di texture e migliorare il flusso di lavoro per la creazione di texture.
+description: Scoprite come utilizzare Substance Baker per calcolare le informazioni basate su mesh in file texture e migliorare il flusso di lavoro di creazione delle texture.
 helpx_creative_field: ""
 helpx_description: bakers > Home
 helpx_experience_level: ""
@@ -24,9 +24,9 @@ ht-degree: 13%
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-I <b>Substance Bakers</b> sono un set di strumenti avanzati per il calcolo di informazioni basate su trama nei file di texture. Possono essere utilizzati da qualsiasi artista con una trama 3D per sfruttare i metodi di texture avanzati. Il baking è un processo al centro del flusso di lavoro del software Substance che offre <b> potenti strumenti</b> e <b>creazione automatizzata delle texture</b>.
+<b>Substance Bakers</b> è un set di strumenti avanzati per il calcolo di informazioni basate su mesh nei file texture. Possono essere utilizzati da qualsiasi artista con una trama 3D per sfruttare i metodi di texture avanzati. La esegue i baking è un processo fondamentale del flusso di lavoro del software Substance per offrire<b> potenti strumenti</b> e <b>creazione automatizzata delle texture</b>.
 
-La presente documentazione descrive le <b>nozioni fondamentali della cottura al forno</b> e i <b>problemi comuni</b> e gli errori che possono verificarsi durante la gestione di questo processo.
+Questa documentazione descrive le <b>nozioni fondamentali per eseguire i baking</b> e i <b>problemi comuni</b> e gli errori che possono verificarsi durante l&#39;esecuzione di questa procedura.
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -44,7 +44,7 @@ La presente documentazione descrive le <b>nozioni fondamentali della cottura al 
 ## Introduzione
 
 * [Che cos&#39;è Baking?](../getting-started/what-is-baking/what-is-baking.md)
-* Cuocere con:
+* Esegue i baking con:
   * [Substance 3D Painter](../getting-started/software-interface/3d-painter/substance-3d-painter.md)
   * [Substance 3D Designer](../getting-started/software-interface/3d-designer/substance-3d-designer.md)
   * [Substance 3D Automation Toolkit](../getting-started/software-interface/3d-automation-toolkit/substance-3d-automation-toolkit.md)
@@ -55,7 +55,7 @@ La presente documentazione descrive le <b>nozioni fondamentali della cottura al 
 </td>
 <td style="border: 0;" valign="top">
 
-### Impostazioni forni
+### Impostazioni baker
 
 * [Parametri comuni](../bakers-settings/common-parameters/common-parameters.md)
 * [Occlusione ambientale](../bakers-settings/ambient-occlusion/ambient-occlusion.md)
@@ -110,10 +110,10 @@ La presente documentazione descrive le <b>nozioni fondamentali della cottura al 
 * [È necessario abilitare &quot;Calcola spazio tangente per frammento&quot;?](../common-questions/should-enable-compute-tan/should-i-enable-compute-tangent-space-per-fragment.md)
 * [La texture creata al di fuori del software Substance non sembra corretta](../common-questions/texture-baked-outside-sof/texture-baked-outside-of-substance-software-looks-incorrect.md)
 * [Che cosa sono i file Assbin?](../common-questions/what-are-assbin-files/what-are-assbin-files.md)
-* [Qual è la profondità di bit delle texture cotte?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
+* [Qual è la profondità di bit delle texture eseguite i baking?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
 * [Qual è la differenza tra OpenGL e il formato normale DirectX?](../common-questions/what-the-difference-bet/what-is-the-difference-between-the-opengl-and-directx-normal-format.md)
 * [Perché ci sono strani tratti nelle mie texture dopo la cottura al forno o l&#39;esportazione?](../common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
-* [Perché la funzione Corrispondenza per nome non funziona con Occlusione/Thickness ambiente?](../common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
+* [Perché la funzione Corrispondenza per nome non funziona con Occlusione ambientale/Thickness?](../common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
 * [Perché la mia maglia è completamente nera dopo la cottura al forno?](../common-questions/why-mesh-fully-black-aft/why-is-my-mesh-fully-black-after-baking.md)
 
 </td>
@@ -122,11 +122,11 @@ La presente documentazione descrive le <b>nozioni fondamentali della cottura al 
 ### Problemi comuni
 
 * [Alias sulle giunture UV](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [L&#39;output Baker è completamente nero o vuoto](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-* [Baking non riuscito con Mappa colori da trama](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
+* [L&#39;output del baker è completamente nero o vuoto](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [Esegue i baking non riuscita con Mappe colori da mesh](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [Sulla superficie della trama è visibile una croce di ombreggiatura nera](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [Le parti della trama sanguinano tra loro](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)
-* [La mappa normale ha strane sfumature colorate](../common-issues/normal-map-has-strange/normal-map-has-strange-colorful-gradients.md)
+* [La mappa normale presenta strane sfumature colorate](../common-issues/normal-map-has-strange/normal-map-has-strange-colorful-gradients.md)
 * [La texture normale sembra sfaccettata](../common-issues/normal-texture-looks-fac/normal-texture-looks-faceted.md)
 * [Le cuciture sono visibili dopo la cottura di una texture normale](../common-issues/seams-are-visible-after/seams-are-visible-after-baking-a-normal-texture.md)
 * [Cucitura visibile su ogni volto](../common-issues/seam-visible-every-face/seam-visible-on-every-face.md)

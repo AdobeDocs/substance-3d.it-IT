@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate-substance.html"
 breadcrumb-title: ''
 description: Combina più materiali Substance in fase di runtime in Unreal Engine 5 utilizzando i nodi di aggregazione Blueprint per flussi di lavoro avanzati.
 helpx_creative_field: ""
@@ -21,7 +21,7 @@ ht-degree: 0%
 # Blueprint(UE5): Substance aggregata
 
 1. Utilizzare il nodo &quot;Create Aggregate Substance Factory&quot; e impostare Output and Input Factory. La fabbrica di output deve disporre di una mappa texture da utilizzare come immagine di input nei parametri della fabbrica di input.
-1. Create oggetti SubstanceConnection per ogni texture di output utilizzata come input con i nomi dei valori corrispondenti (il nome di output dal grafico di output e il nome del parametro di input dal grafico di input)
+1. Crea oggetti SubstanceConnection per ogni texture di output utilizzata come input con i nomi dei valori corrispondenti (il nome di output dal grafico di output e il nome del parametro di input dal grafico di input)
 1. Aggiungete un nodo Crea istanza grafico e inserite il risultato del nodo &quot;Crea fabbrica di Substance aggregate&quot; nell&#39;input Factory insieme a un materiale principale da usare come modello (questo può essere uno dei materiali predefiniti\_substance inclusi con il plug-in).
 1. Creare una variabile di istanza di Grafico Substance e memorizzare il risultato del nodo precedente.
 1. Facoltativo: impostare i parametri di sostanza desiderati (questo esempio imposta una nuova risoluzione per gli output del grafico).

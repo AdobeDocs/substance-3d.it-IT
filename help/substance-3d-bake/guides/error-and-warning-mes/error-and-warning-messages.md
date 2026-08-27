@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/guides/error-and-warning-messages.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
-description: Guida di riferimento per tutti i messaggi di errore e di avvertenza che possono apparire durante la cottura con il software Substance.
+description: Guida di riferimento per tutti i messaggi di errore e di avvertenza che possono apparire quando si esegue i baking con il software Substance.
 helpx_creative_field: ""
 helpx_description: bakers > Guides > Error and Warning Messages
 helpx_experience_level: ""
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Messaggi di errore e di avvertenza
 
-Di seguito è riportato l’elenco di tutti i messaggi di errore che possono essere visualizzati durante la cottura al forno con software Substance.
+Di seguito sono elencati tutti i messaggi di errore che possono essere visualizzati quando si esegue i baking con il software Substance.
 
-## Qualsiasi panettiere
+## Qualsiasi Baker
 
 | *Messaggio* | *Descrizione* |
 | --- | --- |
 | Baker non disponibile. | Questo messaggio di errore è generalmente seguito da messaggi di errore aggiuntivi, spesso correlati a problemi della GPU. Può accadere se la GPU è troppo datata e non soddisfa i [requisiti tecnici](https://www.allegorithmic.com/products/tech-specs) del software. |
 | Il set UV [X] non esiste. | Il Baker cercò di lavorare con un determinato set UV che non è presente nella trama a basso poli. |
-| Impossibile caricare la scena dall&#39;URL. | Questo messaggio indica che il fornaio non è stato in grado di caricare il file mesh, di solito la mesh poly alta. Questo messaggio può essere originato da alcuni motivi:<ul data-preserve-html="true"><li data-preserve-html="true">Il file mesh a cui si fa riferimento non esiste più.</li><li data-preserve-html="true">Il file mesh è danneggiato o interrotto e non può essere letto.</li><li data-preserve-html="true">La trama è attualmente in fase di modifica da un&#39;altra applicazione e non può essere letta.</li></ul> |
+| Impossibile caricare la scena dall&#39;URL. | Questo messaggio indica che il baker non è stato in grado di caricare il file mesh, in genere la mesh poly alta. Questo messaggio può essere originato da alcuni motivi:<ul data-preserve-html="true"><li data-preserve-html="true">Il file mesh a cui si fa riferimento non esiste più.</li><li data-preserve-html="true">Il file mesh è danneggiato o interrotto e non può essere letto.</li><li data-preserve-html="true">La trama è attualmente in fase di modifica da un&#39;altra applicazione e non può essere letta.</li></ul> |
 
-## UV per SVG Baker
+## BAKER UV-SVG
 
 | *Messaggio* | *Descrizione* |
 | --- | --- |
@@ -52,10 +52,10 @@ Di seguito è riportato l’elenco di tutti i messaggi di errore che possono ess
 | Impossibile trovare tangenti di vertice nella trama [nome trama]. | Come sopra. |
 | Impossibile trovare il binomio dei vertici nella trama [nome trama]. | Come sopra. |
 | Impossibile trovare i colori dei vertici nella trama [nome trama]. | Nessun colore dei vertici trovato nella trama specificata. Questo può accadere se almeno una sottorete nella trama di poli superiore non ha alcun colore di vertice definito. |
-| Dati insufficienti nel poly alto per utilizzare il fornaio selezionato. Interrompe il pane. | Preceduta da almeno uno dei messaggi precedenti. Normalmente, se nella scena mancano solo alcuni dati (ad esempio, una sola trama in una scena con poli elevato non presenta i colori dei vertici), il processo di cottura al forno riempie i dati mancanti con zeri e continua a cuocere. Se mancano troppi dati, questo messaggio viene inviato e il processo di cottura viene interrotto. |
+| Dati insufficienti nel poly alto per utilizzare il fornaio selezionato. Interruzione del eseguo i baking. | Preceduta da almeno uno dei messaggi precedenti. Normalmente, se nella scena manca solo un po’ di dati (ad esempio, una sola trama in una scena con poli elevato non ha colori di vertice), il processo di esegue i baking riempie i dati mancanti con zeri e continua a eseguire i baking. Se mancano troppi dati, questo messaggio viene generato e il processo di esegue i baking viene interrotto. |
 
-## Texture trasferita dalla trama
+## Texture trasferita da trama
 
 | *Messaggio* | *Descrizione* |
 | --- | --- |
-| Caricamento della texture dei dettagli non riuscito. | Impossibile caricare la texture definita nelle impostazioni del fornaio. Il problema potrebbe essere dovuto al fatto che il file non è presente sul disco o è danneggiato e non leggibile. |
+| Caricamento texture dettagli non riuscito. | Impossibile caricare la texture definita nelle impostazioni del baker. Il problema potrebbe essere dovuto al fatto che il file non è presente sul disco o è danneggiato e non leggibile. |

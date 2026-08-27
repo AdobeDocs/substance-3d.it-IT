@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-2.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in Unity versione 2.5.2 per scoprire le nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -32,9 +32,9 @@ Fisso:
 * Le proprietà dei materiali verranno trasferite quando si esegue l&#39;aggiornamento a HDRP e/o URP da Standard
 * Gli script che modificano il materiale Substance funzioneranno come previsto quando vengono distribuiti su dispositivi mobili
 * Canale rosso non viene più copiato in Alpha e l’Alpha predefinito viene impostato su Bianco
-* Arresto anomalo durante la modifica delle impostazioni di destinazione in Mac
+* Arresto anomalo sulla modifica delle impostazioni di destinazione in Mac
 * Errore NullReferenceException rimosso durante la creazione del materiale Unity
-* Errore rimosso quando si esce dalla modalità di riproduzione dopo aver modificato le proprietà di suddivisione in porzioni
+* Errore rimosso quando si esce dalla modalità di riproduzione dopo aver modificato le proprietà dell’Affiancamento
 * Attivare l’istanza GPU
 * I materiali che utilizzano la trasparenza non scompariranno o diventeranno neri in modo errato quando è attiva la modalità di riproduzione
 * I materiali Substance non verranno distrutti nel progetto HDRP durante l&#39;aggiornamento del plug-in

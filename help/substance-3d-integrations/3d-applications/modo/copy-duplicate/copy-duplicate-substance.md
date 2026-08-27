@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
 breadcrumb-title: ''
 description: Copia, copia o duplica i materiali di Substance in MODO da riutilizzare i materiali su più oggetti in modo efficiente.
 helpx_creative_field: ""

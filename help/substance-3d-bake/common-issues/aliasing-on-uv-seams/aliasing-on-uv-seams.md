@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
-description: Correggi gli artefatti di alias visualizzati sulle giunture UV durante la cottura regolando le impostazioni di antialiasing e riempimento.
+description: Correggi gli artefatti di alias visualizzati sulle giunture UV durante la esegue i baking regolando le impostazioni di antialiasing e spaziatura interna.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Aliasing on UV Seams
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **Problema**
 > 
-> Dopo la cottura al forno compaiono punti o macchie scure sul bordo delle giunture UV:
+> Dopo la esegue i baking, sul bordo delle giunture UV appaiono punti o macchie scure:
 > 
 > ![](../../assets/edge-aliasing.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 > 
 > Quando il Baker scrive le informazioni nella texture, queste devono essere convertite da geometria a pixel. L&#39;elaborazione di queste informazioni potrebbe introdurre [aliasing](https://en.wikipedia.org/wiki/Aliasing). L&#39;alias si verifica spesso perché la geometria degli UV non è allineata alla griglia dei pixel o perché gli UV non coprono un numero di pixel sufficiente a fornire una risoluzione sufficiente.
 > 
-> Nelle immagini seguenti la geometria è la sovrapposizione rossa. Il fornaio contrassegna un pixel come pieno se più della metà della sua superficie è coperta dalla geometria (i quadrati bianchi sono pixel pieni e i quadrati neri sono pixel vuoti). Nell’immagine a destra, la griglia di pixel ha una risoluzione doppia e consente una rappresentazione più accurata della geometria.
+> Nelle immagini seguenti la geometria è la sovrapposizione rossa. Il baker contrassegnerà un pixel come pieno se più della metà della sua superficie è coperta dalla geometria (i quadrati bianchi sono pixel pieni e i quadrati neri sono pixel vuoti). Nell’immagine a destra, la griglia di pixel ha una risoluzione doppia e consente una rappresentazione più accurata della geometria.
 > 
 > ![](../../assets/aliasing-example-large.png)
 > 
@@ -44,7 +44,7 @@ ht-degree: 0%
 >
 > **Soluzione**
 > 
-> * Aumentate la risoluzione della texture di output dei forni.
+> * Aumenta la risoluzione della texture di output dei Baker.
 > * Aumentare l&#39;impostazione Anti-alias (nota: il calcolo potrebbe richiedere più tempo).
 > * Allinea gli UV alla griglia pixel nell&#39;editor UV del software di modellazione 3D.
 > * Offrite una migliore proporzione di texel rispetto agli UV.

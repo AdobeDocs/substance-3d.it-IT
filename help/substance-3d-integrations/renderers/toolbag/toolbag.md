@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: Usa la rugosità delle Substance e gli output metallici in Toolbag 2 per l’anteprima e il rendering del materiale in tempo reale.
 helpx_creative_field: ""

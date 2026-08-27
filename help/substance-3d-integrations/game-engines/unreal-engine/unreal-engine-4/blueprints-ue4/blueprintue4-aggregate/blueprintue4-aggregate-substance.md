@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate-substance.html"
 breadcrumb-title: ''
 description: Combina più materiali Substance in fase di runtime in Unreal Engine 4 utilizzando i nodi di aggregazione Blueprint per flussi di lavoro avanzati.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Blueprint(UE4): Substance aggregata
 
-Il nuovo nodo della sostanza aggregata consente di prendere due factory di istanze di sostanze e creare una nuova factory di istanze in fase di esecuzione che può essere utilizzata per creare una nuova istanza del grafico. Ciò che rende speciale questa operazione è che potete connettere le texture di output da una delle istanze del grafico combinato alle immagini di input dell’altra istanza del grafico combinato. Per creare un&#39;istanza del grafico Substance da questa nuova fabbrica, consulta la nostra documentazione sulle istanze del grafico runtime. [Definizione istanza materiale - UE4](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/material-instance-definition-157352129.html)
+Il nuovo nodo della sostanza aggregata consente di prendere due factory di istanze di sostanze e creare una nuova factory di istanze in fase di esecuzione che può essere utilizzata per creare una nuova istanza del grafico. Ciò che rende speciale questa operazione è che potete connettere le texture di output da una delle istanze del grafico combinato alle immagini di input dell’altra istanza del grafico combinato. Per creare un&#39;istanza del grafico Substance da questa nuova fabbrica, consulta la nostra documentazione sulle istanze del grafico runtime. [Definizione istanza materiale - UE4](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/material-instance-definition-157352129.html)
 
 1. Importa la Substance che desideri utilizzare.
 1. Creare una variabile &quot;AggregateGraphInstance&quot; di tipo **Istanza di Grafico Substance**.
@@ -36,6 +36,6 @@ Il nuovo nodo della sostanza aggregata consente di prendere due factory di istan
 
    ![](../../../../../assets/a2-3.png){width="800px"}
 1. Impostate i canali per il materiale come mostrato nei documenti dell’istanza dinamica del materiale (punti 11-19)\
-   [Blueprint(UE4): istanza di materiale dinamico](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+   [Blueprint(UE4): istanza di materiale dinamico](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
 
    ![](../../../../../assets/a4-3.png){width="800px"}

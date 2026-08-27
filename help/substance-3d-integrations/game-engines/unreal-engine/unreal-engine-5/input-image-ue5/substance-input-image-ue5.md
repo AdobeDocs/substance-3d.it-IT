@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
 breadcrumb-title: ''
 description: Utilizza le texture delle immagini come parametri di input per i materiali di Substance in Unreal Engine 5 per creare materiali modulari.
 helpx_creative_field: ""

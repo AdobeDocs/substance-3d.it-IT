@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/octane/octane-for-modo.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-modo.html"
 breadcrumb-title: ''
 description: Utilizzate i materiali Substance con il modulo di rendering per ottani in MODO tramite i materiali Live DB e le configurazioni di output corrette.
 helpx_creative_field: ""
@@ -22,17 +22,17 @@ ht-degree: 0%
 
 ## Substance nel plug-in MODO
 
-Gli output della Substance funzionano in modo nativo con Octane. Puoi utilizzare i seguenti output di Substance e configurazioni di effetti per i livelli di texture.
+Gli output della Substance funzionano in modo nativo con Octane. Puoi utilizzare i seguenti output di Substance e configurazioni di effetti di livello texture.
 
-1. Crea una Substance>Texture>Crea Substance e imposta la modalità su Materiale irreale. L&#39;uso di materiale irreale consente di visualizzare la texture nella finestra della vista OGL avanzata.
+1. Crea una Substance>Texture>Crea Substance e imposta la modalità su Materiale irreale. L&#39;utilizzo di materiale non reale consente di visualizzare la texture nella finestra della vista OGL avanzata.
 1. Crea output per colore di base, metallizzato, rugosità e normale.
-1. MODO utilizza le mappe Normale OGL. Nelle proprietà della Substance, è necessario modificare la direzione normale in OpenGL.
+1. MODO utilizza Mappe normali OGL. Nelle proprietà della Substance, è necessario modificare la direzione normale in OpenGL.
 
    ![](../../../assets/ogl.png)
-1. Caricare il predefinito Substance PBR. Questo predefinito è una sostituzione di ottano. Trascinalo nel gruppo shader.
+1. Caricare il predefinito Substance PBR. Questo predefinito è una sostituzione di ottano. Trascinarlo nel gruppo di shader.
 
    [Substance\_PBR.lxp](https://helpx.adobe.com/content/dam/help/en/substance-3d/documentation/integrations/files/162005234/162005272/1/1502792782697/substance-pbr.lxp)
-1. Selezionate l&#39;esclusione e trascinate gli output della Substance dal Browser clip nella Vista schematica. Prendere il nodo con l&#39;output del nome file e collegarlo al nodo di input appropriato, ad esempio il colore di base → il colore di base.
+1. Selezionate l&#39;esclusione e trascinate gli output della Substance dal Browser clip nella Vista schematica. Prendere il nodo con il nome file di output e collegarlo al nodo di input appropriato, ad esempio colore di base → colore di base.
 
    ![](../../../assets/connect-6.png)
 1. Collegare le altre uscite della Substance

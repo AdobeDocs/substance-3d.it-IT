@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance con V-Ray Next in 3ds Max tramite le mappe esportate o il plug-in Substance per il rendering.
 helpx_creative_field: ""

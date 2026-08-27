@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: Scopri il componente aggiuntivo Substance 3D per Blender e come importare e lavorare con i materiali Substance nei tuoi progetti.
 helpx_creative_field: ""
@@ -38,7 +38,7 @@ Il componente aggiuntivo Substance 3D consente di importare materiali di Substan
 
 ## Il pannello Substance 3D
 
-Il pannello Substance 3D viene utilizzato per gestire i materiali di Substance in un progetto e regolarne i singoli parametri. La sezione Parametri del grafico contiene i controlli per la risoluzione delle texture, la suddivisione in porzioni, la randomizzazione e i predefiniti. La sezione output contiene i controlli per i formati immagine delle texture generate. La sezione Parametro Substance è dove è possibile regolare i parametri della Substance.
+Il pannello Substance 3D viene utilizzato per gestire i materiali di Substance in un progetto e regolarne i singoli parametri. La sezione Parametri del grafico contiene i controlli per la risoluzione delle texture, l’Affiancamento, la randomizzazione e i predefiniti. La sezione output contiene i controlli per i formati immagine della texture generata. La sezione Parametro Substance è dove è possibile regolare i parametri della Substance.
 
 Per ulteriori informazioni, consulta la pagina del [pannello Substance 3D](../../../3d-applications/blender/the-3d-panel/the-substance-3d-panel.md).
 
@@ -72,7 +72,7 @@ Per ulteriori informazioni, consulta la pagina [Preferenze](../../../3d-applicat
 
 ## Trova altri materiali per la Substance
 
-Migliaia di materiali e altre risorse professionali sono disponibili per il download nella [pagina](https://helpx.adobe.com/it/substance-3d/unlisted/assets.html). Molte altre risorse condivise gratuitamente dalla community sono disponibili nella [pagina Risorse della community Substance 3D](https://helpx.adobe.com/it/substance-3d/unlisted/community-assets.html)
+Migliaia di materiali e altre risorse professionali sono disponibili per il download nella [pagina](https://helpx.adobe.com/substance-3d/unlisted/assets.html). Molte altre risorse condivise gratuitamente dalla community sono disponibili nella [pagina Risorse della community Substance 3D](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)
 
 ## Community
 

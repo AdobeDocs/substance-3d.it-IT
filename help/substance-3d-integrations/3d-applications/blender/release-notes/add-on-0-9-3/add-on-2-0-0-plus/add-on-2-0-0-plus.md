@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il componente aggiuntivo Blender versione 2.0.0 e successive per scoprire le nuove funzioni e i miglioramenti.
 helpx_creative_field: ""
@@ -52,7 +52,7 @@ Questo aggiornamento include il supporto per Blender 4.0+ e diverse nuove funzio
 
 <b>Aggiunto/Aggiornato:</b>
 
-* È stata aggiunta la funzionalità del connettore Substance (supporta i file SBSAR e USD).
+* È stata aggiunta la funzionalità del connettore Substance (supporta file SBSAR e file USD).
 * Supporto per Blender 4.0+.
 * Supporto per SRE versione 2.1.0.
 * In Preferenze Componenti Aggiuntivi:
@@ -64,7 +64,7 @@ Questo aggiornamento include il supporto per Blender 4.0+ e diverse nuove funzio
   * È stata aggiunta una casella di controllo per selezionare il comportamento predefinito della proprietà Aggiorna solo texture.
   * Avvia automaticamente il motore remoto di Substance all’apertura del modulo di fusione (importante che sia abilitato se si utilizza Connettore).
 * In Componente aggiuntivo:
-  * Aggiunte solo le texture di aggiornamento (consente di modificare i parametri senza ricreare il grafico del nodo).
+  * Aggiunto solo aggiorna texture (consente di modificare i parametri senza ricreare il grafico del nodo).
   * Sono stati aggiunti i pulsanti Espandi tutti i gruppi e Comprimi tutti i gruppi.
   * È stato aggiunto il gruppo Immagine di input per raggruppare tutte le immagini di input, se necessario in un SBSAR.
   * I parametri immessi vengono ora visualizzati nello stesso ordine di Designer.

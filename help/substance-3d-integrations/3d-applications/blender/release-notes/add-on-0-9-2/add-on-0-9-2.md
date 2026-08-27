@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-2.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il componente aggiuntivo Blender versione 0.9.2 per scoprire le nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ***Note sulla versione per il componente aggiuntivo 0.9.2***
 
-* *È stata corretta la copia dei file di fusione nella cartella delle texture.*
+* *È stata corretta la copia dei file di Blender nella cartella texture.*

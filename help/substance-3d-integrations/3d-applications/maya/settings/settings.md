@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
 description: Configura le impostazioni del plug-in Substance in Maya tramite lo scaffale o il menu Substance per personalizzare il comportamento.
 helpx_creative_field: ""
@@ -47,7 +47,7 @@ Imposta il flusso di lavoro di rendering predefinito da utilizzare nel nodo Subs
 
 ## Substance Engine
 
-Impostazione delle preferenze specifiche per la Substance Engine e globali in tutti i nodi della Substance. Il motore di Substance viene utilizzato per calcolare le texture delle Substance.
+Impostazione delle preferenze specifiche per la Substance Engine e globali in tutti i nodi della Substance. Il motore di Substance viene utilizzato per calcolare le texture Substance.
 
 ### Tipo di motore
 

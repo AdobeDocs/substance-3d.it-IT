@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-5.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in Unity versione 2.4.5 per scoprire le nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -27,18 +27,18 @@ Rilasciato il 6 aprile 2020
 * Aggiunto: aggiornare le impostazioni di destinazione in base alla risoluzione della CPU
 * Aggiunto: Impostazione risoluzione massima motore CPU (impostazione 4k o 2k)
 * Aggiunto: convertire Substance non HDRP in un progetto HDRP
-* Corretto: arresto anomalo durante l’importazione di grandi quantità di Substance
+* Fisso: Arresto anomalo durante l’importazione di grandi quantità di Substance
 * Corretto: eccezione quando si fa clic su reimporta in modalità di riproduzione dopo aver modificato i parametri di Substance
-* Fisso: convalida della risoluzione dell’output (texture) ( API per limitare il motore CPU a 2K) Preferenza utente per impostare il valore predefinito su 4K
+* Fisso: convalida della risoluzione di output (texture) ( API per limitare il motore CPU a 2 KB) Preferenza utente per impostare il valore predefinito su 4K
 * Corretto: se si fa clic su &quot;Genera mappe mappa mappa&quot; in un grafico a Substance in modalità di riproduzione, la modifica dei parametri provoca un blocco infinito
-* Corretto: durante l’utilizzo del plug-in Substance in un progetto HDRP, l’utilizzo della compressione Nessuna imposta le texture della scala di grigi sull’Alpha 8
+* Corretto: durante l’utilizzo del plug-in Substance in un progetto HDRP, l’utilizzo della compressione Nessuna imposta le texture in scala di grigi sull’Alpha 8
 * Corretto: GameObject deselezionato in modalità di riproduzione
 * Fisso: la mappa di rugosità non viene aggiornata con la modifica del parametro
 * Corretto: l’output della maschera non viene generato correttamente per alcuni file di Substance in HDRP
-* Corretto: arresto anomalo durante il passaggio dal menu a discesa della mappa alfa compressa tra due opzioni
+* Fisso: Arresto anomalo quando si passa dal menu a discesa della mappa alfa compressa a un’altra opzione
 * Corretto: la casella di controllo dell&#39;istanza GPU viene ripristinata quando si fa clic all&#39;esterno del materiale della Substance.
 * Fisso: quando si utilizza la funzione Duplicate(), il grafico della Substance duplicato non dispone dello smoothness inserito correttamente nell&#39;alfa del metallizzato.
-* Corretto: se si cambia la destinazione di creazione in Android, le texture risultano nel formato errato fino a quando non vengono reimportate manualmente.
+* Corretto: se si cambia la destinazione di creazione in Android, il formato della texture risulta errato fino a quando non viene reimportata manualmente.
 * Corretto: l&#39;eliminazione di un file di Substance in Unity causerà un NullReferenceException.
 * Corretto: disabilitare l’uso delle API HDRP di Unity 2019.3 per le versioni precedenti
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: Scoprite cos'è il baking e scoprite come salvare le informazioni sulla trama 3D nei file di texture per migliorare i materiali Substance.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
+>> 
 
 (Crediti: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0))
 
@@ -50,7 +50,7 @@ Questo processo di cottura si basa sulle proprietà della trama, motivo per cui 
 
 ## Che tipo di informazioni puoi fare?
 
-Molti tipi di informazioni possono essere analizzati. Tuttavia, in generale, è necessario solo un insieme specifico, in quanto può essere estrapolato per creare risultati più avanzati in un secondo momento. Questo è il motivo per cui ci sono un tipo comune di processo di cottura che può essere trovato in più software.
+Molti tipi di informazioni possono essere eseguiti i baking. Tuttavia, in generale, è necessario solo un insieme specifico, in quanto può essere estrapolato per creare risultati più avanzati in un secondo momento. Questo è il motivo per cui ci sono un tipo comune di processo di cottura che può essere trovato in più software.
 
 Ad esempio, un software di Substance è in grado di generare il seguente tipo di informazioni:
 

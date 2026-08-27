@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: Scopri le scelte rapide da tastiera per il componente aggiuntivo Substance 3D in Blender e personalizza le associazioni dei tasti per maggiore efficienza.
 helpx_creative_field: ""

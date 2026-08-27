@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare il plug-in Substance in Cinema 4D per importare materiali e gestire le risorse Substance.
 helpx_creative_field: ""
@@ -43,4 +43,4 @@ Questo messaggio viene visualizzato una sola volta per ogni importazione (ad ese
 
 >[!NOTE]
 >
-> Proprio come con tutti gli altri comandi in Cinema 4D, questi due comandi possono essere integrati ovunque nel layout e/o configurati con una scelta rapida da tastiera per un accesso rapido.
+> Proprio come con tutti gli altri comandi in Cinema 4D, questi due comandi possono essere integrati in qualsiasi punto del layout e/o configurati con una scelta rapida da tastiera da tastiera per un accesso rapido.

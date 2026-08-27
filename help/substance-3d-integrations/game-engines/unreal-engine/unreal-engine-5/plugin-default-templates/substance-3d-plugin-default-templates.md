@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
 breadcrumb-title: ''
 description: Scopri i modelli di materiale predefiniti forniti dal plug-in Substance 3D per i flussi di lavoro di Unreal Engine 5.
 helpx_creative_field: ""

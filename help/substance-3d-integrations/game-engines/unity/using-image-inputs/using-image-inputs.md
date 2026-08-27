@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
 breadcrumb-title: ''
 description: Utilizza le texture delle immagini come parametri di input per i materiali di Substance in Unity per migliorare la personalizzazione del materiale.
 helpx_creative_field: ""

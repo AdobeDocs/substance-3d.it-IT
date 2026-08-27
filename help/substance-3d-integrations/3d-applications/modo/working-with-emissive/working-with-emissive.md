@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
 breadcrumb-title: ''
-description: Configurare le proprietà di emissione per i materiali Substance in MODO per controllare la quantità luminosa e le impostazioni del colore.
+description: Configura le proprietà degli emissivi per i materiali Substance in MODO per controllare le impostazioni della quantità luminosa e del colore.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Working with Emissive
 helpx_experience_level: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Utilizzo di Emissive
 
-## Utilizzo dell’effetto Emissivo (quantità e colore luminosi)
+## Utilizzo dell’Emissivo (quantità e colore luminosi)
 
-La Substance può avere un output di emissione opzionale. Potete usare questo metodo come Quantità luminosa e Colore in MODO. Quando attivi l’output di emissione, questo viene impostato sull’effetto Quantità luminosa. Per impostazione predefinita, questo canale viene interpretato come lineare nella scheda Texture immagine fissa.\
-Fate clic con il pulsante destro del mouse sulla texture nell’albero Shader e scegliete Duplica. Quindi, impostate la texture emissiva duplicata sull’effetto Colore luminoso. Potete quindi apportare modifiche ai valori più alto e più basso per la texture che determina l’effetto Quantità luminosa per intensificare ulteriormente il valore.
+La Substance può avere un output emissivo opzionale. Potete usare questo metodo come Quantità luminosa e Colore in MODO. Quando attivi l’output emissivo, questo viene impostato sull’effetto Quantità luminosa. Per impostazione predefinita, questo canale viene interpretato come lineare nella scheda Texture immagine fissa.\
+Fate clic con il pulsante destro del mouse sulla texture nella struttura ad albero Shader e scegliete duplica. Quindi, impostate la texture emissivo duplicata sull’effetto Colore luminoso. Potete quindi apportare modifiche ai valori più alto e più basso per la texture che determina l’effetto Quantità luminosa per intensificare ulteriormente il valore.
 
 >[!NOTE]
 >
@@ -33,8 +33,8 @@ Per ottenere un effetto fiorito, è necessario abilitare Bloom nel pannello Rend
 
 ![](../../../assets/bloom.png)
 
-Per i materiali Unreal e Unity, l&#39;output Emissivo è gestito in modo specifico dal materiale.\
-Irreale = Irreale Emissivo\
+Per i materiali Unreal e Unity, l&#39;output Emissivo viene gestito in modo specifico dal materiale.\
+Irreale = Emissivo irreale\
 Unità = Emissioni unitarie
 
-Le texture Emissione irreale e Emissione unitaria devono essere modificate da Lineare a sRGB nella scheda Immagine fissa.
+Le texture di emissione Unreal Emissivo e Unity devono essere modificate da Lineare a sRGB nella scheda Immagine fissa.

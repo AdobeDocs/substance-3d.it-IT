@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in Unity versione 3.0.0 per scoprire le nuove funzioni, i miglioramenti e le modifiche.
 helpx_creative_field: ""
@@ -46,7 +46,7 @@ Fisso:
 * Errori &quot;Handle già rilasciato&quot;
 * Problema di tipo &quot;attivazione della modalità di riproduzione blu spostata&quot;
 * Problema di mappatura del height con i file sbsar
-* Problema con gli input dell’immagine che leggono texture illeggibili
+* Problema con gli input dell’immagine che leggono texture illeggibile
 
 Problemi noti:
 

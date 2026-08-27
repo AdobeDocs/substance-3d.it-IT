@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: Riferimento per la curvatura deprecata dal fornaio di trama. Utilizzate invece la curvatura aggiornata dal fornaio della trama.
 helpx_creative_field: ""

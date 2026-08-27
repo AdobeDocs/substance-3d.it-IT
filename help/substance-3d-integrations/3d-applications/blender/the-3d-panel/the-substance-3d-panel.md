@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare il pannello Substance 3D in Blender per gestire materiali, parametri e output.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 **Applica** - Collegate il materiale Substance 3D selezionato agli oggetti selezionati in un nuovo slot di materiale. Questa operazione non sostituisce le precedenti assegnazioni di materiale sull&#39;oggetto.
 
-**Risorse community Substance 3D**: apre la pagina Risorse community Substance 3D nel browser Web.
+**Substance 3D Community Assets**: apre la pagina di Substance 3D Community Assets nel browser Web.
 
 **Substance 3D Assets**: apre la pagina di origine della Substance 3D Assets nel browser Web.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 >
 > **Avviso:**
 > 
-> Se si utilizza il pulsante Aggiorna, eventuali modifiche apportate dall’utente al grafico shader verranno annullate. Copia tutti i nodi aggiunti dall&#39;utente prima dell&#39;aggiornamento per incollarli nel grafico dopo l&#39;aggiornamento.
+> Se si utilizza il pulsante Aggiorna, eventuali modifiche apportate dall’utente al grafico a shader vengono annullate. Copia tutti i nodi aggiunti dall&#39;utente prima dell&#39;aggiornamento per incollarli nel grafico dopo l&#39;aggiornamento.
 
 **Rimuovi**: rimuove il materiale Substance 3D selezionato dal pannello.
 
@@ -66,7 +66,7 @@ I parametri esposti in Substance Designer possono essere regolati mediante i con
 
 Il formato di file delle texture di output può essere alternato e modificato tramite i menu a discesa.
 
-Per ulteriori informazioni, vedere [Esposizione di un parametro](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) nella pagina della documentazione di Designer.
+Per ulteriori informazioni, vedere [Esposizione di un parametro](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) nella pagina della documentazione di Designer.
 
 ## Parametri tecnici
 

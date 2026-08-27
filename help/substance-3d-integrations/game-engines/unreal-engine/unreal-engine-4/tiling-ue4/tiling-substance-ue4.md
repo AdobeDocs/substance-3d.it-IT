@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
 breadcrumb-title: ''
-description: Affianca le texture Substance in Unreal Engine 4 aggiungendo i nodi delle coordinate della texture e i parametri scalari ai materiali.
+description: Affianca texture Substance in Unreal Engine 4 aggiungendo nodi di coordinate Texture e parametri scalari ai materiali.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Tiling Substance - UE4
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance in porzioni - UE4
 
-Per affiancare una texture di una sostanza, dovete aggiungere un nodo di coordinate della texture e moltiplicarlo per un parametro scalare.
+Per affiancare una texture Substance, dovrete aggiungere un nodo Coordinate Texture e moltiplicarlo per il parametro scalare.
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Coordinates/#texturecoordinate>
 

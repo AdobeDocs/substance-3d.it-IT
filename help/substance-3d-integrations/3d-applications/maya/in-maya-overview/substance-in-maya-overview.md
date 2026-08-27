@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
 breadcrumb-title: ''
 description: Scopri il plug-in Substance per Maya e come importare e utilizzare i materiali Substance nel tuo flusso di lavoro.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Panoramica del plug-in
 
-Il plug-in Substance consente di caricare il materiale della Substance creato nel Substance Designer direttamente in Maya. Il plug-in creerà un materiale Maya e immetterà le texture della sostanza negli input dei canali dei materiali. Potete quindi apportare modifiche ai parametri della sostanza e le texture verranno aggiornate automaticamente.
+Il plug-in Substance consente di caricare il materiale della Substance creato nel Substance Designer direttamente in Maya. Il plug-in creerà un materiale Maya e alimenterà le texture della sostanza negli input dei canali dei materiali. Puoi quindi apportare modifiche ai parametri Substance e le texture verranno aggiornate automaticamente.
 
 >[!NOTE]
 >
@@ -36,16 +36,16 @@ Il plug-in Substance consente di caricare il materiale della Substance creato ne
 
    ![](../../../assets/createnode.png)
 
-   Puoi anche premere TAB nell’editor dei nodi e nel campo di testo, digita substance per filtrare in base alle opzioni substance. Dalle opzioni, scegliete Substance texture.
+   Puoi anche premere TAB nell’editor dei nodi e nel campo di testo, digita substance per filtrare in base alle opzioni substance. Dalle opzioni, scegli Substance Texture.
 1. Selezionare il nodo Substance e nell&#39;Editor proprietà e sfogliare per caricare un file di Substance (.sbsar).
 
    ![](../../../assets/1.png)
 1. Il menu a discesa Grafico selezionato verrà compilato se la Substance contiene più grafici. Il grafico scelto verrà utilizzato per creare il materiale.
 1. Il pulsante Informazioni grafico consente di visualizzare gli attributi del grafico impostati in Substance Designer.
 1. Impostate la Risoluzione scegliendo un valore dalla casella a discesa Larghezza e Height. Blocca rapporto è attivato per impostazione predefinita.
-1. Attivate Cache Outputs to Disk per eseguire il baking degli output della Substance su disco in modo che possano essere utilizzati con renderer come Arnold. Il file memorizzato nella cache verrà riletto dal plug-in utilizzando un nodo di file Maya.
+1. Abilita Cache Outputs to Disk per eseguire i baking la Substance Outputs to disk in modo che possa essere utilizzata con renderer come Arnold. Il file memorizzato nella cache verrà riletto dal plug-in utilizzando un nodo di file Maya.
 
    ![](../../../assets/outputsettings.png)
-1. Scegliete un flusso di lavoro per il modulo di rendering in uso e fate clic sul pulsante Crea rete shader. Viene creata una rete di shader per il flusso di lavoro del modulo di rendering. Ora puoi applicare il materiale nella scena.
+1. Scegliete un flusso di lavoro per il modulo di rendering in uso e fate clic sul pulsante Crea rete a Shader. Viene creata una rete di shader per il flusso di lavoro del modulo di rendering. Ora puoi applicare il materiale nella scena.
 
    ![](../../../assets/createnetwork.gif){width="1000px"}
