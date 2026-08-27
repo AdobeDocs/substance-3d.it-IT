@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
 breadcrumb-title: ''
 description: Usa i predefiniti incorporati dai file Substance o crea predefiniti personalizzati per salvare le configurazioni dei parametri in 3ds Max.
 helpx_creative_field: ""

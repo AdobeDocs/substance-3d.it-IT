@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
 breadcrumb-title: ''
 description: Usa le impostazioni della dimensioni fisiche in Maya per applicare il materiale della Substance su scala reale per una visualizzazione accurata.
 helpx_creative_field: ""

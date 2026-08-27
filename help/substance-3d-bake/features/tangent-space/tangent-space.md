@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/tangent-space.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
 description: Scopri come Substance Bakers gestisce i calcoli dello spazio tangente e personalizza l'algoritmo per il tuo flusso di lavoro.
 helpx_creative_field: ""

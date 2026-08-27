@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Scoprite come utilizzare Substance Baker per calcolare le informazioni basate su mesh in file texture e migliorare il flusso di lavoro di creazione delle texture.
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ Questa documentazione descrive le <b>nozioni fondamentali per eseguire i baking<
 ### Problemi comuni
 
 * [Alias sulle giunture UV](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [L&#39;output del baker è completamente nero o vuoto](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [L&#39;output del baker è completamente nero o vuoto](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [Esegue i baking non riuscita con Mappe colori da mesh](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [Sulla superficie della trama è visibile una croce di ombreggiatura nera](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [Le parti della trama sanguinano tra loro](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

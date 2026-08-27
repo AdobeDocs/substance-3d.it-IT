@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Modificate i parametri del materiale Substance in fase di runtime in Unreal Engine 5 utilizzando i nodi di Blueprint per il controllo dinamico del materiale.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Modifica di un parametro float:
 
-Per modificare i parametri float, color(float4) e booleano della sostanza, utilizzare il [nodo Float di input](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html).
+Per modificare i parametri float, color(float4) e booleano della sostanza, utilizzare il [nodo Float di input](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html).
 
 1. Create una variabile con un tipo di &quot;Istanza di Grafico Substance&quot; come riferimento.\
    \**A tale scopo, aggiungere una variabile nella scheda Progetto e assegnarle un nome. Nel menu a discesa, cerca Istanza di Grafico Substance > Riferimento a oggetto. Trascinate la variabile nel grafico e selezionate Ottieni (nome variabile). Impostare l&#39;istanza di Grafico Substance nella sezione Valore predefinito della scheda Dettagli.*

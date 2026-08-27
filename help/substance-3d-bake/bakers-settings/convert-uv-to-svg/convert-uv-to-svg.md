@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: Trasforma UV con trama in file di grafica vettoriale che possono essere utilizzati per creare maschere e sovrapposizioni precise.
 helpx_creative_field: ""

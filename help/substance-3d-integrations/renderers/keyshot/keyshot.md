@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance nel modulo di rendering Keyshot per la visualizzazione del prodotto con le mappe delle texture esportate.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/it/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Utilizzate la funzione Corrispondenza per nome (Matching by Name) per isolare le trame di poli bassi e alti e impedire il sanguinamento della geometria durante la eseguita i baking.
 helpx_creative_field: ''
@@ -91,7 +91,7 @@ La corrispondenza per nome può essere abilitata in [Parametri comuni](../../bak
 I suffissi predefiniti sono \_low e \_high e possono essere modificati nel modo seguente:
 
 * **Substance Painter**: nella [finestra di cottura](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), entro i parametri comuni.
-* **Substance Designer**: nelle [impostazioni del progetto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings), sotto le impostazioni del forno.
+* **Substance Designer**: nelle [impostazioni del progetto](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/workspace/preferences/project-settings), sotto le impostazioni del forno.
 
 ## Trame ad alto poli da zBrush
 
