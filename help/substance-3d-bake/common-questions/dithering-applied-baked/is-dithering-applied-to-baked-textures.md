@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **Domanda**
 > 
-> I Baker supportano il dithering con texture [1} e, in caso affermativo, quando viene applicato?](https://en.wikipedia.org/wiki/Dither)
+> I Baker supportano il dithering con texture [1&rbrace; e, in caso affermativo, quando viene applicato?](https://en.wikipedia.org/wiki/Dither)
 
 >[!NOTE]
 >

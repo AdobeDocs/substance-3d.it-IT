@@ -73,7 +73,7 @@ Il baker è il punto in cui potete scegliere quale texture eseguita i baking gen
 * **Aggiunta nuovo baker:** Fare clic sul pulsante &quot;Aggiungi Baker&quot;.
 * **Rimozione di un baker:** Selezionare il baker nell&#39;elenco, quindi fare clic sul pulsante &quot;Elimina baker&quot;.
 * **Spostamento di un baker all&#39;inizio:** Selezionare il baker nell&#39;elenco, quindi fare clic sul pulsante &quot;Pull to top&quot;.
-* **Spostamento verso il basso di un baker:**selezionare il baker nell&#39;elenco, quindi fare clic sul pulsante &quot;Premere verso il basso&quot;.
+* **Spostamento verso il basso di un baker:**&#x200B;selezionare il baker nell&#39;elenco, quindi fare clic sul pulsante &quot;Premere verso il basso&quot;.
 
 Per impostazione predefinita, ogni baker nell’area eredita i valori predefiniti (vedi sopra). È possibile, ad esempio, ignorare le dimensioni (risoluzione) facendo clic sulla cella sulla riga del baker. Questo vale per le altre impostazioni della riga.
 

@@ -60,24 +60,24 @@ Le tabelle seguenti elencano il supporto Raytracing GPU per ogni panettiera, in 
 
 | Baker | Supporta Raytracing GPU |
 | --- | --- |
-| Occlusione ambientale | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normale con curvatura | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Colora | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Curvatura | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Altezza | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normale | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Spazio mondo normale | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Occlusione ambientale | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normale con curvatura | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Colora | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Curvatura | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Altezza | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normale | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Spazio mondo normale | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 
 | Baker | Supporta Raytracing GPU |
 | --- | --- |
-| Maschera di opacità | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Posizione | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Posizione bassa | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Spessore | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Texture trasferita | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Da mondo a tangente | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Maschera di opacità | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Posizione | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Posizione bassa | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Spessore | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Texture trasferita | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Da mondo a tangente | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ Le tabelle seguenti elencano il supporto Raytracing GPU per ogni panettiera, in 
 
 | Baker | Supporta Raytracing GPU |
 | --- | --- |
-| Occlusione ambientale | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Occlusione ambientale da trama | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Mappa normale da trama | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Colore da trama | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Converti UV in SVG | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Curvatura da trama | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Altezza da trama | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Normale da trama | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| Occlusione ambientale | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Occlusione ambientale da trama | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Mappa normale da trama | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Colore da trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Converti UV in SVG | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Curvatura da trama | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Altezza da trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Normale da trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | Baker | Supporta Raytracing GPU |
 | --- | --- |
-| Maschera di opacità dalla trama | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Posizione da trama | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Posizione | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Spessore da trama | <div><img alt="(spuntare)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Texture trasferita da trama | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Direzione dello spazio mondiale | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Normali spaziali mondiali | <div><img alt="(errore)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Maschera di opacità dalla trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Posizione da trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Posizione | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Spessore da trama | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Texture trasferita da trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Direzione dello spazio mondiale | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Normali spaziali mondiali | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 \*: supporta il raytracing CPU, che è notevolmente più lento del Raytracing GPU.
