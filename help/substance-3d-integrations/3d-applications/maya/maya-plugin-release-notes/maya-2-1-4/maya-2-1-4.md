@@ -24,6 +24,6 @@ Rilasciato il 26 giugno 2020
 
 Elenco modifiche:
 
-* L’utilizzo di file di immagine con meno di quattro canali come input di immagine non si arresta più in modo anomalo
+* L’utilizzo di file di immagine con meno di quattro canali come input di immagine non genera più arresti anomali
 
 Questa versione è rilasciata per Maya 2017, 2018, 2019 e 2020 su Linux, MacOS e Windows e per Maya LT 2018, 2019 e 2020 su MacOS e Windows

@@ -25,5 +25,5 @@ Rilasciato il 6 novembre 2020 su Epic Games Marketplace
 Correzioni:
 
 * Funzione Substance Painter Live Link quando si utilizzano le versioni di Painter 6.2.0 e 6.2.1
-* Arresto anomalo durante l’aggiornamento di diverse sostanze da progetti legacy
+* Arresto anomalo di aggiornamento di più sostanze da progetti preesistenti
 * Avvisi di compilazione

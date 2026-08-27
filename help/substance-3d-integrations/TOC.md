@@ -30,7 +30,7 @@ ht-degree: 2%
       + [Uso modello materiale - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
       + [Modelli di materiale pronti all&#39;uso](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md)
       + [Dimensioni fisiche - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-      + [Substance in porzioni - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
+      + [Substance Affiancamento - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
       + [Modelli predefiniti plug-in di Substance 3D](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
       + [Utilizzo libreria Substance 3D Assets - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
       + Blueprint - UE5{#blueprints-ue5}

@@ -47,7 +47,7 @@ Imposta il flusso di lavoro di rendering predefinito da utilizzare nel nodo Subs
 
 ## Substance Engine
 
-Impostazione delle preferenze specifiche per la Substance Engine e globali in tutti i nodi della Substance. Il motore di Substance viene utilizzato per calcolare le texture delle Substance.
+Impostazione delle preferenze specifiche per la Substance Engine e globali in tutti i nodi della Substance. Il motore di Substance viene utilizzato per calcolare le texture Substance.
 
 ### Tipo di motore
 

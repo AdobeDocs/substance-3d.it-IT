@@ -30,7 +30,7 @@ Potete utilizzare le istanze dei materiali UE5 con le Substance. In questo modo 
 1. Fai clic con il pulsante destro del mouse sulla factory dell&#39;istanza di substance e scegli &quot;Crea un&#39;istanza del grafico&quot;. In questo modo viene creata un&#39;istanza del grafico e viene creato un altro materiale UE5. Eliminate il materiale UE5 appena creato poiché non verrà utilizzato.
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-10-38-pm.png)
-1. Fate doppio clic sull&#39;istanza di materiale creata nel passaggio 1 e abilitate i parametri Texture per tutte le mappe.
+1. Fate doppio clic sull&#39;istanza di materiale creata nel passaggio 1 e abilitate i parametri della Texture per tutte le mappe.
 1. Impostate la texture sulla nuova texture INST creata dal punto 2. In questo modo si imposta l&#39;istanza del materiale per utilizzare le mappe di output della sostanza dal grafico dell&#39;istanza.
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-13-18-pm.png)

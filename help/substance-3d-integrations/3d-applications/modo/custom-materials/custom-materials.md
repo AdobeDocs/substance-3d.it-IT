@@ -36,7 +36,7 @@ Quando si utilizza l&#39;Unity Material (Materiale unitario), l&#39;effetto del 
 | Normale | Lineare | Unità normale |
 | Con emissioni | sRGB | Emissione unità **\*impostata su sRGB sull&#39;immagine fissa** |
 | Altezza | Lineare | Rilievo unità |
-| Occlusione ambientale | Lineare | Occlusione ambiente unità |
+| Occlusione ambientale | Lineare | Occlusione ambientale unità |
 
 ![](../../../assets/unity-1.png){width="600px"}
 

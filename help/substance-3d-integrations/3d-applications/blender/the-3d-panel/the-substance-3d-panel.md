@@ -28,7 +28,7 @@ ht-degree: 0%
 
 **Applica** - Collegate il materiale Substance 3D selezionato agli oggetti selezionati in un nuovo slot di materiale. Questa operazione non sostituisce le precedenti assegnazioni di materiale sull&#39;oggetto.
 
-**Risorse community Substance 3D**: apre la pagina Risorse community Substance 3D nel browser Web.
+**Substance 3D Community Assets**: apre la pagina di Substance 3D Community Assets nel browser Web.
 
 **Substance 3D Assets**: apre la pagina di origine della Substance 3D Assets nel browser Web.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 >
 > **Avviso:**
 > 
-> Se si utilizza il pulsante Aggiorna, eventuali modifiche apportate dall’utente al grafico shader verranno annullate. Copia tutti i nodi aggiunti dall&#39;utente prima dell&#39;aggiornamento per incollarli nel grafico dopo l&#39;aggiornamento.
+> Se si utilizza il pulsante Aggiorna, eventuali modifiche apportate dall’utente al grafico a shader vengono annullate. Copia tutti i nodi aggiunti dall&#39;utente prima dell&#39;aggiornamento per incollarli nel grafico dopo l&#39;aggiornamento.
 
 **Rimuovi**: rimuove il materiale Substance 3D selezionato dal pannello.
 

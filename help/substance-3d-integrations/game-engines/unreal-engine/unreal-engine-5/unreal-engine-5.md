@@ -32,7 +32,7 @@ Il plug-in di Substance 3D in Unreal Engine 5 è ufficialmente disponibile nel m
 * [Definizione istanza materiale - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md) — È possibile utilizzare le istanze materiale UE5 con le Substance.
 * [Uso modello materiale - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
 * [Dimensioni fisiche - UE5](../../../game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-* [Substance in porzioni - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md) — per affiancare una texture di sostanza, dovrete aggiungere un nodo di coordinate della texture e moltiplicarlo per il parametro scalare.
+* [Substance Affiancamento - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md) — Per affiancare una texture di sostanza, è necessario aggiungere un nodo di coordinate Texture e moltiplicarlo per il parametro scalare.
 * [Modelli predefiniti plug-in di Substance 3D](../../../game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
 * [Utilizzo libreria Substance 3D Assets - UE5](../../../game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
 * [Blueprint - UE5](../../../game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md) — Aggiornamento dei materiali Substance in fase di runtime con un&#39;API Blueprint completa.

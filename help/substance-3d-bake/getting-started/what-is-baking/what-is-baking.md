@@ -50,7 +50,7 @@ Questo processo di cottura si basa sulle proprietà della trama, motivo per cui 
 
 ## Che tipo di informazioni puoi fare?
 
-Molti tipi di informazioni possono essere analizzati. Tuttavia, in generale, è necessario solo un insieme specifico, in quanto può essere estrapolato per creare risultati più avanzati in un secondo momento. Questo è il motivo per cui ci sono un tipo comune di processo di cottura che può essere trovato in più software.
+Molti tipi di informazioni possono essere eseguiti i baking. Tuttavia, in generale, è necessario solo un insieme specifico, in quanto può essere estrapolato per creare risultati più avanzati in un secondo momento. Questo è il motivo per cui ci sono un tipo comune di processo di cottura che può essere trovato in più software.
 
 Ad esempio, un software di Substance è in grado di generare il seguente tipo di informazioni:
 

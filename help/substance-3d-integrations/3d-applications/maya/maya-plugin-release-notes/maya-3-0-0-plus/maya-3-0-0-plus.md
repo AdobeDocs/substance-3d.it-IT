@@ -32,7 +32,7 @@ ht-degree: 0%
 
 <b>Corretto:</b>
 
-* È stato risolto un problema a causa del quale il caricamento/scaricamento del plug-in Substance per Maya generava una schermata di errore e si arrestava in modo anomalo.
+* Risolto il problema per cui il caricamento/scaricamento del plug-in Substance per Maya genera una schermata di errore e arresti anomali.
 * Sono stati risolti problemi di memorizzazione nella cache, per garantire in particolare che i file .exr facciano riferimento correttamente e ridurre i blocchi relativi alla memorizzazione nella cache in scene di grandi dimensioni.
 * È stato risolto il problema a causa del quale l’anteprima del materiale nella finestra di esempio non veniva visualizzata quando un file SBSAR veniva caricato nel plug-in Maya.
 * È stato risolto il problema a causa del quale il connettore non riceveva il file SBSAR se almeno un file SBSAR era già in Hypershade.

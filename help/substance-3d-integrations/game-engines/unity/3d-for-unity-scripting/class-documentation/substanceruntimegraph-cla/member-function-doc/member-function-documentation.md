@@ -330,7 +330,7 @@ Vector2Int Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetTexturesResolution (
 ```
 
 
-Restituisce la risoluzione dell’output della texture dell’istanza.
+Restituisce la risoluzione dell&#39;output della texture di istanza.
 
 **Restituzioni**
 
@@ -616,7 +616,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.SetTexturesResolution ( Vecto
 ```
 
 
-Imposta la risoluzione dell’output della texture dell’istanza.
+Imposta la risoluzione di output della texture di istanza.
 
 **Parametri**
 

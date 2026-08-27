@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ***Note sulla versione per il componente aggiuntivo 0.9.2***
 
-* *È stata corretta la copia dei file di fusione nella cartella delle texture.*
+* *È stata corretta la copia dei file di Blender nella cartella texture.*

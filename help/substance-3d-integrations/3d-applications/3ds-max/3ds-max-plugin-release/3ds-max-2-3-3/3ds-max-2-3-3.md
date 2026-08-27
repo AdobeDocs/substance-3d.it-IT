@@ -29,9 +29,9 @@ Oggi abbiamo rilasciato la versione 2.3.3 del plug-in, che è una versione bug f
 * File di plug-in rinominato da SubstanceMax.dlt a substancemax.dlt
 * Sono state aggiunte informazioni sulla versione e sulla descrizione a substance\_link.dll
 * Risolto il problema con la versione del controllo redshift, che ora dovrebbe funzionare con Redshift 3
-* Risolto l&#39;arresto anomalo durante l&#39;annullamento/ripetizione dopo il caricamento di una barra secondaria nel nodo substance
+* Arresto anomalo risolto quando si annulla/ripete dopo aver caricato un sbsar nel nodo substance
 * La regressione corretta con la finestra di dialogo delle impostazioni non funziona
-* Risolto l’arresto anomalo durante il caricamento di un file sbsar che contiene caratteri non latini
+* Arresto anomalo corretto durante il caricamento di un file sbsar che contiene caratteri non latini
 
 Anche la nostra pipeline delle versioni è stata completamente rifatta, quindi dovresti essere in grado di aspettarti rilasci molto più frequenti, rispetto a quelli più grandi e molto distanti che abbiamo fatto in passato.
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Mappa posizione da trama
 
-La mappa di posizione dal fornaio trama calcola la posizione della geometria della trama ad alto poli e la salva in una texture. È simile al fornello in posizione base ma può produrre risultati più precisi.
+La mappa di posizione dal baker di mesh calcola la posizione della geometria della mesh ad alto poli e la salva in una texture. È simile al baker della posizione di base ma può produrre risultati più precisi.
 
 **Disponibile in:**
 

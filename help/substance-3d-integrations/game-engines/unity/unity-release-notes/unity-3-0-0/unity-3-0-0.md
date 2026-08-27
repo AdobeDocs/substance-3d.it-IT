@@ -46,7 +46,7 @@ Fisso:
 * Errori &quot;Handle già rilasciato&quot;
 * Problema di tipo &quot;attivazione della modalità di riproduzione blu spostata&quot;
 * Problema di mappatura del height con i file sbsar
-* Problema con gli input dell’immagine che leggono texture illeggibili
+* Problema con gli input dell’immagine che leggono texture illeggibile
 
 Problemi noti:
 

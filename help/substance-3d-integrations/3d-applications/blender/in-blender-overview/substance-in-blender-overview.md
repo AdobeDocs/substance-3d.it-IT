@@ -38,7 +38,7 @@ Il componente aggiuntivo Substance 3D consente di importare materiali di Substan
 
 ## Il pannello Substance 3D
 
-Il pannello Substance 3D viene utilizzato per gestire i materiali di Substance in un progetto e regolarne i singoli parametri. La sezione Parametri del grafico contiene i controlli per la risoluzione delle texture, la suddivisione in porzioni, la randomizzazione e i predefiniti. La sezione output contiene i controlli per i formati immagine delle texture generate. La sezione Parametro Substance è dove è possibile regolare i parametri della Substance.
+Il pannello Substance 3D viene utilizzato per gestire i materiali di Substance in un progetto e regolarne i singoli parametri. La sezione Parametri del grafico contiene i controlli per la risoluzione delle texture, l’Affiancamento, la randomizzazione e i predefiniti. La sezione output contiene i controlli per i formati immagine della texture generata. La sezione Parametro Substance è dove è possibile regolare i parametri della Substance.
 
 Per ulteriori informazioni, consulta la pagina del [pannello Substance 3D](../../../3d-applications/blender/the-3d-panel/the-substance-3d-panel.md).
 

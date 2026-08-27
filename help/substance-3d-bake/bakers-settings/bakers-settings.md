@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
-description: Esplorate tutte le impostazioni disponibili per i forni e scoprite come configurare ogni tipo di fornaio per ottenere risultati ottimali nella generazione delle texture.
+description: Esplora tutte le impostazioni di baker disponibili e scopri come configurare ogni tipo di baker per ottenere risultati ottimali nella generazione delle texture.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Impostazioni forni
+title: Impostazioni baker
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,9 +18,9 @@ ht-degree: 41%
 ---
 
 
-# Impostazioni forni
+# Impostazioni baker
 
-Per ulteriori informazioni su ciascun fornaio e le relative impostazioni, date un&#39;occhiata alle relative pagine dedicate:
+Per ulteriori informazioni su ciascun baker e le relative impostazioni, consulta le relative pagine dedicate:
 
 * [Parametri comuni](../bakers-settings/common-parameters/common-parameters.md)
 * [Occlusione ambientale](../bakers-settings/ambient-occlusion/ambient-occlusion.md)

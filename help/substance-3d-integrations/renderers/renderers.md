@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Moduli di rendering
 
-I materiali Substance forniti in [Substance Source](https://source.substance3d.com/) contengono output per ombreggiatori basati su dati fisici e supportano sia il [flusso di lavoro Metallico/rugosità (flusso di lavoro predefinito) che il flusso di lavoro Specular/lucidità](https://academy.substance3d.com/courses/pbrguides). È importante comprendere il flusso di lavoro supportato dal materiale di rendering. A seconda del modulo di rendering, potresti essere in grado di utilizzare direttamente gli output di materiale Substance o potresti dover convertire le texture di output. I materiali di Substance personalizzati o che scarichi dal Substance share potrebbero non contenere gli output appropriati necessari per un determinato modulo di rendering.
+I materiali Substance forniti in [Substance Source](https://source.substance3d.com/) contengono output per shader basati su dati fisici e supportano sia il [flusso di lavoro Metallico/Rugosità (flusso di lavoro predefinito) che il flusso di lavoro Specular/Lucentezza](https://academy.substance3d.com/courses/pbrguides). È importante comprendere il flusso di lavoro supportato dal materiale di rendering. A seconda del modulo di rendering, potresti essere in grado di utilizzare direttamente gli output di materiale Substance o potresti dover convertire le texture di output. I materiali di Substance personalizzati o che scarichi dal Substance share potrebbero non contenere gli output appropriati necessari per un determinato modulo di rendering.
 
 ![](../assets/outputs.png){width="200px"}
 

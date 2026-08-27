@@ -57,7 +57,7 @@ Puoi facilmente portare il tuo progetto Substance Painter in Maverick seguendo q
    ![](../../../assets/maverickrender-substancepainter-import.jpg)
 1. Procedi e avrai il tuo modello organizzato correttamente per set di texture e con i suoi materiali creati e applicati automaticamente. Tutto pronto per la fase di illuminazione.
 
-   **Se** **modifichi &#x200B;**&#x200B;**le tue**&#x200B;**texture nella Substance**&#x200B;**Painter**&#x200B;**, esportale**&#x200B;**le**&#x200B;**di nuovo &#x200B;**&#x200B;**,**&#x200B;**sovrascrivendo**&#x200B;**le**&#x200B;**precedenti**&#x200B;**&#x200B; one &#x200B;**&#x200B;**.**&#x200B;**&#x200B;**&#x200B;**Quindi**&#x200B;**, in** **Maverick &#x200B;**&#x200B;**, utilizzare l&#39;icona Aggiorna**&#x200B;**Mappe**&#x200B;**&#x200B;**&#x200B;**:**
+   **Se** **modifichi &#x200B;**&#x200B;**le tue**&#x200B;**texture nella Substance**&#x200B;**Painter**&#x200B;**, esportale**&#x200B;**le**&#x200B;**nuovamente &#x200B;**&#x200B;**,**&#x200B;**sovrascrivendo**&#x200B;**le**&#x200B;**precedenti**&#x200B;**&#x200B; one &#x200B;**&#x200B;**.**&#x200B;**&#x200B;**&#x200B;**Quindi**&#x200B;**, in** **Maverick &#x200B;**&#x200B;**, utilizzare l&#39;icona Aggiorna**&#x200B;**Mappe**&#x200B;**&#x200B;**&#x200B;**:**
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/maverickrender-updatemaps-icon?$pjpeg$&jpegSize=200&wid=1065){width="800px"}
 

@@ -103,11 +103,11 @@ Le tabelle seguenti elencano il supporto Raytracing GPU per ogni panettiera, in 
 | Posizione da trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | Posizione | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | Spessore da trama | <div><img alt="(spuntare)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| Texture trasferita dalla trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Texture trasferita da trama | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | Direzione dello spazio mondiale | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | Normali spaziali mondiali | <div><img alt="(errore)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
-\*: supporta il ray tracing della CPU, che è notevolmente più lento del Raytracing GPU.
+\*: supporta il raytracing CPU, che è notevolmente più lento del Raytracing GPU.
 
 +++

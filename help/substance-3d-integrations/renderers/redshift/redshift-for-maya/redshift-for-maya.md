@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance nel plug-in Maya
 
-Puoi utilizzare il [flusso di lavoro di rendering](https://docs.substance3d.com/display/integrations/Using+Workflows) di Redshift per creare automaticamente una rete shader.
+Puoi utilizzare il [flusso di lavoro di rendering](https://docs.substance3d.com/display/integrations/Using+Workflows) di Redshift per creare automaticamente una rete di shader.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/rs-1?$png$&jpegSize=100&wid=420)

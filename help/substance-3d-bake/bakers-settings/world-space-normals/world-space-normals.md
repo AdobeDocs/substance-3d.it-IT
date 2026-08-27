@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
-description: Salvate le normali della trama, le tangenti e i binormali nelle texture utilizzando le coordinate dello spazio globale per flussi di lavoro avanzati.
+description: Salvate le normali di trama, le tangenti e i binormali nelle texture utilizzando le coordinate dello spazio globale per flussi di lavoro avanzati.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > World Space Normals
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Normali spazio globale
 
-Il fornaio delle normali dello spazio mondiale consente di salvare la trama normale, tangente e binormale in una texture.
+Il baker delle normali dello spazio mondiale consente di salvare la mesh normale, tangente e binormale in una texture.
 
 **Disponibile in:**
 
@@ -31,6 +31,6 @@ Il fornaio delle normali dello spazio mondiale consente di salvare la trama norm
 
 | *Parametro* | *Descrizione* |
 | --- | --- |
-| **Tipo cottura** | Definisce il tipo di calcolo eseguito dal fornaio.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Normale</strong> (impostazione predefinita)</li><li data-preserve-html="true"><strong>Tangente</strong></li><li data-preserve-html="true"><strong>Binormale</strong></li></ul> |
+| **Tipo Eseguito i baking** | Definisce il tipo di calcolo eseguito dal baker.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Normale</strong> (impostazione predefinita)</li><li data-preserve-html="true"><strong>Tangente</strong></li><li data-preserve-html="true"><strong>Binormale</strong></li></ul> |
 | **Mappa normale** | Percorso della texture normale di input che verrà utilizzata durante il calcolo per aggiungere dettagli. |
-| **Orientamento normale** | Definisce il formato normale della texture di input se **Baking Type** è impostato su **Normal**.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (impostazione predefinita)</li></ul> |
+| **Orientamento normale** | Definisce il formato normale della texture di input se **Tipo Eseguito i baking** è impostato su **Normale**.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (impostazione predefinita)</li></ul> |

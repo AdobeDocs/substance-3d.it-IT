@@ -20,7 +20,7 @@ ht-degree: 10%
 
 # Maschera di opacità da trama
 
-La Maschera di opacità del fornaio trama calcola una texture in cui i raggi mancati vengono convertiti in un’immagine binaria in scala di grigio. Questa texture viene generalmente utilizzata come mappa di opacità.
+La maschera di opacità da baker trama calcola una texture in cui i raggi mancati vengono convertiti in un&#39;immagine binaria in scala di grigio. Questa texture viene generalmente utilizzata come mappa di opacità.
 
 Le proprietà della texture sono definite come:
 
@@ -35,4 +35,4 @@ Le proprietà della texture sono definite come:
 
 ## Parametri:
 
-Questo fornaio non ha parametri specifici.
+Questo baker non ha parametri specifici.

@@ -36,7 +36,7 @@ Una Substance ha un set di parametri principali, che si trovano nella categoria 
 * **Carica predefinito:** È possibile caricare un predefinito, che configurerà i parametri di modifica della Substance. I predefiniti possono essere creati con Substance Player. Il file predefinito è di tipo .sbsprs. Una volta caricato un predefinito, è necessario fare clic sul menu a discesa Predefinito e scegliere il predefinito, in quanto .sbsprs può contenere diversi predefiniti.
 * **Salva predefinito:** consente di salvare un predefinito
 * **Seleziona predefinito:** consente di scegliere un predefinito incorporato nel file di Substance o dai predefiniti salvati in MODO.
-* **Bake to Disk:** Questo parametro esegue il baking delle texture generate dalla Substance in un file bitmap.
+* **Esegue i baking su disco:** Questo parametro esegue i baking le texture generate dalla Substance in un file bitmap.
 * **Dimensione output:** Questo parametro ridimensionerà dinamicamente la texture in base alle dimensioni impostate. La Substance Engine rigenererà la texture alla dimensione desiderata.
 * **Numero casuale:** Questo parametro varia la generazione procedurale della Substance. Questo parametro è ideale per la creazione di una versione casuale della stessa Substance. Consente di variare rapidamente i parametri della Substance per generare una nuova versione delle texture
 

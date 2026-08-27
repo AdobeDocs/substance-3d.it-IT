@@ -32,6 +32,6 @@ Fisso:
 
 Problemi noti:
 
-* Caricando una vecchia scena con un fotogramma chiave sull&#39;oggetto Substance e aprendo l&#39;editor della curva senza salvare la scena e riaprirla, 3dsMax si arresta in modo anomalo. Per risolvere il problema, salva la scena in una nuova versione del file e riaprila
+* Caricando una vecchia scena con un fotogramma chiave sull&#39;oggetto Substance e aprendo l&#39;editor della curva senza salvare la scena e riaprirla, 3dsMax eseguirà l&#39;arresto anomalo. Per risolvere il problema, salva la scena in una nuova versione del file e riaprila
 
 Questa versione è disponibile per 3ds Max 2019, 2020 e 2021

@@ -31,11 +31,11 @@ Substance Painter 2020.1 (6.1.0) viene fornito con [Modelli di output](https://e
 | BaseColor | Base/Colore |
 | Ruvidità | Specular/Rugosità |
 | Metallicità | Base/Metallicità |
-| Normale | (**Maya**) Geometria/Mappatura rilievo/bump2d (da utilizzare come normali dello spazio tangente) (**3ds** **Max**) Bitmap → normale |
-| Altezza | (**Maya**) Spostamento Shader/spostamento (**3ds** **Max**) Modificatore oggetto → Proprietà di Arnold → Spostamento → Usa mappa |
+| Normale | (**Maya**) Geometria/Mappatura rilievo/bump2d (da utilizzare come normali di Spazio tangente) (**3ds** **Max**) Bitmap → normale |
+| Altezza | (**Maya**) Shader/spostamento di Spostamento (**3ds** **Max**) Modificatore oggetto → Proprietà di Arnold → Spostamento → Usa mappa |
 | Con emissioni | Emissione/Colore (Peso Di Emissione = 1,0) |
-| Livello Anisotropia (non incluso nel Modello di output Arnold predefinito) | (**Maya**) Rivestimento/Anisotropia (**3ds** **Max**) Rivestimento/Anisotropia |
-| Livello Anisotropia (non incluso nel Modello di output Arnold predefinito) | (**Maya**) Pelo/Rotazione (**3ds** **Max**) Pelo/Rotazione |
+| Livello di anisotropia (non incluso nel Modello di output Arnold predefinito) | (**Maya**) Rivestimento/Anisotropia (**3ds** **Max**) Rivestimento/Anisotropia |
+| Livello di anisotropia (non incluso nel Modello di output Arnold predefinito) | (**Maya**) Pelo/Rotazione (**3ds** **Max**) Pelo/Rotazione |
 
 >[!NOTE]
 >

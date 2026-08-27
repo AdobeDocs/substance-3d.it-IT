@@ -36,7 +36,7 @@ Potete creare un’istanza di Grafico Substance per creare un’istanza di grafi
 1. Aggiungete un Set Material Node e impostate il valore della variabile MID come Material Input. Per la destinazione, impostatela sull’oggetto a cui desiderate applicare il materiale.
 1. Creare una variabile di tipo Name. Questa variabile conterrà il nome dei canali impostati nel materiale. Inizializza con il valore &quot;NONE&quot;
 1. Aggiungete un nodo Ottieni texture Substance e impostate l&#39;istanza del grafico sulla variabile Istanza grafico dinamico.
-1. Aggiungere un nodo For Loop. Qui potete scorrere le texture delle Substance. Prendete il risultato del comando Ottieni texture Substance come matrice di input.
+1. Aggiungere un nodo For Loop. Qui puoi sfogliare le Texture della Substance. Prendi il risultato delle Texture di Substance Get come matrice di input.
 
    ![](../../../../../assets/rt-03.png){width="800px"}
 1. Aggiungere un nodo Substance Get Channel con l&#39;elemento array dal loop for come input.
@@ -46,6 +46,6 @@ Potete creare un’istanza di Grafico Substance per creare un’istanza di grafi
 1. Nel nodo Sequenza 1, imposterete il processo di assegnazione dei nomi dei canali al materiale dinamico.
 1. Ottenere la variabile MID name e aggiungere un nodo di stringa uguale con il valore &quot;NONE&quot;. Questo è il valore che inizializzerà la variabile.
 1. Aggiungere un nodo di diramazione con la condizione dal nodo Uguale.
-1. Aggiungete un valore di parametro Substance set texture. La destinazione è la variabile MID e il nome del parametro è la variabile MID name. Il valore è l&#39;elemento Array del nodo ForEachLoop.
+1. Aggiungere un valore di parametro della Texture per l&#39;insieme di Substance. La destinazione è la variabile MID e il nome del parametro è la variabile MID name. Il valore è l&#39;elemento Array del nodo ForEachLoop.
 
 ![](../../../../../assets/material-1.png){width="800px"}

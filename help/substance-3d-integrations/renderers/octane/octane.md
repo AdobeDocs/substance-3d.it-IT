@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Ottano
 
-L’ottano può essere utilizzato per eseguire il rendering degli output di Substance mediante il modulo di rendering autonomo o tramite i plug-in DCC. Attraverso un materiale Substance Live DB, Octane Standalone supporta output Substance basati su colore di base, metallizzato e rugosità.
+L’ottano può essere utilizzato per eseguire il rendering degli output di Substance mediante il modulo di rendering autonomo o tramite i plug-in DCC. Attraverso un materiale Substance Live DB, Octane Standalone supporta le uscite Substance basate su colore di base, metallo e rugosità.
 
 **Ottano Autonomo**\
 In **Live DB > Materials > Misc** trova il materiale &quot;**Substance PBR**&quot;.

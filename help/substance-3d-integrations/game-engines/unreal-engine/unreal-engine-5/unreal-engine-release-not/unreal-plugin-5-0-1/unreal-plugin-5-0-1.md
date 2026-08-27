@@ -24,7 +24,7 @@ Aggiornato/Aggiunto:
 
 * Supporto per Unreal Engine versione 5.0.0+
 * Documentazione dei plug-in di Unreal Engine 5
-* Supporto per il nuovo modello di materiale triplanare
+* Supporto per il nuovo modello di materiale della planari tripla
 * Supporto per la nuova funzione &quot;Dimensioni fisiche&quot;
 * *Rinnovato* il modello Substance Standard e il modello Substance rifrazione
 * Possibilità di modificare il valore XYZ per lo spazio mondo
@@ -37,7 +37,7 @@ Rimosso:
 
 Fisso:
 
-* Il progetto UE5 inserito nel pacchetto si arresta in modo anomalo quando i parametri del materiale vengono regolati tramite blueprint
+* Arresti anomali di progetto UE5 in pacchetto quando i parametri del materiale vengono regolati tramite blueprint
 * Il plug-in chiude la finestra dei parametri quando l&#39;output dell&#39;istanza di Grafico Substance è deselezionato
 * È stato corretto un ritardo di rendering occasionale che causava modifiche ritardate ai parametri.
 

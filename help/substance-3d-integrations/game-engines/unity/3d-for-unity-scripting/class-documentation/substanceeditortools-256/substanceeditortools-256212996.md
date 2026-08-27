@@ -98,7 +98,7 @@ Imposta l&#39;input della stringa del grafico.
 ```
 
 
-Impostate l&#39;input della texture del grafico.
+Imposta l&#39;input della texture del grafico.
 
 ```
 • static void RenderGraph (SubstanceGraphSO graph)

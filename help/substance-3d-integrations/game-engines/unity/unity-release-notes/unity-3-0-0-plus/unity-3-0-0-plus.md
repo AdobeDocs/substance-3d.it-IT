@@ -98,9 +98,9 @@ ht-degree: 0%
 
 <b>Corretto:</b>
 
-* È stato risolto un problema che interessava le mappe normali nei progetti Android.
+* È stato risolto un problema relativo alla mappa normale nei progetti Android.
 * È stato risolto un bug a causa del quale, trascinando inavvertitamente un oggetto sbsar nella vista della scena, tutti gli oggetti spostati venivano sostituiti dal materiale dell’oggetto sbsar.
-* È stato corretto un bug che causava un errore durante l’ispezione di un materiale contrassegnato come Solo runtime in modalità Runtime e l’apertura della mappatura della texture di output.
+* È stato corretto un bug che causava un errore durante l’ispezione di un materiale contrassegnato come Solo runtime in modalità Runtime e l’apertura della mappatura della Texture di output.
 
 ## Unità 3.7.0
 

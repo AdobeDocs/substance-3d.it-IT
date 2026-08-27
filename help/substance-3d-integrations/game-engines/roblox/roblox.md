@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
-description: Utilizza i materiali Substance in Roblox Studio con il flusso di lavoro Rugosità metallica PBR per esperienze 3D coinvolgenti.
+description: Utilizza i materiali Substance in Roblox Studio con flusso di lavoro Rugosità metallica PBR per esperienze 3D coinvolgenti.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Roblox
 helpx_experience_level: ""
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 ## Modello Substance 3D Designer
 
-Per creare texture per Roblox, puoi utilizzare il file Substance 3D seguente come modello [Substance grafici di composizione](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
+Per creare texture per Roblox, puoi utilizzare il file Substance 3D seguente come modello per [grafici di composizione Substance](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
 
 [![Immagine dell&#39;icona del formato di file sbs collegata al modello roblox.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
-Questo modello di grafico consente la preconfigurazione dei nomi e dei tipi di file delle texture finali. Questo modello può essere installato e riutilizzato per creare nuovi materiali che seguono sempre le linee guida per i materiali Roblox.
+Questo modello di grafico consente la preconfigurazione dei nomi e dei tipi di file di texture finali. Questo modello può essere installato e riutilizzato per creare nuovi materiali che seguono sempre le linee guida per i materiali Roblox.
 
 </td>
 <td width="41.60%" style="border: 0;" valign="top">
@@ -154,7 +154,7 @@ Utilizzare la nuova variante di materiale nella scena Roblox
 
 >[!NOTE]
 >
-> Se il colore delle texture appare diverso in Roblox, controlla l&#39;attributo **Colore** nella categoria **Aspetto** nelle proprietà dell&#39;oggetto a cui viene applicata la Variante materiale e assicurati che sia impostato su *Bianco puro*, ovvero RGB (255, 255, 255), che è etichettato *Bianco istituzionale* in Roblox.
+> Se il colore delle texture appare diverso in Roblox, controlla l&#39;attributo **Colore** nella categoria **Aspetto** nelle proprietà dell&#39;oggetto a cui viene applicata la Variante materiale e assicurati che sia impostato su *Bianco puro* - cioè RGB (255, 255, 255), che è etichettato *Bianco istituzionale* in Roblox.
 
 </td>
 <td style="border: 0;" valign="top">
@@ -169,9 +169,9 @@ Utilizzare la nuova variante di materiale nella scena Roblox
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-### Regolare la suddivisione in porzioni
+### Regola Affiancamento
 
-La quantità di ripetizione del materiale su una superficie, ad esempio l&#39;affiancatura, può essere regolata in qualsiasi momento.
+La quantità di ripetizione del materiale su una superficie, cioè Affiancamento, può essere regolata in qualsiasi momento.
 
 * In **Gestione materiali**, selezionate la *variante materiale* e fate clic sul pulsante **Modifica**
 * Nella finestra **Modifica variante**, regola il valore della proprietà **Studs Per Tile** in **Additional**: un valore *lower* genera una ripetizione *more*

@@ -43,4 +43,4 @@ Questo messaggio viene visualizzato una sola volta per ogni importazione (ad ese
 
 >[!NOTE]
 >
-> Proprio come con tutti gli altri comandi in Cinema 4D, questi due comandi possono essere integrati ovunque nel layout e/o configurati con una scelta rapida da tastiera per un accesso rapido.
+> Proprio come con tutti gli altri comandi in Cinema 4D, questi due comandi possono essere integrati in qualsiasi punto del layout e/o configurati con una scelta rapida da tastiera da tastiera per un accesso rapido.

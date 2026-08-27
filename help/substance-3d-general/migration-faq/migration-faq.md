@@ -21,7 +21,7 @@ La documentazione relativa ai prodotti e agli argomenti seguenti è ora disponib
 [Substance 3D Painter](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/home)
 [Substance 3D Designer](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/home)
 [Substance 3D Sampler](https://experienceleague.adobe.com/it/docs/substance-3d-sampler/using/home)
-[Baking con Substance 3D](https://experienceleague.adobe.com/it/docs/substance-3d/bakers/home)
+[Esegue i baking con Substance 3D](https://experienceleague.adobe.com/it/docs/substance-3d/bakers/home)
 [Informazioni generali su Substance 3D](https://experienceleague.adobe.com/it/docs/substance-3d/general-knowledge/home)
 [Ecosistema e integrazioni](https://experienceleague.adobe.com/it/docs/substance-3d/ecosystem/home)
 

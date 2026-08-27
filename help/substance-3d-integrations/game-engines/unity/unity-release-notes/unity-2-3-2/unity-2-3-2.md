@@ -26,13 +26,13 @@ ht-degree: 0%
 * Riflesso: il plug-in ora consente l&#39;importazione di vecchi file di Substance in pacchetti (aggiornati automaticamente ai nuovi dati di Substance all&#39;importazione)
 * Le proprietà dei materiali sono riportate all&#39;importazione di colli con dati di Substance
   * Nota: applicabile solo ai pacchetti creati con l&#39;aggiornamento 2.3.0 o versioni successive
-* È stato aggiunto il pulsante Texture forno al menu Substance grafico
+* È stato aggiunto il pulsante Esegue i baking Texture al menu Substance grafico
 
 ### Correzioni di bug:
 
-* È stato risolto un problema a causa del quale la suddivisione in porzioni del materiale della Substance veniva ripristinata se la cartella Libreria veniva rimossa.
+* È stato risolto un problema a causa del quale l’Affiancamento del materiale della Substance veniva reimpostato se la cartella Libreria veniva rimossa.
 * Velocità migliorata in uscita dalla modalità di riproduzione
-* È stato risolto un arresto anomalo durante l’aggiornamento del plug-in mentre era in uso la DLL di Substance.
+* È stato corretto un arresto anomalo che si verificava durante l’aggiornamento del plug-in mentre la DLL di Substance era in uso.
 * La cartella Allegorithmic ora non può essere eliminata in Unity.
   * Nota: il contenuto della cartella Allegorithmic non può essere modificato. La sua eliminazione all&#39;interno di Unity può causare diversi problemi, facendo sì che la cartella Allegorithmic riappaia magicamente quando Unity viene chiusa e riaperta. Ora viene visualizzato un avviso che informa l&#39;utente di eliminarlo con Unity chiuso manualmente dalla cartella Risorse del progetto
 * Velocità migliorata in uscita dalla modalità di riproduzione
