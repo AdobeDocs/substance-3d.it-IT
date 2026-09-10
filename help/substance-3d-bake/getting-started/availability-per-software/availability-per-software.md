@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/availability-per-software.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/getting-started/availability-per-software.html"
 breadcrumb-title: ''
 description: Verifica quali baker sono disponibili in ciascuna applicazione Substance 3D per pianificare il flusso di lavoro di esegue i baking.
 helpx_creative_field: ""

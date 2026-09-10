@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: Proietta le proprietà dei colori dalle trame ad alto poli alle texture per eseguire i baking ID di polipinto o materiale per le maschere di selezione.
 helpx_creative_field: ""

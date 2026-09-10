@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-are-assbin-files.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-questions/what-are-assbin-files.html"
 breadcrumb-title: ''
 description: Scoprite quali sono i file Assbin e come utilizzarli come file di cache della geometria per velocizzare le operazioni di esegue i baking.
 helpx_creative_field: ""
@@ -32,4 +32,4 @@ ht-degree: 0%
 > 
 > Assbin file versioni pre-elaborate delle trame high-poly utilizzate durante il processo di esegue i baking. Sono più veloci da leggere rispetto ai file con trama originali, il che consente di eseguire i baking di nuovo più rapidamente quando si esegue un’iterazione sulle impostazioni dei Baker. Possono essere rimossi in modo sicuro. Se necessario, Substance Painter li rigenererà. Tuttavia, questo può influire sulle prestazioni eseguite i baking.
 > 
-> È possibile non generare mai questi file accedendo alle [preferenze principali](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html) della Substance Painter e disabilitando l&#39;opzione &quot;Salva file di scena preelaborati&quot;.
+> È possibile non generare mai questi file accedendo alle [preferenze principali](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/general-71008262.html) della Substance Painter e disabilitando l&#39;opzione &quot;Salva file di scena preelaborati&quot;.

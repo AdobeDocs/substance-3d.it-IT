@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
 breadcrumb-title: ''
 description: Trasferisci texture tra trame in base ai loro UV, incluso il supporto per le conversioni delle mappe normali.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
 description: Esporta texture Substance Painter per Renderman utilizzando il materiale pxrSurface e le conversioni di output corrette.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/environment-and-rendering-setup.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/environment-and-rendering-setup.html"
 breadcrumb-title: ''
 description: Configura le impostazioni di ambiente e rendering in MODO per ottimizzare l’aspetto e la qualità del materiale Substance.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: Risolvi i problemi relativi al nero o al nero degli output di baker e scopri come risolvere i problemi relativi a trama e UV.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
 breadcrumb-title: ''
 description: Genera mappe di spessore colando i raggi verso l'interno dalle superfici mesh per utilizzarli negli shader SSS e nella mascheratura.
 helpx_creative_field: ""

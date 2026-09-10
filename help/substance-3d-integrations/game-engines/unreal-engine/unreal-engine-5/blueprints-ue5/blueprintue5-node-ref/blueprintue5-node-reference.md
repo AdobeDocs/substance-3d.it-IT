@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-reference.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-reference.html"
 breadcrumb-title: ''
 description: Guida di riferimento per tutti i nodi Substance Blueprint disponibili in Unreal Engine 5 per le operazioni sui materiali.
 helpx_creative_field: ""

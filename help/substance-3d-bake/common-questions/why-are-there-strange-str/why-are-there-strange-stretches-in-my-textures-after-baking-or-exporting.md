@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
 description: Identifica e correggi strani allungamento nella tua texture eseguita i baking causati da problemi di mappatura UV o di trama.
 helpx_creative_field: ""
@@ -30,4 +30,4 @@ ht-degree: 0%
 >
 > **Soluzione**
 > 
-> I Substance Bakers applicano sia la diffusione che la dilatazione al di fuori delle Isole UV per colmare il vuoto e garantire che la texture funzioni correttamente nei motori di gioco quando verranno generate mipmap. Per ulteriori informazioni, vedere: [Spaziatura interna](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html).
+> I Substance Bakers applicano sia la diffusione che la dilatazione al di fuori delle Isole UV per colmare il vuoto e garantire che la texture funzioni correttamente nei motori di gioco quando verranno generate mipmap. Per ulteriori informazioni, vedere: [Spaziatura interna](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/padding-134643719.html).

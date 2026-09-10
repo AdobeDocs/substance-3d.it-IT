@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
 description: Eliminate le giunture visibili nella texture normale eseguita i baking regolando l'imbottitura, l'anti-alias e il layout UV.
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * Spesso gli UV non sono allineati ai pixel, il che porta all&#39;aliasing e produce giunture. Per ulteriori informazioni, vedere [questa pagina](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md).
 >   * Aumentando la risoluzione della texture si può ridurre questo effetto.
 >   * Allineando i bordi UV ai pixel è possibile ridurre questo effetto.
-> * Aumentate l&#39;impostazione di **qualità** dello shader. La qualità dello shader può influire sul modo in cui vengono calcolati i riflessi degli specular. Se alcune Isole UV vengono ruotate e questo parametro è troppo basso, possono verificarsi giunture visibili. Per ulteriori informazioni, vedere [questa pagina](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html).
+> * Aumentate l&#39;impostazione di **qualità** dello shader. La qualità dello shader può influire sul modo in cui vengono calcolati i riflessi degli specular. Se alcune Isole UV vengono ruotate e questo parametro è troppo basso, possono verificarsi giunture visibili. Per ulteriori informazioni, vedere [questa pagina](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html).

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
 breadcrumb-title: ''
 description: Utilizzate la mappatura Scostamento rilievo con i materiali Substance in Unreal Engine 4 per creare l'illusione della profondità e i dettagli della superficie.
 helpx_creative_field: ""

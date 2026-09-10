@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
 breadcrumb-title: ''
 description: Esporta le texture Substance Painter per i moduli di rendering Cicli fusione ed Eevee utilizzando le impostazioni di output corrette.
 helpx_creative_field: ""

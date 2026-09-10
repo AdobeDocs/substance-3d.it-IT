@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
 breadcrumb-title: ''
 description: Per ottimizzare le prestazioni in base all'hardware, potete passare da un motore di Substance CPU a uno GPU in MODO e viceversa.
 helpx_creative_field: ""

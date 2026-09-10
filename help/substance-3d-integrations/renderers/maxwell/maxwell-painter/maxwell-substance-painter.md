@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
 description: Esportate texture Substance Painter per il modulo di rendering Maxwell utilizzando le impostazioni corrette per modelli di output e materiali.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Maxwell - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) supporta Maxwell [Modelli di output](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export) per metallizzazione/rugosità e specular/lucentezza. Puoi semplicemente esportare usando il Modello di output Maxwell**.\
+Substance Painter 2020.1 (6.1.0) supporta Maxwell [Modelli di output](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/getting-started/export/export) per metallizzazione/rugosità e specular/lucentezza. Puoi semplicemente esportare usando il Modello di output Maxwell**.\
 Maxwell 5.1.0** si integra con Substance Painter che consente di importare facilmente texture e impostare automaticamente un materiale Maxwell.
 
 ## Esportazione di texture

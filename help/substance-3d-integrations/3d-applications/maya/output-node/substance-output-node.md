@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
 description: Informazioni sul funzionamento dei nodi di output Substance in Maya per connettere texture calcolate a reti di shader.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
 description: Abilita la tassellatura e utilizza le mappe di spostamento dai materiali delle Substance in Unreal Engine 4 per i dettagli della superficie.
 helpx_creative_field: ""

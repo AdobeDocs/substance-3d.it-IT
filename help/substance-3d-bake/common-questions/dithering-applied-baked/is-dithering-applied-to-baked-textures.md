@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
 breadcrumb-title: ''
 description: Capire se il dithering viene applicato a texture eseguite i baking e in che modo influisce sulla qualità delle texture.
 helpx_creative_field: ""

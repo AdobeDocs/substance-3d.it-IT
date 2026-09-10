@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
 description: Calcola texture normali incurvate che descrivono la direzione media dell'illuminazione ambientale da trame ad alto poli.
 helpx_creative_field: ""

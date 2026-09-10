@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: Risolvi i problemi relativi al fatto che la trama appare completamente nera dopo la esegue i baking e scopri come risolvere le cause comuni.
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > Esistono due possibili soluzioni:
 > 
-> * Correggi la configurazione di esegue i baking per evitare texture nere, consulta: [L&#39;output di Baker è completamente nero o vuoto](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * Rimuovete la texture nera dalle [impostazioni del set di texture](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).
+> * Correggi la configurazione di esegue i baking per evitare texture nere, consulta: [L&#39;output di Baker è completamente nero o vuoto](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * Rimuovete la texture nera dalle [impostazioni del set di texture](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).

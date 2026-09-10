@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
 description: Utilizza i nodi del diagramma di flusso in Lumberyard per configurare le impostazioni del materiale procedurale a livello di programmazione.
 helpx_creative_field: ""

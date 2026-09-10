@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare il baker di Occlusione ambientale per generare texture di ombre ambiente utilizzando algoritmi con accelerazione GPU.
 helpx_creative_field: ""

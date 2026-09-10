@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Scopri come accedere e utilizzare la finestra di esegue i baking in Substance 3D Painter per generare mappe trama per la tua texture.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-È possibile accedere alla finestra di esegue i baking tramite [Impostazioni set di texture](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Fai clic sul pulsante &quot;**Esegue i baking mappe trama**&quot; per aprire la finestra di esegue i baking del progetto corrente.
+È possibile accedere alla finestra di esegue i baking tramite [Impostazioni set di texture](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Fai clic sul pulsante &quot;**Esegue i baking mappe trama**&quot; per aprire la finestra di esegue i baking del progetto corrente.
 
 ## Panoramica
 

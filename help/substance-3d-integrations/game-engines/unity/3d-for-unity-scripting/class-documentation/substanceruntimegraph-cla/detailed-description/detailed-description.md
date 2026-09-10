@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/detailed-description.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/detailed-description.html"
 breadcrumb-title: ''
 description: Descrizione dettagliata della funzionalità della classe SubstanceRuntimeGraph per le operazioni di Substance di runtime in Unity.
 helpx_creative_field: ""

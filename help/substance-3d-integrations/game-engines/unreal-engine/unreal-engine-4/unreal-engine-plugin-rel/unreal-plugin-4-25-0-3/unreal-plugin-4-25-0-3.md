@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-3.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-3.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in Unreal Engine 4 versione 4.25.0.3 per informazioni sulle nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""

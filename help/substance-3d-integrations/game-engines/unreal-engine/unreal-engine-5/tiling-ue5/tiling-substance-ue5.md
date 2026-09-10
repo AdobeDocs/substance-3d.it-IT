@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
 description: Affianca texture Substance in Unreal Engine 5 aggiungendo nodi di coordinate Texture e parametri scalari ai materiali.
 helpx_creative_field: ""

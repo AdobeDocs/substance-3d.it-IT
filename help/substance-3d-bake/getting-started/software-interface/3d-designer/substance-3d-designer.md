@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Scoprite come accedere e utilizzare la finestra di esegue i baking in Substance 3D Designer per eseguire i baking le informazioni sul modello in texture.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-È possibile accedere alla finestra di cottura tramite il file mesh nella finestra [Esplora risorse](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Fate clic con il pulsante destro del mouse sul nome della trama e scegliete &quot;**Informazioni sul modello di forno**&quot; per aprire la finestra di cottura al forno.
+È possibile accedere alla finestra di cottura tramite il file mesh nella finestra [Esplora risorse](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Fate clic con il pulsante destro del mouse sul nome della trama e scegliete &quot;**Informazioni sul modello di forno**&quot; per aprire la finestra di cottura al forno.
 
 ## Panoramica
 

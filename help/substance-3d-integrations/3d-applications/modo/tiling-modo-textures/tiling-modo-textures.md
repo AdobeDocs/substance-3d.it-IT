@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
 description: Regola le proprietà dell’Affiancamento della texture Substance in MODO impostando le impostazioni di contornamento orizzontale e verticale.
 helpx_creative_field: ""

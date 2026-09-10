@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: Esporta texture Substance Painter per il modulo di rendering successivo V-Ray utilizzando i modelli di output e le impostazioni del flusso di lavoro corrette.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ In Shader impostazioni è possibile configurare lo shader Vray per l&#39;utilizz
 
 >[!NOTE]
 >
-> Se il progetto è stato configurato per l&#39;utilizzo di [Porzione UV UDIM Legacy](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html). Utilizzate il modello di output di UDIM successivo Vray.
+> Se il progetto è stato configurato per l&#39;utilizzo di [Porzione UV UDIM Legacy](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html). Utilizzate il modello di output di UDIM successivo Vray.
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

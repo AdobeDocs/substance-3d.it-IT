@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/substance-input-image-ue4.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/substance-input-image-ue4.html"
 breadcrumb-title: ''
 description: Utilizza la texture di immagini come parametri di input per i materiali delle Substance in Unreal Engine 4 per creare materiali modulari.
 helpx_creative_field: ""

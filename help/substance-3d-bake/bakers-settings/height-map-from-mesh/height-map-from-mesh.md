@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
 breadcrumb-title: ''
 description: Create mappe di altezza da trame a poli elevato per acquisire i dettagli della superficie e le informazioni sulla geometria per la creazione delle texture.
 helpx_creative_field: ""

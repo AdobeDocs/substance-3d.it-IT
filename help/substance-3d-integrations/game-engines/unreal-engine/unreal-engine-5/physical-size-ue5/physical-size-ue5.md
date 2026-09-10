@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
 breadcrumb-title: ''
 description: Usa le impostazioni dimensioni fisiche per ridimensionare i materiali Substance in base alle dimensioni reali in Unreal Engine 5.
 helpx_creative_field: ""

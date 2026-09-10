@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-2.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-2.html"
 breadcrumb-title: ''
 description: Consultate le note sulla versione per il plug-in Unreal Engine 5 versione 5.0.2 per informazioni sulle nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""

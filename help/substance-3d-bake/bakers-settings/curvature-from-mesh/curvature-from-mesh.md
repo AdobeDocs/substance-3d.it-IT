@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: Genera texture di curvatura accurate da trame ad alto poli utilizzando raytracing per un rilevamento preciso dei bordi.
 helpx_creative_field: ""

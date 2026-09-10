@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: Correggi gli artefatti di alias visualizzati sulle giunture UV durante la esegue i baking regolando le impostazioni di antialiasing e spaziatura interna.
 helpx_creative_field: ""
