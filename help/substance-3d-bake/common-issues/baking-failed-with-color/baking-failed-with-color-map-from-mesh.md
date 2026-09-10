@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Messaggio di errore possibile:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > [ Esegue i baking ] Esegue i baking non riuscita (Mappa colori da mesh)\
 > Impossibile trovare i colori dei vertici

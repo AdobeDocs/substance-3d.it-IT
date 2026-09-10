@@ -73,7 +73,7 @@ Il baker è il punto in cui potete scegliere quale texture eseguita i baking gen
 * **Aggiunta di un nuovo fornaio:** Fare clic sul pulsante &quot;Aggiungi fornaio&quot;.
 * **Rimozione di un fornaio:** Selezionare il fornaio nell&#39;elenco, quindi fare clic sul pulsante &quot;Elimina fornaio&quot;.
 * **Spostamento di un fornaio in alto:** Selezionare il fornaio nell&#39;elenco, quindi fare clic sul pulsante &quot;Tirare in alto&quot;.
-* **Spostare un fornaio verso il basso:**selezionare il fornaio nell&#39;elenco, quindi fare clic sul pulsante &quot;Spingere verso il basso&quot;.
+* **Spostare un fornaio verso il basso:**&#x200B;selezionare il fornaio nell&#39;elenco, quindi fare clic sul pulsante &quot;Spingere verso il basso&quot;.
 
 Per impostazione predefinita, ogni baker eredita i Valori predefiniti (vedere sopra). Le dimensioni (risoluzione), ad esempio, possono essere sostituite facendo clic sulla cella sulla linea del fornaio. Questo vale per le altre impostazioni della riga.
 

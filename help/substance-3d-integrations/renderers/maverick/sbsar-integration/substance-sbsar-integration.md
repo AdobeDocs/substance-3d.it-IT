@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Integrazione SBSAR Substance
 
-**Puoi** **facilmente****portare** **file SBSAR** **creati** **nel Substance Designer o nella Substance** **Alchemist** **a** **Maverick ****seguente****o** **di** **questi** **2** **metodi****:**
+**Puoi** **facilmente**&#x200B;**portare** **file SBSAR** **creati** **nel Substance Designer o nella Substance** **Alchemist** **a** **Maverick &#x200B;**&#x200B;**seguente**&#x200B;**o** **di** **questi** **2** **metodi**&#x200B;**:**
 
 **Metodo** **1:**
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **Metodo** **2****:**
+   **Metodo** **2**&#x200B;**:**
 1. È sufficiente rilasciare il file SBSAR da Esplora risorse a qualsiasi oggetto nella scena. Potete eliminare i file SBSAR anche nel pannello Materiale.
 1. Nella finestra di dialogo Importa (Import) potete impostare alcuni parametri di materiale:
 
