@@ -28,7 +28,7 @@ ht-degree: 4%
   + [OpenPBR](/help/substance-3d-general/openpbr/openpbr-overview.md)
   + [Domande frequenti](/help/substance-3d-general/openpbr/openpbr-faq.md)
 + ASM{#asm}
-  + [Panoramica dei materiali Adobe Standard](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
+  + [Panoramica dell’Adobe Standard Material](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
   + [Specifiche ASM](/help/substance-3d-general/adobe-standard-material/asm-specifications/asm-specifications.md)
   + [Documentazione tecnica ASM](/help/substance-3d-general/adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)
   + [Riferimenti del materiale metallico](/help/substance-3d-general/adobe-standard-material/metal-material-references/metal-material-references.md)

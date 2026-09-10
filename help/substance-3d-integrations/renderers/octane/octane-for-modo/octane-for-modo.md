@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/octane/octane-for-modo.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-modo.html"
 breadcrumb-title: ''
 description: Utilizzate i materiali Substance con il modulo di rendering per ottani in MODO tramite i materiali Live DB e le configurazioni di output corrette.
 helpx_creative_field: ""

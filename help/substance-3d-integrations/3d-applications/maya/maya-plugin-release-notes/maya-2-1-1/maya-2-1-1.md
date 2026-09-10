@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-1.html"
 breadcrumb-title: ''
 description: Consultate le note sulla versione per il plug-in Maya versione 2.1.1 per informazioni sulle nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Maya 2.1.1
 
-Corretto: il plug-in substance-elink non si arresta in modo anomalo quando viene scaricato
+Corretto: il plug-in Subancelink non viene più arresto anomalo quando viene scaricato

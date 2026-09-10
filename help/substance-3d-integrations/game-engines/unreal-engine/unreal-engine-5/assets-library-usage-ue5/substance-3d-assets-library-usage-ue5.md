@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
 breadcrumb-title: ''
 description: Accedi a materiali Substance di alta qualità dalla Libreria risorse e dalle risorse della community nei progetti Unreal Engine 5.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Utilizzo libreria Substance 3D Assets - UE5
 
-Accedi a oltre 1000 materiali 4K di alta qualità, personalizzabili e pronti per l&#39;esportazione con predefiniti nella [libreria di risorse Substance 3D](https://helpx.adobe.com/it/substance-3d/unlisted/assets.html). Puoi esplorare le risorse create dalla community nella [libreria delle risorse della community](https://helpx.adobe.com/it/substance-3d/unlisted/community-assets.html).
+Accedi a oltre 1000 materiali 4K di alta qualità, personalizzabili e pronti per l&#39;esportazione con predefiniti nella [libreria di risorse Substance 3D](https://helpx.adobe.com/substance-3d/unlisted/assets.html). Puoi esplorare le risorse create dalla community nella [libreria delle risorse della community](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html).
 
 Puoi scaricare materiali dalla libreria di risorse e utilizzarli in UE5.
 

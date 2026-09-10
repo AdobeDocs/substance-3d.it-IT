@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-5.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in Unity versione 2.4.5 per scoprire le nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -35,10 +35,10 @@ Rilasciato il 6 aprile 2020
 * Corretto: GameObject deselezionato in modalità di riproduzione
 * Fisso: la mappa di rugosità non viene aggiornata con la modifica del parametro
 * Corretto: l’output della maschera non viene generato correttamente per alcuni file di Substance in HDRP
-* Fisso: Arresto anomalo quando si passa dal menu a discesa della mappa alfa compressa a un’altra opzione
+* Corretto: arresto anomalo durante il passaggio dal menu a discesa della mappa alfa compressa tra due opzioni
 * Corretto: la casella di controllo dell&#39;istanza GPU viene ripristinata quando si fa clic all&#39;esterno del materiale della Substance.
 * Fisso: quando si utilizza la funzione Duplicate(), il grafico della Substance duplicato non dispone dello smoothness inserito correttamente nell&#39;alfa del metallizzato.
-* Corretto: se si cambia la destinazione di creazione in Android, il formato della texture risulta errato fino a quando non viene reimportata manualmente.
+* Corretto: se si cambia la destinazione di creazione in Android, le texture risultano nel formato errato fino a quando non vengono reimportate manualmente.
 * Corretto: l&#39;eliminazione di un file di Substance in Unity causerà un NullReferenceException.
 * Corretto: disabilitare l’uso delle API HDRP di Unity 2019.3 per le versioni precedenti
 

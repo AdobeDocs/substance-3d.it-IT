@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
 breadcrumb-title: ''
 description: Condividi i file SBSAR di Substance tra i progetti Unity, mantenendo le regolazioni dei parametri utilizzando i file predefiniti.
 helpx_creative_field: ""

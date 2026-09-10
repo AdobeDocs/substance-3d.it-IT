@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
-description: Per evitare che le parti della trama si disperdano durante la cottura al forno, utilizzate l’opzione Corrispondenza per nome (Matching by Name) o modificate le distanze.
+description: Impedire che le parti della trama si riversino reciprocamente durante la esegue i baking utilizzando Corrispondenza per nome o regolando le distanze.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Mesh parts bleed between each other
 helpx_experience_level: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **Spiegazione**
 > 
-> Il processo di cottura invia raggi dalla superficie della trama a basso poli per colpire la trama ad alto poli e creare una corrispondenza. A volte i raggi vanno troppo lontano e colpiscono la geometria sbagliata, creando il sanguinamento e gli artefatti.
+> Il processo di eseguita i baking invia raggi dalla superficie della trama a basso poli per colpire la trama a alto poli e creare una corrispondenza. A volte i raggi vanno troppo lontano e colpiscono la geometria sbagliata, creando il sanguinamento e gli artefatti.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ ht-degree: 0%
 > Sono disponibili alcune soluzioni per evitare questo problema:
 > 
 > * Utilizza la funzione [Corrispondenza per nome](../../features/matching-by-name/matching-by-name.md) per isolare le trame
-> * Utilizzate una [gabbia](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) per limitare la distanza dei raggi.
-> * Impostate a un valore inferiore la distanza di raggio predefinita nelle impostazioni comuni dei forni.
+> * Utilizzate una [gabbia](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) per limitare la distanza dei raggi.
+> * Impostate a un valore inferiore la distanza di raggio predefinita nelle impostazioni di baker comuni.

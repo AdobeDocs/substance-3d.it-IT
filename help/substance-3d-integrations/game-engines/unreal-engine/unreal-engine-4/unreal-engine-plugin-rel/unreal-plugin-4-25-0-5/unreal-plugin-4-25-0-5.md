@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-5.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in Unreal Engine 4 versione 4.25.0.5 per informazioni sulle nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -28,5 +28,5 @@ Aggiunto:
 
 Fisso:
 
-* UE4 si arresta in modo anomalo in Mac quando si chiude l’editor con il plug-in di Substance UE4 installato
+* ARRESTI ANOMALI UE4 su Mac alla chiusura dell&#39;editor con il plug-in di Substance UE4 installato
 * La modifica del parametro di testo in un’istanza di Grafico Substance causa un blocco e un eventuale arresto anomalo

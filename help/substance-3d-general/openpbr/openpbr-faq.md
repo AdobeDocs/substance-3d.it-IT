@@ -15,7 +15,7 @@ ht-degree: 0%
 
 +++Che cos’è OpenPBR e quale versione supporta Painter?
 
-OpenPBR è una specifica di materiale aperto ospitata da Academy Software Foundation, che definisce un modello di ombreggiatura standardizzato progettato per funzionare in modo coerente tra le applicazioni. [Nella documentazione di Painter sono disponibili ulteriori informazioni sull&#39;utilizzo di OpenPBR](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/home).
+OpenPBR è una specifica di materiale aperto ospitata da Academy Software Foundation, che definisce un modello di ombreggiatura standardizzato progettato per funzionare in modo coerente tra le applicazioni. [Nella documentazione di Painter sono disponibili ulteriori informazioni sull&#39;utilizzo di OpenPBR](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home).
 
 +++
 
@@ -69,7 +69,7 @@ Per eseguire manualmente la migrazione all’OpenPBR, seleziona lo shader nella 
 
 +++È necessario aggiornare gli shader personalizzati per OpenPBR?
 
-No: gli shader personalizzati esistenti continuano a funzionare, poiché le librerie di shader pertinenti sono obsolete anziché rimosse. Tuttavia, si consiglia di eseguire la migrazione alle nuove librerie di shader, in modo che siano più semplici da utilizzare e pulite. Per ulteriori informazioni, consultate il registro delle modifiche dell’API shader nel menu Aiuto.
+No: gli shader personalizzati esistenti continuano a funzionare, poiché le librerie di shader pertinenti sono obsolete anziché rimosse. Tuttavia, si consiglia di eseguire la migrazione alle nuove librerie di shader, in modo che siano più pulite e facili da utilizzare. Per ulteriori informazioni, consultate il registro delle modifiche dell’API shader nel menu Aiuto.
 
 +++
 
@@ -77,26 +77,26 @@ No: gli shader personalizzati esistenti continuano a funzionare, poiché le libr
 
 +++Con così tanti parametri disponibili in OpenPBR, dove devo concentrare la mia attenzione?
 
-Inizia con la semplicità. Per la maggior parte delle superfici opache, il colore di base, la rugosità dello Specular e il metallizzatore rappresentano la maggior parte delle differenze visibili tra i materiali. Aggiungi IOR se la riflettività è importante; perfeziona il colore dello Specular se il materiale ha una tinta con angolo di pascolo. Abilita la trasmissione, il sottosuolo, il rivestimento, il fuzz, i film sottili e la dispersione solo quando hai una ragione chiara e basata sui riferimenti per farlo, dal momento che ogni canale aggiuntivo aggiunge complessità e potenziale costo di rendering. Nascondere o comprimere i gruppi di parametri inutilizzati mantiene l’area di lavoro concentrata e riduce il rischio di effetti indesiderati.
+Inizia con la semplicità. Per la maggior parte delle superfici opache, Colore di base, rugosità Specular e metallizzazione rappresentano la maggior parte delle differenze visibili tra i materiali. Aggiungi IOR se la riflettività è importante; perfeziona il colore dello Specular se il materiale ha una tinta con angolo di pascolo. Abilita la trasmissione, il sottosuolo, il rivestimento, il fuzz, i film sottili e la dispersione solo quando hai una ragione chiara e basata sui riferimenti per farlo, dal momento che ogni canale aggiuntivo aggiunge complessità e potenziale costo di rendering. Nascondere o comprimere i gruppi di parametri inutilizzati mantiene l’area di lavoro concentrata e riduce il rischio di effetti indesiderati.
 
 +++
 
-+++Ho una mappa di rugosità: devo collegarla a Rugosità diffusa di base o Rugosità Specular?
++++Ho una mappa della rugosità: devo collegarla alla rugosità della Diffusa di base o alla rugosità degli Specular?
 
-Rugosità Specular: controlla la nitidezza del riflesso ed è l’equivalente diretto della rugosità immessa in altri flussi di lavoro PBR. Rugosità diffusa di base è un parametro specializzato separato che influisce solo sulla dispersione di diffusione; per la maggior parte dei flussi di lavoro può rimanere al valore predefinito.
+Rugosità Specular: controlla la nitidezza del riflesso ed è l’equivalente diretto della rugosità immessa in altri flussi di lavoro PBR. La rugosità di base della Diffusa è un parametro separato e specializzato che influisce solo sulla dispersione diffusa; per la maggior parte dei flussi di lavoro può rimanere al suo valore predefinito.
 
 +++
 
-+++Perché la modifica del colore di base non ha alcun effetto quando si utilizza la dispersione sottosuperficiale?
++++Perché cambiare Colore di base non ha alcun effetto quando si utilizza la dispersione sottosuperficiale?
 
 Esiste una &quot;gerarchia di priorità&quot; che determina l&#39;influenza di ciascun parametro sull&#39;aspetto finale del materiale. Metti Mi piace così:
 
 * Metalness viene prima: quando Metalness=1, le parti Subsurface e Transmission vengono disattivate.
 * Il successivo passo successivo è il peso di trasmissione: se il peso di trasmissione è pari a 1, la sottosuperficie sarà assente.
 * Spessore sottosuperficie viene dopo questo.
-* Il colore di base diffuso viene per ultimo: la diffusione di base contribuisce solo quando nessuna delle opzioni precedenti è impostata su 1.
+* Il Colore di base di Diffuse viene per ultimo: la diffusione di base contribuisce solo quando nessuna delle precedenti impostazioni è impostata su 1.
 
-Quindi, nell&#39;esempio indicato, se Spessore sottosuperficie è impostato su 1 (il suo valore massimo), allora governa tutto l&#39;aspetto. La modifica del valore del Colore di base non ha effetto perché il Diffuso di base non contribuisce in alcun modo. Se invece Metalness è impostato sul valore massimo di 1, la modifica dei valori di Spessore trasmissione, Spessore sottosuperficie e Colore base diffuso non avrà alcun effetto sull’aspetto finale del materiale. Trasmissione, Sottosuperficie e Diffusione sono tutti dielettrici (non metallici), quindi impostando Metalness su 1 si rimuove qualsiasi contributo non metallico.
+Quindi, nell&#39;esempio indicato, se Spessore sottosuperficie è impostato su 1 (il suo valore massimo), allora governa tutto l&#39;aspetto. La modifica del valore Colore di base non ha alcun effetto perché la Diffusa Base non apporta alcun contributo. Al contrario, se Metalness è impostato sul valore massimo di 1, la modifica dei valori di Spessore trasmissione, Spessore sottosuperficie e Colore di base di Diffusa non avrà alcun effetto sull’aspetto finale del materiale. Trasmissione, Sottosuperficie e Diffusa sono tutti dielettrici (non metallici), quindi l&#39;impostazione di Metalness su 1 rimuove qualsiasi contributo non metallico.
 
 +++
 

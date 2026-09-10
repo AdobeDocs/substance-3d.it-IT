@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-1.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il componente aggiuntivo Blender versione 0.9.1 per scoprire le nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 **Sezione del pannello Substance 3D: aggiunta/aggiornamento:**
 
-* Possibilità di regolare e bloccare il valore dei parametri di risoluzione e suddivisione in porzioni
+* Possibilità di regolare e bloccare il valore dei parametri di Affiancamento e risoluzione
 * Interfaccia utente predefinita aggiornata: il menu a discesa del tipo di shader per modificare il tipo di grafico che gli utenti desiderano avere
 * È stato modificato il parametro di input dell’immagine nello standard utilizzato in Blender. Ora puoi utilizzare le immagini di fusione e non solo i file
 * Possibilità di lavorare in più istanze di Blender in qualsiasi momento

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-2.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in Unity versione 2.2.2 per scoprire le nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ### Plug-in core:
 
-* È stato corretto un bug a causa del quale l’interfaccia grafica della texture predefinita di Unity veniva sovrascritta durante l’installazione del plug-in Substance in Unity.
+* È stato corretto un bug a causa del quale l’interfaccia utente di texture predefinita di Unity veniva sovrascritta durante l’installazione del plug-in Substance In Unity.
   * È stato corretto un bug a causa del quale l’impostazione di EditorApplication.delayCall causava problemi con altri plug-in.
   * È stato risolto un arresto anomalo che si verificava quando si utilizzavano caratteri non latini nel nome di un progetto.

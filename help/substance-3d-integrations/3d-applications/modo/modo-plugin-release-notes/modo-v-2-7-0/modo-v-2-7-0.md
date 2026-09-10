@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-0.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in MODO versione 2.7.0 per informazioni sulle nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Modo v. 2.7.0
 
-* Numerose correzioni agli arresti anomali
+* Numerose correzioni di arresto anomalo
 * Supporto float a 32 bit
-* Texture 4k nel motore CPU e texture 8k nel motore GPU
+* texture 4k nel motore CPU e texture 8k nel motore GPU
 * nuovo formato LPK per la versione del plug-in
 * nuovo menu Kit per il plug-in Substance
-* glTF / Supporto dello shader basato su principi per MODO 12.0
+* glTF / Supporto di shader Principled per MODO 12.0
 * È stato aggiunto il percorso relativo per i file Substance.
 * Supporto Linux
 * Nuova interfaccia utente per il caricamento e il salvataggio dei predefiniti

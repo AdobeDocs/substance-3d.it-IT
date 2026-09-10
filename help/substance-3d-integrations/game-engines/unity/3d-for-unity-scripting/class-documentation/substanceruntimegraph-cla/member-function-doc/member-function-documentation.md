@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: Documentazione dettagliata per tutte le funzioni membro della classe SubstanceRuntimeGraph nello scripting Unity.
 helpx_creative_field: ""
@@ -130,7 +130,7 @@ float Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputFloat ( string input
 ```
 
 
-Ottieni input Substance float
+Ottieni input Virgola mobile Substance
 
 **Parametri**
 
@@ -483,7 +483,7 @@ Texture2D value ) [inline]
 ```
 
 
-Aggiornate l&#39;input Substance Texture2D.
+Aggiorna input Substance Texture2D.
 
 **Parametri**
 

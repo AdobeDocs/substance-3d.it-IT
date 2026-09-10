@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ''
 description: Utilizza i flussi di lavoro di rendering in 3ds Max per creare automaticamente reti di shader per diversi moduli di rendering dai materiali Substance.
 helpx_creative_field: ""

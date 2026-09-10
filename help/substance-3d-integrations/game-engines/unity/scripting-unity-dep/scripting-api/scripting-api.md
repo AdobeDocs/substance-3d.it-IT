@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
 breadcrumb-title: ''
 description: Documentazione di riferimento per l’API di scripting Substance Unity obsoleta per il supporto di progetti precedenti.
 helpx_creative_field: ""
@@ -26,8 +26,8 @@ ht-degree: 1%
 
 | Public, metodo | Descrizione | Parametro |
 | --- | --- | --- |
-| **float** *GetInputFloat*(**string** inputName) pubblico | Ottieni input Substance **Mobile** | **Stringa** *nomeInput* Nome dell&#39;input nella SBSAR |
-| public **int** *SetInputFloat*(**string** inputName, valore **float**) | Aggiorna input Substance **Mobile** | **Stringa** i *nputName* Nome dell&#39;input nell&#39;oggetto **Float** *valore* SBSAR utilizzato per aggiornare il parametro |
+| **float** *GetInputFloat*(**string** inputName) pubblico | Ottieni input Substance **Virgola mobile** | **Stringa** *nomeInput* Nome dell&#39;input nella SBSAR |
+| public **int** *SetInputFloat*(**string** inputName, valore **float**) | Aggiorna input Substance **Virgola mobile** | **Stringa** i *nputName* Nome dell&#39;input nella **Virgola mobile** *valore* SBSAR utilizzato per aggiornare il parametro |
 | public **void** *SetInputVector2*(**string** inputName, valore **Vector2**) | Aggiorna input Substance **Vettoriale2** | **Stringa** *nomeInput* Nome dell&#39;input nell&#39;SBSAR **vettore2** *input* Valori utilizzati per aggiornare il parametro |
 | **vettoriale2** *GetInputVector2*(**stringa** inputName) pubblico | Ottieni input Substance **Vettoriale2** | **Stringa** &quot;inputName&quot; Nome dell&#39;input nella SBSAR |
 | public **void** *SetInputVector3*(**string** inputName, valore **Vector3**) | Aggiorna input Substance **Vettoriale3** | **Stringa** *nomeInput* Nome dell&#39;input nella **Vettore3** *valore* SBSAR Valori utilizzati per aggiornare il parametro |
@@ -51,12 +51,12 @@ ht-degree: 1%
 | **void Substance.Game.SubstanceGraph**.*SetInputTexture*( stringa inputName, valore Texture2D) | Aggiorna input Substance Texture2D | **String** *inputName* Nome dell&#39;input nella **Texture2D** *value* SBSAR utilizzata per aggiornare il parametro |
 | **Texture2D Substance.Game.SubstanceGraph**.*GetInputTexture*( string inputName) | Ottieni input Substance Texture2D | **Stringa** *nomeInput* Nome dell&#39;input nella SBSAR |
 | **Substance VectorInt.Game.SubstanceGraph**.*GetTexturesResolution*() | Ottenete la risoluzione delle texture delle Impostazioni di destinazione del grafico (x di Vector4Int = larghezza, y = height, i valori possono essere 32, 64, 128, 256, 512, 1024, 2048 e 4096) | Nessuno |
-| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*( Dimensione Vector2Int) | Impostate la risoluzione delle texture delle Impostazioni di destinazione del grafico (x di Vector2Int = larghezza, y = height, i valori possono essere 32, 64, 128, 256, 512, 1024, 2048 e 4096) Restituisce 0 in caso di esito positivo, altrimenti restituisce -1. | **Vector2Int** *size* utilizzato per aggiornare il parametro&#x200B;**.** |
+| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*( Dimensione Vector2Int) | Impostate la risoluzione delle texture delle Impostazioni di destinazione del grafico (x di Vector2Int = larghezza, y = height, i valori possono essere 32, 64, 128, 256, 512, 1024, 2048 e 4096) Restituisce 0 in caso di esito positivo, altrimenti restituisce -1. | **Vector2Int** *size* utilizzato per aggiornare il parametro**.** |
 | **Substance elenco.Game.SubstanceGraph**.*GetGeneratedTextures*() | Restituisce tutti gli oggetti Substance Texture2D utilizzati dallo shader di materiale del grafico. | Nessuno |
 | **int Substance.Game.SubstanceGraph**.*Bake*( Texture2D texture, string absolutePath) | Generate file .png per tutti gli oggetti Texture2D Substance utilizzati dallo shader di materiale del grafico. | Nessuno |
-| **&#x200B;**&#x200B;Substance.Gioco.**&#x200B; SubstanceGraph**.*Duplicato*() | Duplicare un Grafico Substance | Nessuno |
+| **** Substance.Gioco.** SubstanceGraph**.*Duplicato*() | Duplicare un Grafico Substance | Nessuno |
 | **Substance.Game.SubstanceGraph**.*Duplicato*(string newGraphName) | Duplica un Grafico Substance e assegnagli un nome (anche il materiale corrispondente avrà lo stesso nome) | **String newGraphName** |
-| **&#x200B;**&#x200B;Substance.Game.**&#x200B; SubstanceGraph**.*GetInputProperties*() | Query informazioni di input procedurali, restituisce una matrice di &#39;InputProperties&#39;, con :public struct InputProperties { public string name; // inputName public string label; // etichetta del widget nel gruppo di stringhe pubbliche GUI; // gruppo del widget in GUIpublic string[] componentLabels; // per cursori (fino a 4 etichette) public string[] enumOptions; // per optionMenupublic InputPropertiesType type;public Vector4 maximum; // per cursori public Vector4 minimum; // per cursori public float step; // per cursori }public InputPropertiesType = 0,// 0 Float, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Texture, // 7 String, // 8 Invalid = -1// -1 &rbrace;; | Nessuno |
+| **** Substance.Game.** SubstanceGraph**.*GetInputProperties*() | Query informazioni di input procedurali, restituisce una matrice di &#39;InputProperties&#39;, con :public struct InputProperties { public string name; // inputName public string label; // etichetta del widget nel gruppo di stringhe pubbliche GUI; // gruppo del widget in GUIpublic string[] componentLabels; // per cursori (fino a 4 etichette) public string[] enumOptions; // per optionMenupublic InputPropertiesType type;public Vector4 maximum; // per cursori public Vector4 minimum; // per cursori public float step; // per cursori }public InputPropertiesType = 0,// 0 Float, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Texture, // 7 String, // 8 Invalid = -1// -1 }; | Nessuno |
 | **bool** **Substance.Game.SubstanceGraph**.*HasInput*(**string** inputName) | Verifica se un input esiste in un grafico, restituisce true/false: | **Stringa** *nomeInput* Nome dell&#39;input nella SBSAR |
 | **bool** **Substance.Game.SubstanceGraph**.*IsInputVisible*(**string** inputName) | Verifica se un input visibleif è visibile, restituisce true/false | **Stringa** *nomeInput* Nome dell&#39;input nella SBSAR |
 
@@ -65,8 +65,8 @@ ht-degree: 1%
 | Public, metodo | Descrizione | Parametro |
 | --- | --- | --- |
 | **void** *QueueForRender*() pubblico | Aggiungi grafico Substance alla coda | Nessuno |
-| ***mySubstance.**&#x200B;RenderAsync()* | Rendering asincrono di tutti i grafici della Substance in coda | Nessuno |
-| ***mySubstance.**&#x200B;RenderSync()* | Rendering sincrono di tutti i grafici della Substance in coda | Nessuno |
+| ***mySubstance.**RenderAsync()* | Rendering asincrono di tutti i grafici della Substance in coda | Nessuno |
+| ***mySubstance.**RenderSync()* | Rendering sincrono di tutti i grafici della Substance in coda | Nessuno |
 
 ## Scripting in modalità Editor:
 

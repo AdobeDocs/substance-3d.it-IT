@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: Utilizzate i file SBSAR di Substance direttamente nel modulo di rendering Maverick per la modifica in tempo reale del materiale e il controllo dei parametri.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Integrazione SBSAR Substance
 
-**Puoi** **facilmente**&#x200B;**portare** **file SBSAR** **creati** **nel Substance Designer o nella Substance** **Alchemist** **a** **Maverick &#x200B;**&#x200B;**seguente**&#x200B;**o** **di** **questi** **2** **metodi**&#x200B;**:**
+**Puoi** **facilmente****portare** **file SBSAR** **creati** **nel Substance Designer o nella Substance** **Alchemist** **a** **Maverick ****seguente****o** **di** **questi** **2** **metodi****:**
 
 **Metodo** **1:**
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **Metodo** **2**&#x200B;**:**
+   **Metodo** **2****:**
 1. È sufficiente rilasciare il file SBSAR da Esplora risorse a qualsiasi oggetto nella scena. Potete eliminare i file SBSAR anche nel pannello Materiale.
 1. Nella finestra di dialogo Importa (Import) potete impostare alcuni parametri di materiale:
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Scopri come ottimizzare la configurazione hardware e la preparazione della trama per ottenere prestazioni di esegue i baking più rapide.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Gli Arresti anomali possono essere causati da più fattori, uno dei quali è il 
 * quando si eseguono i baking trame dense con il baker di Occlusione ambientale
 * quando si utilizzano baker con accelerazione DXR a maglie di poli molto dense e alte (più di 60 milioni di triangoli)
 
-Puoi trovare ulteriori informazioni sul TDR e una guida dettagliata su come modificare le impostazioni associate qui: [arresto anomalo di driver GPU con calcoli lunghi (arresto anomalo TDR)](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Puoi trovare ulteriori informazioni sul TDR e una guida dettagliata su come modificare le impostazioni associate qui: [arresto anomalo di driver GPU con calcoli lunghi (arresto anomalo TDR)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

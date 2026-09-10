@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/renderman.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman.html"
 breadcrumb-title: ''
 description: Eseguite il rendering dei materiali Substance con Renderman utilizzando i materiali pxrSurface o pxrDisney in Maya e altre applicazioni DCC.
 helpx_creative_field: ""

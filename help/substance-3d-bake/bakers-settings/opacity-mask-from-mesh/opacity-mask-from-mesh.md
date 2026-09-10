@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: Genera maschere di opacità convertendo i raggi mancati in immagini binarie in scala di grigio per ottenere effetti di trasparenza.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 10%
 
 La maschera di opacità da baker trama calcola una texture in cui i raggi mancati vengono convertiti in un&#39;immagine binaria in scala di grigio. Questa texture viene generalmente utilizzata come mappa di opacità.
 
-Le proprietà della texture sono definite come:
+Le proprietà della texture sono definite come segue:
 
 * I valori neri rappresentano aree vuote.
 * I valori bianchi rappresentano aree convesse.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
 description: Abilita la tassellatura e utilizza le mappe di spostamento dai materiali delle Substance in Unreal Engine 4 per i dettagli della superficie.
 helpx_creative_field: ""
@@ -40,4 +40,4 @@ Una volta aggiunto l&#39;output del height al materiale, dovrete creare alcuni n
 
 >[!NOTE]
 >
-> Gli altri output di texture sono stati omessi in questa immagine per semplificare il grafico. Qui vengono mostrati solo i nodi Spostamento e Moltiplicatore per maggiore chiarezza.
+> Gli altri output della texture sono stati omessi in questa immagine per semplificare il grafico. Qui vengono mostrati solo i nodi Spostamento e Moltiplicatore per maggiore chiarezza.

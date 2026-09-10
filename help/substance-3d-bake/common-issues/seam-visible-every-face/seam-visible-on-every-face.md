@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/seam-visible-on-every-face.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seam-visible-on-every-face.html"
 breadcrumb-title: ''
 description: Correggi le giunture visibili su ogni volto verificando lo srotolamento UV, i gruppi di arrotondamento e i problemi relativi alla topologia della trama.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **Spiegazione**
 > 
-> Se non si utilizza una [gabbia](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html), il processo di cottura avvia i raggi nella direzione delle normali dei vertici della trama a basso poli. Se le normali di ciascun vertice sono divise (ossia ogni faccia non condivide le stesse normali dei vertici della faccia vicina), i raggi non saranno inviati nella stessa direzione sugli spigoli. Ciò comporta la divisione, in quanto le informazioni su ciascun lato degli spigoli sono diverse.
+> Se non si utilizza una [gabbia](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html), il processo di cottura avvia i raggi nella direzione delle normali dei vertici della trama a basso poli. Se le normali di ciascun vertice sono divise (ossia ogni faccia non condivide le stesse normali dei vertici della faccia vicina), i raggi non saranno inviati nella stessa direzione sugli spigoli. Ciò comporta la divisione, in quanto le informazioni su ciascun lato degli spigoli sono diverse.
 > 
 > Questo problema è aggravato anche dall&#39;alias, come spiegato in [questa pagina](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md).
 
@@ -42,5 +42,5 @@ ht-degree: 0%
 > 
 > In questo caso sono possibili solo due soluzioni:
 > 
-> * Utilizzate una [gabbia](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) per controllare la direzione del raggio invece di consentire al fornaio di calcolarla dalla geometria a basso poli.
+> * Utilizzate una [gabbia](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) per controllare la direzione del raggio invece di consentire al fornaio di calcolarla dalla geometria a basso poli.
 > * Unite le normali dei vertici della trama a basso poli (ammorbiditele/applicate un gruppo di arrotondamento comune).

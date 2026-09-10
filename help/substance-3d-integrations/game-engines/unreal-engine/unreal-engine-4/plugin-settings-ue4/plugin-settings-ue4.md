@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
 breadcrumb-title: ''
 description: Configura le impostazioni Substance plug-in in Unreal Engine 4 tramite le Impostazioni del progetto per personalizzare il comportamento dei plug-in.
 helpx_creative_field: ""
@@ -38,9 +38,9 @@ La Substance Engine può essere CPU o GPU. Il motore GPU consentirà di creare t
 
 ## Generazione predefinita:
 
-La modalità di generazione Substance (SGM) controlla la modalità di generazione delle texture. Questa è un&#39;impostazione globale per la Substance. L&#39;SGM può essere modificato per Substance in fabbrica.
+La modalità di generazione della Substance (SGM) controlla la modalità di generazione delle texture. Questa è un&#39;impostazione globale per la Substance. L&#39;SGM può essere modificato per Substance in fabbrica.
 
-**SGM cotto**: prepara le texture della sostanza. Perdita della capacità di modificare i parametri in fase di runtime.
+**SGM Eseguito i baking**: Esegue i baking le texture Substance. Perdita della capacità di modificare i parametri in fase di runtime.
 
 **SGM durante il caricamento della sincronizzazione**: blocca l&#39;applicazione durante il caricamento delle Substance.
 

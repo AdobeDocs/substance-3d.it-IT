@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-4.html"
 breadcrumb-title: ''
 description: Consulta le note sulla versione per il plug-in MODO versione 2.7.4 per informazioni sulle nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ Aggiunto:
 
 Fisso:
 
-* Le texture sono nere quando si utilizza ottano in Modo 12.2v2
+* La texture è nera quando si utilizza ottano in Modo 12.2v2
 
 Supporta le versioni Modo 12.0 e successive

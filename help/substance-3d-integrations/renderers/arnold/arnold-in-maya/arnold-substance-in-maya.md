@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
 breadcrumb-title: ''
 description: Scopri come utilizzare i materiali Substance con il modulo di rendering Arnold in Maya utilizzando il plug-in Substance e il materiale Standard Surface.
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance nel plug-in Maya
 
-È possibile utilizzare il flusso di lavoro Arnold[Rendering](../../../3d-applications/maya/using-workflows/using-workflows.md) per creare automaticamente una rete shader.
+È possibile utilizzare il flusso di lavoro Arnold[Rendering](../../../3d-applications/maya/using-workflows/using-workflows.md) per creare automaticamente una rete di shader.
 
 ![](../../../assets/render-workflow.png)

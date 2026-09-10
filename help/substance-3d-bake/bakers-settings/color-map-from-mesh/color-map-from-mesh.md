@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
-description: Proietta le proprietà del colore da trame a poli elevato nelle texture per creare ID di polipinto o materiale per le maschere di selezione.
+description: Proietta le proprietà dei colori dalle trame ad alto poli alle texture per eseguire i baking ID di polipinto o materiale per le maschere di selezione.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Color Map from Mesh
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 # Mappa colori da trama
 
-Questa Mappa colore di un fornaio di trama proietta le proprietà del colore da una trama ad alta definizione in una texture. Può essere utilizzato per creare ID di materiale o di poligono per creare maschere di selezione.
+Questa Mappa colore da baker trama proietta le proprietà del colore da una trama ad alta definizione in una texture. Può essere utilizzato per eseguire i baking ID di poligono o materiale per creare maschere di selezione.
 
 **Disponibile in:**
 

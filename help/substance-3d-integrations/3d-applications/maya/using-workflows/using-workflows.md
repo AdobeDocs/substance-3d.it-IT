@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
 description: Crea e utilizza i predefiniti di rendering per gli output Substance in Maya per generare automaticamente reti di shader per diversi moduli di rendering.
 helpx_creative_field: ""

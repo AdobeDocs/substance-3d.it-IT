@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance con il modulo di rendering Arnold in 3ds Max utilizzando il plug-in Substance e il materiale Standard Surface.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Per utilizzare le texture Substance con Arnold, devi abilitare il supporto per le mappe Max di 3ds legacy
+> Per lavorare con Arnold, devi abilitare il supporto per Mappe precedenti di 3ds Max.
 
 ## Substance nel plug-in 3ds Max
 
@@ -36,6 +36,6 @@ Utilizzando il plug-in [3ds Max](../../../3d-applications/3ds-max/3ds-max.md), p
 
 >[!WARNING]
 >
-> Il modulo di rendering GPU non è supportato con Substance texture quando si utilizza ActiveShade.
+> Il modulo di rendering GPU non è supportato con la Texture Substance quando si utilizza ActiveShade.
 
 ![](../../../assets/legacy-1.png)

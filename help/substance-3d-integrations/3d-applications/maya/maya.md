@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya.html"
 breadcrumb-title: ''
 description: Installa e utilizza il plug-in Substance per Maya per importare i materiali Substance e integrarli nel tuo flusso di lavoro.
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ ht-degree: 3%
 * [Supporto Arnold](../../3d-applications/maya/arnold-support/arnold-support.md)
 * [Applica Flusso Di Lavoro Alle Mappe](../../3d-applications/maya/apply-workflow-to-maps/apply-workflow-to-maps.md)
 * [Maya Scripting](../../3d-applications/maya/maya-scripting/maya-scripting.md)
-* [Dimensioni fisiche a Maya](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/232292481.html)
+* [Dimensioni fisiche a Maya](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/232292481.html)

@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
-description: Correggi l’aspetto sfaccettato nelle texture normali uniformando le normali della trama e regolando le impostazioni del gruppo di arrotondamento.
+description: Correggi l’aspetto sfaccettato nelle texture normali smussando le normali trame e regolando le impostazioni dei gruppi di arrotondamento.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Normal texture looks faceted
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: La texture normale sembra sfaccettata
+title: Texture normale con aspetto sfaccettato
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 0%
 ---
 
 
-# La texture normale sembra sfaccettata
+# Texture normale con aspetto sfaccettato
 
 >[!WARNING]
 >
 > **Problema**
 > 
-> La texture Normale ha un aspetto sfaccettato o ogni faccia della trama è visibile in essa dopo averla cotta.
+> La texture Normale appare sfaccettata o ogni faccia della trama è visibile in essa dopo averla eseguita i baking.
 > 
 > ![](../../assets/normal-faceted.jpg)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **Spiegazione**
 > 
-> Il motivo principale per cui la cottura di una normale produrrebbe questo risultato è perché le normali basse mesh poly non sono impostate correttamente. Ogni bordo di ogni faccia è un bordo duro, facendo in modo che la proiezione di raggi durante la corrispondenza con la trama ad alto poli ignori le informazioni vicine e crei cuciture o informazioni inconsapevoli. Anche se il risultato può sembrare a posto sulla trama, questo può portare a problemi di ombreggiatura in un secondo momento e deve essere risolto.
+> La ragione principale per cui eseguire i baking una normale produrrebbe questo risultato è perché le normali a bassa mesh poly non sono impostate correttamente. Ogni bordo di ogni faccia è un bordo duro, facendo in modo che la proiezione di raggi durante la corrispondenza con la trama ad alto poli ignori le informazioni vicine e crei cuciture o informazioni inconsapevoli. Anche se il risultato può sembrare a posto sulla trama, questo può portare a problemi di ombreggiatura in un secondo momento e deve essere risolto.
 
 >[!NOTE]
 >

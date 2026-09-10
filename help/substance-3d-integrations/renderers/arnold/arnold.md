@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/arnold.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance con il modulo di rendering Arnold in Maya e 3ds Max, incluso il supporto per gli output del flusso di lavoro metallico.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Arnold
 
-Il materiale di superficie standard di Arnold 5 ora supporta il flusso di lavoro metallizzato. Potete esportare i canali del documento da Substance Painter utilizzando lo shader metallico predefinito o semplicemente utilizzando gli output del flusso di lavoro metallico del plug-in Substance da un materiale per Substance.
+Il materiale di superficie standard di Arnold 5 ora supporta il flusso di lavoro metallizzato. Potete esportare i canali del documento da Substance Painter usando lo shader metallico predefinito o semplicemente usando gli output del flusso di lavoro metallico del plug-in Substance da un materiale di Substance.
 
 * Colore di base
 * Ruvidità
@@ -28,6 +28,6 @@ Il materiale di superficie standard di Arnold 5 ora supporta il flusso di lavoro
 
 ## Sommario
 
-* [Arnold - Substance in 3ds Max](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
-* [Arnold - Substance a Maya](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
+* [Arnold - Substance in 3ds Max](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
+* [Arnold - Substance a Maya](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
 * [Arnold - Substance Painter](../../renderers/arnold/arnold-painter/arnold-substance-painter.md)

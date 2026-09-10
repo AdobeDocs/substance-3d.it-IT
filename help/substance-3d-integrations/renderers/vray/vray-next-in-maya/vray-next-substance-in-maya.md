@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance con V-Ray Next in Maya tramite le mappe esportate o il plug-in Substance per il rendering.
 helpx_creative_field: ""

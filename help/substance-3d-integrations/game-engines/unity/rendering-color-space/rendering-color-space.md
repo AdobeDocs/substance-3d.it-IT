@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
 description: Configura le impostazioni dello spazio colore di Unity per garantire il rendering corretto dei materiali Substance con ombreggiatori basati fisicamente.
 helpx_creative_field: ""

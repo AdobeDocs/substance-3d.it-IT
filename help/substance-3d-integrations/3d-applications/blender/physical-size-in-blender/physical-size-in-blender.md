@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
 breadcrumb-title: ''
 description: Usa le impostazioni dimensioni fisiche per ridimensionare i materiali Substance in base alle dimensioni reali in Blender.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ La dimensioni fisiche nei materiali di Substance consente di ridimensionare i ma
 
 ![](../../../assets/blender-physical-size.png)
 
-Con la Dimensioni fisiche abilitata, i materiali verranno affiancati in base alle loro dimensioni reali in centimetri. L&#39;Affiancamento di materiale rimarrà lo stesso indipendentemente dalle proporzioni degli oggetti. La funzione può essere attivata passando allo shader Dimensioni fisiche nel pannello del componente aggiuntivo. Dopo aver regolato la scala di un oggetto, la scala deve essere applicata con ctrl/comando+A per affiancare con precisione la Texture della Dimensioni fisiche.
+Con la Dimensioni fisiche abilitata, i materiali verranno affiancati in base alle loro dimensioni reali in centimetri. L&#39;affiancatura del materiale rimarrà la stessa indipendentemente dalla scala degli oggetti. La funzione può essere attivata passando allo shader Dimensioni fisiche nel pannello del componente aggiuntivo. Dopo aver regolato la scala di un oggetto, la scala deve essere applicata con ctrl/comando+A per affiancare con precisione la texture della Dimensioni fisiche.
 
 ## Regolazione della Dimensioni fisiche
 

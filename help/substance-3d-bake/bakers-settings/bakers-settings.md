@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
 description: Esplora tutte le impostazioni di baker disponibili e scopri come configurare ogni tipo di baker per ottenere risultati ottimali nella generazione delle texture.
 helpx_creative_field: ""
@@ -25,7 +25,7 @@ Per ulteriori informazioni su ciascun baker e le relative impostazioni, consulta
 * [Parametri comuni](../bakers-settings/common-parameters/common-parameters.md)
 * [Occlusione ambientale](../bakers-settings/ambient-occlusion/ambient-occlusion.md)
 * [Occlusione ambientale dalla trama](../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)
-* [Normali piegati da trama](../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md)
+* [Normali incurvate da trama](../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md)
 * [Mappa colori da trama](../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)
 * [Converti UV in SVG](../bakers-settings/convert-uv-to-svg/convert-uv-to-svg.md)
 * [Curvatura](../bakers-settings/curvature/curvature.md)

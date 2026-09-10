@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
 description: Utilizzate le mappe di spostamento e di rilievo dai materiali delle Substance in MODO per aggiungere dettagli e profondità della superficie ai modelli.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Operazioni con rilievo e Spostamento
 
-La Substance può avere un output di height opzionale. È possibile utilizzarlo come spostamento o rilievo. Quando attivate il height, questo viene impostato sull’effetto texture rilievo. Per Unity sarà impostato su Unity Bump e Unreal sarà Unreal Bump. Potete quindi selezionare il materiale dell’elemento della Substance e impostare l’ampiezza della rilievo di conseguenza. Se desiderate usare il height come spostamento, potete impostare l’effetto Livello materiale su Ombreggiatura superficie > Spostamento. Quindi in Rif materiale (Material Ref), impostate la distanza di Spostamento appropriata.
+La Substance può avere un output di height opzionale. È possibile utilizzarlo come spostamento o rilievo. Quando si abilita il height, verrà impostato sull&#39;effetto texture rilievo. Per Unity sarà impostato su Unity Bump e Unreal sarà Unreal Bump. Potete quindi selezionare il materiale dell’elemento della Substance e impostare l’ampiezza della rilievo di conseguenza. Se desiderate usare il height come spostamento, potete impostare l’effetto Livello materiale su Ombreggiatura superficie > Spostamento. Quindi in Rif materiale (Material Ref), impostate la distanza di Spostamento appropriata.
 
 ![](../../../assets/bump-1.png)
 

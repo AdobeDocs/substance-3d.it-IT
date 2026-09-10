@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
 description: Utilizza i materiali Substance con il modulo di rendering Octane in 3ds Max tramite i materiali Live DB e impostazioni di output corrette.
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance nel plug-in 3ds Max
 
-Usando il plug-in [3ds Max](../../../3d-applications/3ds-max/3ds-max.md), puoi scegliere l&#39;ottano nel menu Substance per impostare automaticamente il materiale ottano con gli input della texture Substance.
+Utilizzando il plug-in [3ds Max](../../../3d-applications/3ds-max/3ds-max.md), puoi scegliere Ottano nel menu Substance per impostare automaticamente il materiale di Ottano con gli input della texture Substance.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/octane?$png$&jpegSize=200&wid=852)

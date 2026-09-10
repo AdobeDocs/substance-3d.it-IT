@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
-description: Eliminate le giunture visibili nelle texture normali cotte regolando l'imbottitura, l'anti-alias e il layout UV.
+description: Eliminate le giunture visibili nella texture normale eseguita i baking regolando l'imbottitura, l'anti-alias e il layout UV.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Seams are visible after baking a normal texture
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Le cuciture sono visibili dopo la cottura di una texture normale
+title: Le giunture sono visibili dopo aver eseguito i baking una texture normale
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,19 +18,19 @@ ht-degree: 0%
 ---
 
 
-# Le cuciture sono visibili dopo la cottura di una texture normale
+# Le giunture sono visibili dopo aver eseguito i baking una texture normale
 
 >[!WARNING]
 >
 > **Problema**
 > 
-> Le normali giunture delle mappe sono visibili ai bordi UV della trama anche dopo un forno pulito.
+> Le cuciture delle mappe normali sono visibili ai bordi UV della trama anche dopo una esegue i baking pulita.
 
 >[!NOTE]
 >
 > **Spiegazione**
 > 
-> Anche dopo una cottura perfetta, le cuciture possono ancora essere visibili. Il motivo principale è che una normale approssimazione delle informazioni di superficie in una texture. A volte la texture manca di precisione o deve compensare troppo tra la geometria poly bassa e quella alta per essere abbastanza accurata. In altre situazioni, il modo in cui la geometria viene orientata con la sua mappa normale può influire sul suo aspetto ottimale.
+> Anche dopo una esegue i baking perfetta, le cuciture possono ancora essere visibili. Il motivo principale è che una normale approssimazione delle informazioni superficiali in una texture. A volte la texture manca di precisione o deve compensare troppo tra la geometria poly bassa e alta per essere abbastanza accurata. In altre situazioni, il modo in cui la geometria viene distribuita con la sua mappa normale può influire sul suo aspetto ottimale.
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * Spesso gli UV non sono allineati ai pixel, il che porta all&#39;aliasing e produce giunture. Per ulteriori informazioni, vedere [questa pagina](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md).
 >   * Aumentando la risoluzione della texture si può ridurre questo effetto.
 >   * Allineando i bordi UV ai pixel è possibile ridurre questo effetto.
-> * Aumentate l&#39;impostazione dello shader **qualità**. La qualità dello shader può influire sul modo in cui vengono calcolati i riflessi di specular. Se alcune Isole UV vengono ruotate e questo parametro è troppo basso, possono verificarsi giunture visibili. Per ulteriori informazioni, vedere [questa pagina](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html).
+> * Aumentate l&#39;impostazione di **qualità** dello shader. La qualità dello shader può influire sul modo in cui vengono calcolati i riflessi degli specular. Se alcune Isole UV vengono ruotate e questo parametro è troppo basso, possono verificarsi giunture visibili. Per ulteriori informazioni, vedere [questa pagina](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html).

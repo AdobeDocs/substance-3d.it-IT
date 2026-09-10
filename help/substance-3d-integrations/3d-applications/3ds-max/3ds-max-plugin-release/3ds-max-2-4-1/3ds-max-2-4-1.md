@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-1.html"
 breadcrumb-title: ''
 description: Consultate le note sulla versione per il plug-in 3ds Max versione 2.4.1 per informazioni sulle nuove funzioni, i miglioramenti e le correzioni di bug.
 helpx_creative_field: ""
@@ -32,6 +32,6 @@ Rilasciato il 18 dicembre 2020
 * Substance\_link.dll che utilizza un numero elevato di cicli di CPU
 * Errore di asserzione durante l’esportazione di un predefinito di Substance
 * Arresto anomalo durante la creazione di un predefinito quando non è presente
-* Arresto anomalo con il denoiser per il modulo di rendering Corona
+* Arresto anomalo di denoiser per il modulo di rendering Corona
 
 Questa versione è disponibile per 3ds Max 2019, 2020 e 2021

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
 breadcrumb-title: ''
 description: Configura le proprietà degli emissivi per i materiali Substance in MODO per controllare le impostazioni della quantità luminosa e del colore.
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Working wit
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Utilizzo di Emissive
+title: Utilizzo degli Emissivi
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo di Emissive
+# Utilizzo degli Emissivi
 
 ## Utilizzo dell’Emissivo (quantità e colore luminosi)
 
