@@ -24,7 +24,7 @@ In questa pagina vengono raggruppate le informazioni sulla versione del motore d
 
 I materiali e i modelli Substance creati nel software Substance possono essere utilizzati solo in applicazioni che supportano la stessa versione del motore substance o una versione più recente, altrimenti le nuove funzionalità non sarebbero compatibili.
 
-Le tabelle in questa pagina consentono di verificare se un materiale di Substance o un modello procedurale di Substance è utilizzabile con la versione corrente del software. Potrebbero non menzionare tutte le versioni rilasciate, solo quelle in cui è stato fatto un aggiornamento. Quindi se una versione non viene menzionata significa che quella precedente è quella che si applica.
+Le tabelle riportate in questa pagina consentono di verificare se un materiale di Substance o un modello di procedurali di Substance è utilizzabile con la versione corrente del software. Potrebbero non menzionare tutte le versioni rilasciate, solo quelle in cui è stato fatto un aggiornamento. Quindi se una versione non viene menzionata significa che quella precedente è quella che si applica.
 
 <table>
 <tr style="border: 0;">
@@ -78,7 +78,7 @@ Stager\
 </tr>
 </table>
 
-| Versione software | Versione motore di Substance | Versione panifici | Versione anorigami |
+| Versione software | Versione motore di Substance | Versione baker | Versione anorigami |
 | --- | --- | --- | --- |
 | <b>9.1.0</b> 7 novembre 2023 | 9.0.3 |  |  |
 | <b>7.4.2</b> | 8.3.0 | 2.5.5 | 0.8.0 |
@@ -107,7 +107,7 @@ Stager\
 </tr>
 </table>
 
-| Versione software | Versione motore di Substance | Versione panifici |
+| Versione software | Versione motore di Substance | Versione baker |
 | --- | --- | --- |
 | <b>13.1.0</b> 12 dicembre 2023 | 9.0.3 | 2.5.7 |
 | <b>13.0.2</b> 27 luglio 2023 | 9.0.1 | 2.5.7 |
@@ -124,7 +124,7 @@ Stager\
 
 +++Versioni precedenti
 
-| Versione software | Versione motore di Substance | Versione panifici |
+| Versione software | Versione motore di Substance | Versione baker |
 | --- | --- | --- |
 | <b>9.3.3</b> 14 febbraio 2020 | 7.2.9 | 2.3.1 |
 | <b>9.2.3</b> 26 novembre 2019 | 7.2.0 | 2.2.4 |

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
-description: Utilizza i materiali Substance nel modulo di rendering Keyshot per la visualizzazione del prodotto con le mappe delle texture esportate.
+description: Utilizza i materiali Substance nel modulo di rendering Keyshot per la visualizzazione del prodotto con le mappe texture esportate.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Keyshot
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 8%
 
 ## Substance Painter esportazione
 
-1. Per Keyshot, dovrete configurare un predefinito di esportazione utilizzando Diffusione, Riflessione, Metallico, Rugosità e Normale (X diretto).
+1. Per Keyshot, dovrete configurare un predefinito di esportazione utilizzando Diffusa, Riflessione, Metallico, Rugosità e Normale (X diretto).
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/key-01?$png$&jpegSize=300&wid=1794)
 

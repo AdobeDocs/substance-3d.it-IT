@@ -42,14 +42,14 @@ Associa un nuovo oggetto grafico a questo gestore di runtime.
 ```
 
 
-Aggiorna input Substance float
+Aggiorna input Virgola mobile Substance
 
 ```
 • float GetInputFloat (string inputName)
 ```
 
 
-Ottieni input Substance float
+Ottieni input Virgola mobile Substance
 
 ```
 • void SetInputVector2 (string inputName, Vector2 value)
@@ -203,21 +203,21 @@ Restituisce la descrizione di input completa per il nome di input di destinazion
 ```
 
 
-Aggiornate l&#39;input Substance Texture2D.
+Aggiorna input Substance Texture2D.
 
 ```
 • Vector2Int GetTexturesResolution ()
 ```
 
 
-Restituisce la risoluzione dell&#39;output della texture dell&#39;istanza.
+Restituisce la risoluzione di output della texture di istanza.
 
 ```
 • void SetTexturesResolution (Vector2Int size)
 ```
 
 
-Imposta la risoluzione dell’output della texture dell’istanza.
+Imposta la risoluzione di output della texture di istanza.
 
 ```
 • bool HasInput (string inputName)

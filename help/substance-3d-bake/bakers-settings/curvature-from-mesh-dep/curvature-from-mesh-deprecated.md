@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
-description: Riferimento per la curvatura deprecata dal fornaio di trama. Utilizzate invece la curvatura aggiornata dal fornaio della trama.
+description: Riferimento per la curvatura obsoleta dal baker Trama. Utilizzate invece il baker curvatura da trama aggiornato.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Curvature from Mesh (deprecated)
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Curvatura da trama (obsoleta)
 
-La curvatura da fornaio trama genera una texture di curvatura da trame ad alto poli. È più lento della base [curvatura](../../bakers-settings/curvature/curvature.md) del fornaio, ma produce risultati più precisi.
+Il baker Curvatura da trama genera una texture di curvatura da trame ad alto poli. È più lento del baker [curvatura](../../bakers-settings/curvature/curvature.md) di base ma produce risultati più precisi.
 
 **Disponibile in:**
 
@@ -29,7 +29,7 @@ La curvatura da fornaio trama genera una texture di curvatura da trame ad alto p
 
 >[!NOTE]
 >
-> Dal Substance Designer 2019.3 questo fornaio è deprecato e si consiglia di utilizzare invece la nuova [curvatura dalla trama](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md).
+> Dal Substance Designer 2019.3 questo baker è deprecato e si consiglia di utilizzare invece il nuovo baker [Curvatura dalla trama](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md).
 
 ## Parametri
 
@@ -37,4 +37,4 @@ La curvatura da fornaio trama genera una texture di curvatura da trame ad alto p
 | --- | --- |
 | **Intensità** | Quanto saranno forti i dettagli di curvatura. Questo parametro è disabilitato se **Saturazione morbida** è abilitato. |
 | **Morbido** **Saturo** | Se questa opzione è attivata, i dettagli della curvatura verranno attenuati. |
-| **Ingrandisci intervallo** | Se questa opzione è attivata, i dettagli della curvatura si adattano all’interno della capacità dell’intervallo di texture. Ciò significa che i valori molto forti saranno definiti come il massimo e tutti gli altri valori verranno ridimensionati in base a tale estremo. |
+| **Massimizza intervallo** | Se questa opzione è attivata, i dettagli della curvatura si adattano alla capacità dell’intervallo di texture. Ciò significa che i valori molto forti saranno definiti come il massimo e tutti gli altri valori verranno ridimensionati in base a tale estremo. |

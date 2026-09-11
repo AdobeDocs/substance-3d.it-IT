@@ -39,7 +39,7 @@ ht-degree: 0%
 > I file di output dei Baker vengono salvati all&#39;interno del file di progetto (\*.spp). Per esportarle è possibile:
 > 
 > * Utilizza la finestra di dialogo **File > Esporta Texture** e scegli il predefinito di esportazione &quot;Mesh maps&quot;
-> * Fare clic con il pulsante destro del mouse su una texture eseguita i baking nello scaffale e scegliere &quot;Esporta&quot;.
+> * Fate clic con il pulsante destro del mouse sulla texture di un forno nello scaffale e scegliete &quot;Esporta&quot;.
 
 >[!NOTE]
 >

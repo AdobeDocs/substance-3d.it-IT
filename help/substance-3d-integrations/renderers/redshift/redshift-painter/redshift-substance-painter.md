@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
-description: Esportate le texture Substance Painter per il modulo di rendering Redshift utilizzando i modelli di output e le impostazioni del materiale corrette.
+description: Esportate texture Substance Painter per il modulo di rendering Redshift utilizzando i modelli di output e le impostazioni del materiale corrette.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift > Redshift - Substance Painter
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # Redshift - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) supporta Redshift [Modelli di output](https://docs.substance3d.com/display/SPDOC/Export) per metallizzazione/rugosità (rsMaterial). Puoi semplicemente esportare utilizzando il modello Redshift per produrre trame compatibili con i materiali Redshift.
+Substance Painter 2020.1 (6.1.0) supporta Redshift [Modelli di output](https://docs.substance3d.com/display/SPDOC/Export) per metallizzazione/rugosità (rsMaterial). Puoi semplicemente esportare utilizzando il modello Redshift per produrre texture compatibile con i materiali Redshift.
 
 ![](../../../assets/rs-export.png)
 
@@ -28,11 +28,11 @@ Substance Painter 2020.1 (6.1.0) supporta Redshift [Modelli di output](https://d
 
 | Substance Painter esportazione | Materiale Redshift |
 | --- | --- |
-| Colora | Diffusione/Colore |
+| Colora | Diffusa/Colore |
 | Ruvidità | Riflessione/Rugosità (BRDF = GGX) |
 | Metallicità | Riflesso/Metallicità (Tipo Fresco = Metallicità) |
 | Normale | Complessivo / Mappa rilievo / rsBumpMap (Tipo mappa di input = Spazio tangente normale - Scala Height = 1,0) |
-| DisplaceHeightField | Shader di Spostamento/Mappa di testo di rsDisplacement (codifica mappa = campo Height) |
+| DisplaceHeightField | Shader di Spostamento/rsDisplacement TexMap (codifica mappa = campo Height) |
 | EmissionColor | Totale / Emissioni (Peso Delle Emissioni = 1,0) |
 
 >[!NOTE]

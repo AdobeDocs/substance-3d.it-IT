@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Per utilizzare le texture Substance con Arnold, devi abilitare il supporto per le mappe Max di 3ds legacy
+> Per lavorare con Arnold, devi abilitare il supporto per Mappe precedenti di 3ds Max.
 
 ## Substance nel plug-in 3ds Max
 
@@ -36,6 +36,6 @@ Utilizzando il plug-in [3ds Max](../../../3d-applications/3ds-max/3ds-max.md), p
 
 >[!WARNING]
 >
-> Il modulo di rendering GPU non è supportato con Substance texture quando si utilizza ActiveShade.
+> Il modulo di rendering GPU non è supportato con la Texture Substance quando si utilizza ActiveShade.
 
 ![](../../../assets/legacy-1.png)

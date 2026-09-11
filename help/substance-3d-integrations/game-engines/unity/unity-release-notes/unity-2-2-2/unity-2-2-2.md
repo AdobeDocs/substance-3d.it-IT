@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ### Plug-in core:
 
-* È stato corretto un bug a causa del quale l’interfaccia grafica della texture predefinita di Unity veniva sovrascritta durante l’installazione del plug-in Substance in Unity.
+* È stato corretto un bug a causa del quale l’interfaccia utente di texture predefinita di Unity veniva sovrascritta durante l’installazione del plug-in Substance In Unity.
   * È stato corretto un bug a causa del quale l’impostazione di EditorApplication.delayCall causava problemi con altri plug-in.
   * È stato risolto un arresto anomalo che si verificava quando si utilizzavano caratteri non latini nel nome di un progetto.

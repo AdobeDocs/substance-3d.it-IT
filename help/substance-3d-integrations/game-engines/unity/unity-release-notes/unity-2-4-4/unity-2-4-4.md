@@ -23,9 +23,9 @@ ht-degree: 0%
 Rilasciato a febbraio 2020
 
 * Aggiunto: supporto appropriato per 2019.3: modifiche alle API Unity corrette che hanno interrotto l&#39;oggetto scrivibile del plug-in Substance. Oggetti rielaborati per funzionare con gli aggiornamenti API 2019.3. Fisso - L’uso di materiale personalizzato fa diventare nero il materiale al termine del gioco
-* Corretto - Arresto anomalo quando si utilizza la funzione Duplicate() in uno script, quindi si entra e si esce dalla riproduzione.
-* Fisso - Ripristino di affiancamento, impostazioni e shader dei materiali nel 2019.3
-* Fisso - HDRP Material Shader non aggiorna le modifiche apportate a un parametro
+* Fisso: Arresto anomalo quando si utilizza la funzione Duplicate() in uno script, quindi si immette e si esce dalla riproduzione.
+* Fisso - Affiancamento di materiali, impostazioni e ripristino degli shader nel 2019.3
+* Fisso - Lo Shader materiale HDRP non aggiorna le modifiche di un parametro
 * Corretto: la mappa della maschera HDRP non viene aggiornata
 * Fisso - Aggiungi parametro stringa per funzione duplicata
 * Fisso - Correggi il supporto Linux nella versione più recente di Unity stabile

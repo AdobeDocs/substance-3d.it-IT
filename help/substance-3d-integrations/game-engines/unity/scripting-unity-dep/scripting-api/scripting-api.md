@@ -26,8 +26,8 @@ ht-degree: 1%
 
 | Public, metodo | Descrizione | Parametro |
 | --- | --- | --- |
-| **float** *GetInputFloat*(**string** inputName) pubblico | Ottieni input Substance **Mobile** | **Stringa** *nomeInput* Nome dell&#39;input nella SBSAR |
-| public **int** *SetInputFloat*(**string** inputName, valore **float**) | Aggiorna input Substance **Mobile** | **Stringa** i *nputName* Nome dell&#39;input nell&#39;oggetto **Float** *valore* SBSAR utilizzato per aggiornare il parametro |
+| **float** *GetInputFloat*(**string** inputName) pubblico | Ottieni input Substance **Virgola mobile** | **Stringa** *nomeInput* Nome dell&#39;input nella SBSAR |
+| public **int** *SetInputFloat*(**string** inputName, valore **float**) | Aggiorna input Substance **Virgola mobile** | **Stringa** i *nputName* Nome dell&#39;input nella **Virgola mobile** *valore* SBSAR utilizzato per aggiornare il parametro |
 | public **void** *SetInputVector2*(**string** inputName, valore **Vector2**) | Aggiorna input Substance **Vettoriale2** | **Stringa** *nomeInput* Nome dell&#39;input nell&#39;SBSAR **vettore2** *input* Valori utilizzati per aggiornare il parametro |
 | **vettoriale2** *GetInputVector2*(**stringa** inputName) pubblico | Ottieni input Substance **Vettoriale2** | **Stringa** &quot;inputName&quot; Nome dell&#39;input nella SBSAR |
 | public **void** *SetInputVector3*(**string** inputName, valore **Vector3**) | Aggiorna input Substance **Vettoriale3** | **Stringa** *nomeInput* Nome dell&#39;input nella **Vettore3** *valore* SBSAR Valori utilizzati per aggiornare il parametro |

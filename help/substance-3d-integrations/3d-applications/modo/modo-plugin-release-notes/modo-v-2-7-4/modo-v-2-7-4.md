@@ -28,6 +28,6 @@ Aggiunto:
 
 Fisso:
 
-* Le texture sono nere quando si utilizza ottano in Modo 12.2v2
+* La texture è nera quando si utilizza ottano in Modo 12.2v2
 
 Supporta le versioni Modo 12.0 e successive

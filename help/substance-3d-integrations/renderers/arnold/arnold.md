@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Arnold
 
-Il materiale di superficie standard di Arnold 5 ora supporta il flusso di lavoro metallizzato. Potete esportare i canali del documento da Substance Painter utilizzando lo shader metallico predefinito o semplicemente utilizzando gli output del flusso di lavoro metallico del plug-in Substance da un materiale per Substance.
+Il materiale di superficie standard di Arnold 5 ora supporta il flusso di lavoro metallizzato. Potete esportare i canali del documento da Substance Painter usando lo shader metallico predefinito o semplicemente usando gli output del flusso di lavoro metallico del plug-in Substance da un materiale di Substance.
 
 * Colore di base
 * Ruvidità

@@ -25,11 +25,11 @@ Il nuovo nodo della sostanza aggregata consente di prendere due factory di istan
 1. Importa la Substance che desideri utilizzare.
 1. Creare una variabile &quot;AggregateGraphInstance&quot; di tipo **Istanza di Grafico Substance**.
 1. Creare una variabile di tipo **Materiale** e **Istanza di materiale dinamica**
-1. Creare una **connessione Substance** e impostare gli identificatori di output e di input.
+1. Creare una **connessione a una Substance** e impostare l&#39;output e gli identificatori di input.
 1. Creare **Aggregate Substance Instance Factory** e impostare Output e Input Factory.
 1. Creare una **istanza del grafico** e impostare un nome di istanza.
 1. Impostare la variabile **Istanza grafico aggregato**.
-1. Ottieni le texture substance dall&#39;istanza del grafico aggregato nel passaggio 7 utilizzando **Ottieni texture Substance**.
+1. Ottieni texture Substance dall&#39;istanza del grafico aggregato nel passaggio 7 utilizzando **Ottieni Texture Substance**.
 1. Create una **istanza di materiale dinamico** utilizzando la variabile di materiale del passaggio 3 come elemento padre.
 1. Impostare la variabile MID dal punto 3.
 1. Impostate il materiale per la trama utilizzando **Imposta materiale** con la variabile MID.

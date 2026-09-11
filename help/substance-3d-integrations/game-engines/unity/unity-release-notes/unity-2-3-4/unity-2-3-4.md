@@ -46,10 +46,10 @@ ht-degree: 0%
 * Risolti i problemi relativi all’importazione di una Substance senza mappe texture
 * È stato risolto un problema per cui il processo di riflessione non funzionava correttamente in Unity 2019.x
 * Risolti i problemi di gestione dei prefabbricati durante l’importazione di un pacchetto contenente prefabbricati con materiali Substance
-* Assegnazioni di materiali/texture fisse non riportate dopo il processo di riflessione
+* Assegnazioni di materiali fissi/texture non riportate dopo il processo di riflessione
 * È stato risolto un problema relativo alla modifica degli ombreggiatori che causava l’interruzione dei materiali
 * È stato risolto un problema a causa del quale la rugosità non veniva imballata nel canale alfa metallico.
-* È stato risolto un problema a causa del quale, quando era installato il plug-in Substance, la modifica delle impostazioni di importazione per le texture non sostanziali annullava alcune opzioni.
+* È stato risolto un problema a causa del quale, quando il plug-in Substance era installato, la modifica delle impostazioni di importazione per le texture non sostanziali annullava alcune opzioni.
 * È stato risolto un problema che impediva l’apertura della Substance Source in Mac.
 
 ## Problemi noti:

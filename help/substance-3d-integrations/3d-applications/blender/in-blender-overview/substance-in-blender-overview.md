@@ -38,13 +38,13 @@ Il componente aggiuntivo Substance 3D consente di importare materiali di Substan
 
 ## Il pannello Substance 3D
 
-Il pannello Substance 3D viene utilizzato per gestire i materiali di Substance in un progetto e regolarne i singoli parametri. La sezione Parametri del grafico contiene i controlli per la risoluzione delle texture, l’Affiancamento, la randomizzazione e i predefiniti. La sezione output contiene i controlli per i formati immagine della texture generata. La sezione Parametro Substance è dove è possibile regolare i parametri della Substance.
+Il pannello Substance 3D viene utilizzato per gestire i materiali di Substance in un progetto e regolarne i singoli parametri. La sezione Parametri del grafico contiene i controlli per la risoluzione delle texture, la suddivisione in porzioni, la randomizzazione e i predefiniti. La sezione output contiene i controlli per i formati immagine della texture generata. La sezione Parametro Substance è dove è possibile regolare i parametri della Substance.
 
 Per ulteriori informazioni, consulta la pagina del [pannello Substance 3D](../../../3d-applications/blender/the-3d-panel/the-substance-3d-panel.md).
 
 ## Preferenze
 
-I comportamenti predefiniti e altre impostazioni possono essere regolati nelle preferenze del componente aggiuntivo. L’opzione &quot;Allega automaticamente il materiale&quot; può essere abilitata per allegare automaticamente i materiali della Substance agli oggetti e sovrascrivere l’assegnazione del materiale corrente. &quot;Evidenzia automaticamente il materiale per gli oggetti selezionati&quot; cambierà il materiale evidenziato nel pannello Substance 3D se viene selezionato un oggetto con quel materiale. L’attivazione di &quot;Aggiornamento automatico cicli delle texture&quot; consentirà di aggiornare le texture nel riquadro di visualizzazione 3D durante l’utilizzo della vista di rendering dei cicli.
+I comportamenti predefiniti e altre impostazioni possono essere regolati nelle preferenze del componente aggiuntivo. L’opzione &quot;Allega automaticamente il materiale&quot; può essere abilitata per allegare automaticamente i materiali della Substance agli oggetti e sovrascrivere l’assegnazione del materiale corrente. &quot;Evidenzia automaticamente il materiale per gli oggetti selezionati&quot; cambierà il materiale evidenziato nel pannello Substance 3D se viene selezionato un oggetto con quel materiale. L’attivazione di &quot;Aggiorna automaticamente texture cicli&quot; consentirà di aggiornare la texture nel riquadro di visualizzazione 3D durante l’utilizzo della vista di rendering dei cicli.
 
 Lo Spostamento può essere abilitato con l&#39;interruttore per il Height nella sezione Output. Qui puoi anche regolare il formato del file e la profondità di bit di ogni output.
 
@@ -72,7 +72,7 @@ Per ulteriori informazioni, consulta la pagina [Preferenze](../../../3d-applicat
 
 ## Trova altri materiali per la Substance
 
-Migliaia di materiali e altre risorse professionali sono disponibili per il download nella [pagina](https://helpx.adobe.com/it/substance-3d/unlisted/assets.html). Molte altre risorse condivise gratuitamente dalla community sono disponibili nella [pagina Risorse della community Substance 3D](https://helpx.adobe.com/it/substance-3d/unlisted/community-assets.html)
+Migliaia di materiali e altre risorse professionali sono disponibili per il download nella [pagina](https://helpx.adobe.com/it/substance-3d/unlisted/assets.html). Molte altre risorse condivise gratuitamente dalla community sono disponibili nella [pagina Substance 3D Community Assets](https://helpx.adobe.com/it/substance-3d/unlisted/community-assets.html)
 
 ## Community
 

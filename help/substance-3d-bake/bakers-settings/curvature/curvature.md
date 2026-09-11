@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
-description: Estrai le informazioni di curvatura dalla trama per creare texture che evidenzino le cavità e i bordi della geometria.
+description: Estrai le informazioni di curvatura dalla trama per creare texture che evidenziano cavità e bordi della geometria.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Curvature
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 2%
 
 # Curvatura
 
-Il fornaio curvatura consente di estrarre una texture di curvatura. Questa texture contiene informazioni su cavità e spigoli relative alla geometria.
+Il baker Curvatura consente di estrarre una texture di curvatura. Questa texture contiene le informazioni relative alle cavità e agli spigoli della geometria.
 
-Le proprietà della texture sono definite come:
+Le proprietà della texture sono definite come segue:
 
 * I valori del nero rappresentano aree concave.
 * I valori bianchi rappresentano aree convesse.
@@ -40,5 +40,5 @@ Le proprietà della texture sono definite come:
 | --- | --- |
 | **Algoritmo** | Definisce la modalità di calcolo delle informazioni di curvatura sulla trama. |
 | **Dettagli** | Controlla l’intensità delle informazioni nella curvatura. Un valore elevato può produrre più dettagli ma meno dettagli. |
-| **Abilita giunture** | Se questa opzione è attivata, il fornaio tenterà di ridurre le giunture tra le Isole UV copiando i testi ai bordi da un lato all’altro. |
+| **Abilita giunture** | Se questa opzione è attivata, il baker tenterà di ridurre le giunture tra le Isole UV copiando i testi ai bordi da un lato all’altro. |
 | **Cuciture** **Intensità** | Se **Abilita giunture** è abilitato, questo parametro controlla la forza della giuntura. |

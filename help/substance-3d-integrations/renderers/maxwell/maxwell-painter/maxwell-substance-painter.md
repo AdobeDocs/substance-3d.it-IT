@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
-description: Esportate le texture di Substance Painter per il modulo di rendering Maxwell utilizzando le impostazioni corrette per modelli di output e materiali.
+description: Esportate texture Substance Painter per il modulo di rendering Maxwell utilizzando le impostazioni corrette per modelli di output e materiali.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Maxwell > Maxwell - Substance Painter
 helpx_experience_level: ""
@@ -20,24 +20,24 @@ ht-degree: 0%
 
 # Maxwell - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) supporta Maxwell [Modelli di output](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/getting-started/export/export) per metallizzazione/rugosità e specular/lucidità. Puoi semplicemente esportare usando il Modello di output Maxwell**.\
-Maxwell 5.1.0** si integra con Substance Painter per importare facilmente texture e impostare automaticamente un materiale Maxwell.
+Substance Painter 2020.1 (6.1.0) supporta Maxwell [Modelli di output](https://experienceleague.adobe.com/it/docs/substance-3d-painter/using/getting-started/export/export) per metallizzazione/rugosità e specular/lucentezza. Puoi semplicemente esportare usando il Modello di output Maxwell**.\
+Maxwell 5.1.0** si integra con Substance Painter che consente di importare facilmente texture e impostare automaticamente un materiale Maxwell.
 
 ## Esportazione di texture
 
-Potete scegliere i Modelli di output Maxwell (Rugosità metallica) o Maxwell (Lucidità Specular) per esportare le texture per il rendering in Maxwell.
+Potete scegliere i Modelli di output Maxwell (Rugosità metallica) o Maxwell (Lucentezza Specular) per esportare texture per il rendering in Maxwell.
 
 ![](../../../assets/maxwell-output.png){width="500px"}
 
-## Applicazione di texture in Maxwell
+## Applicazione della Texture in Maxwell
 
 Potete usare l&#39;integrazione Substance Painter in Maxwell per creare automaticamente un materiale con le mappe esportate da Substance Painter applicata.\
 Per iniziare, fai clic con il pulsante destro del mouse sull&#39;elenco dei materiali e scegli **Nuovo>Substance Painter**.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/maxwell-painter?$png$&jpegSize=100&wid=413)
 
-Individuate la posizione in cui avete esportato le texture delle Substance Painter e selezionate una delle mappe, ad esempio il colore di base. Quando fai clic su Apri, l&#39;integrazione creerà un nuovo materiale Maxwell con le mappe assegnate.\
-Se avete esportato più set di texture da Substance Painter, l’integrazione utilizzerà la convenzione di denominazione della texture per assegnare mappe di texture corrispondenti.
+Individuate il percorso in cui avete esportato le texture di Substance Painter e selezionate una delle mappe, ad esempio colore di base. Quando fai clic su Apri, l&#39;integrazione creerà un nuovo materiale Maxwell con le mappe assegnate.\
+Se avete esportato più set di texture da Substance Painter, l’integrazione utilizzerà la convenzione di denominazione della texture per assegnare mappe texture corrispondenti.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/image-material?$png$&jpegSize=100&wid=620){width="600px"}
 

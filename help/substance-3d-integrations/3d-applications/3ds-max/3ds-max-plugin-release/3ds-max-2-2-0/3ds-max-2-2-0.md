@@ -23,13 +23,13 @@ ht-degree: 0%
 Rilasciato: 06/4/2019
 
 * Supporto aggiunto per 3ds Max 2020
-* Aggiornato a Substance Engine V7, con supporto per processori a valore aggiunto da Designer 2019.1
+* Aggiornato a Substance Engine V7, con l’aggiunta del supporto per processori di valori di Designer 2019.1
 * Il plug-in ora carica i motori di Substance rispetto a se stesso
 * Passaggio al formato MSI, installazione/disinstallazione invisibile corretta tramite gli strumenti di Microsoft
 * Il programma di installazione e i file sono ora firmati correttamente
 * Il programma di installazione non modifica più alcun file dal plug-in originale
 * Risolto il problema per cui il menu non veniva caricato in 3ds Max 2019 (e 2020)
 * Aggiunto il supporto nativo per il modulo di rendering ART
-* È stato risolto il problema relativo allo script del flusso di lavoro Corona in assenza di output lucido.
+* È stato risolto il problema relativo allo script del flusso di lavoro Corona in assenza di output lucentezza.
 * Gli script del flusso di lavoro sono ora distribuiti come file .ms semplici e possono essere esaminati
 * Modifiche cosmetiche più piccole e miglioramenti alla stabilità

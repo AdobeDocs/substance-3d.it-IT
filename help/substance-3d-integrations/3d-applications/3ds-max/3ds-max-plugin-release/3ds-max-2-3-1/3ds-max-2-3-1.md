@@ -35,7 +35,7 @@ Questa versione è attualmente disponibile per 3ds Max 2018, 2019, 2020 e 2021.
 * Script python più piccoli ora compatibili con Python 3
 * È stato aggiunto il supporto per l’utilità di avvio Substance per inviare le risorse Substance Source a 3ds Max. Ciò richiederà modifiche nel modulo di avvio, ma il supporto nel plug-in sarà disponibile quando la funzione verrà aggiunta.
 * Lo script di rendering Redshift ora utilizza i nuovi nomi di nodi impostati in Redshift 2.6.24
-* Massimo non si arresta più in modo anomalo quando un percorso vuoto viene assegnato a Substance2 SubstanceFilePath
+* Massimo non più arresti anomali quando un percorso vuoto viene assegnato a Substance2 SubstanceFilePath
 * Rimuovere la collisione del nome del tipo SubstanceOutput con il vecchio plug-in
 * Classe SubstanceOutput rinominata in Substance2Output
 * Classe rinominata Substance Menu Manager in Substance2MenuManager

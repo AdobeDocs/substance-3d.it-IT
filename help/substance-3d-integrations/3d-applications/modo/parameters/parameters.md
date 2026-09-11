@@ -38,11 +38,11 @@ Una Substance ha un set di parametri principali, che si trovano nella categoria 
 * **Seleziona predefinito:** consente di scegliere un predefinito incorporato nel file di Substance o dai predefiniti salvati in MODO.
 * **Esegue i baking su disco:** Questo parametro esegue i baking le texture generate dalla Substance in un file bitmap.
 * **Dimensione output:** Questo parametro ridimensionerà dinamicamente la texture in base alle dimensioni impostate. La Substance Engine rigenererà la texture alla dimensione desiderata.
-* **Numero casuale:** Questo parametro varia la generazione procedurale della Substance. Questo parametro è ideale per la creazione di una versione casuale della stessa Substance. Consente di variare rapidamente i parametri della Substance per generare una nuova versione delle texture
+* **Numero casuale:** Questo parametro varia la generazione procedurale della Substance. Questo parametro è ideale per la creazione di una versione casuale della stessa Substance. Consente di variare rapidamente i parametri della Substance per generare una nuova versione della texture
 
 ## Output
 
-Le opzioni Output consentono di attivare o disattivare gli output della Substance. Un output è ciò che viene generato dalla Substance Engine e sottoposto a rendering come texture nell’albero shader.
+Le opzioni Output consentono di attivare o disattivare gli output della Substance. Un output è ciò che viene generato dalla Substance Engine e sottoposto a rendering come texture nell’albero degli Shader.
 
 ![](../../../assets/outputs-02.png){width="300px"}
 

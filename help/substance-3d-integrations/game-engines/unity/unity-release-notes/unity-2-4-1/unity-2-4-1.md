@@ -24,6 +24,6 @@ ht-degree: 0%
 
 * Quando si utilizza l&#39;HDRP, il valore metallico sul materiale HDRP generato viene impostato su 0. È stato corretto il valore predefinito su 1.0.
 * L&#39;output della maschera HDRP è stato impostato su sRGB - Fisso per essere disattivato sRGB
-* La lettura/scrittura non è più abilitata sulle texture non substance
+* Lettura/scrittura non più abilitata su texture non substance
 * Android ora supporta correttamente i 64 bit.
 * Substance Source fissa non caricata sul sistema operativo Mac

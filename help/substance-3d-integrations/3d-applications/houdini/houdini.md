@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/houdini.html"
 breadcrumb-title: ''
-description: Utilizza i materiali Substance in Houdini tramite le mappe delle texture esportate per flussi di lavoro e rendering procedurali.
+description: Utilizza i materiali Substance in Houdini tramite le mappe texture esportate per flussi di lavoro e rendering procedurali.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Houdini
 helpx_experience_level: ""

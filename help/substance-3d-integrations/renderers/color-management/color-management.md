@@ -28,18 +28,18 @@ L’approccio sarà semplice: il rendering dello spazio lineare fornisce la mate
 
 ## Gestione colore
 
-Lo scopo di questo documento è quello di descrivere in dettaglio la procedura di utilizzo delle texture esportate da **Substance Painter** e **Substance Designer** in [software 3D](https://www.adobe.com/it/products/substance3d/3d-augmented-reality.html) e moduli di rendering.
+Lo scopo di questo documento è quello di descrivere in dettaglio la procedura di utilizzo della texture esportata da **Substance Painter** e **Substance Designer** in [software 3D](https://www.adobe.com/it/products/substance3d/3d-augmented-reality.html) e moduli di rendering.
 
 Il modo corretto di interpretare un’immagine utilizzata come input in un canale di materiale dipende da come l’immagine viene utilizzata nella scena. Anche lo spazio colore, la codifica e se i valori cromatici sono proporzionali alla **luminanza riferita alla scena** o alla **luminanza riferita alla visualizzazione** svolgono un ruolo importante.
 
-* Le immagini utilizzate per rappresentare **dati non a colori** non devono essere trasformate. Si tratta in genere di mappe **normali**, **rugosità**, **metalliche**, **spostamenti** e **ambientali** **occlusioni**.
-* Le immagini che rappresentano i colori possono avere più scenari. Ad esempio, le immagini che sono già **lineari per scene** in genere non devono essere convertite, ad esempio le immagini **con intervallo altamente dinamico** archiviate in formati come **OpenEXR** e **HDR**.
-* Per le immagini create per la visualizzazione (**con riferimenti di visualizzazione**) sarà necessario rimuovere la gamma. Questi includono la maggior parte dei formati come **PNG**, **JPEG** e **BMP**. Queste immagini sono **base** **color**, **diffuse**, **specular** e **emissive**.
+* Le immagini utilizzate per rappresentare **dati non a colori** non devono essere Trasforma. Si tratta in genere di mappe **normali**, **rugosità**, **metalliche**, **spostamenti** e **ambientali** **occlusioni**.
+* Le immagini che rappresentano i colori possono avere più scenari. Ad esempio, le immagini che sono già **lineari per scene** in genere non devono essere convertite, ad esempio le immagini **con intervallo altamente dinamico** archiviate in formati quali **OpenEXR** e **HDR**.
+* Per le immagini create per la visualizzazione (**con riferimenti di visualizzazione**) sarà necessario rimuovere la gamma. Questi includono la maggior parte dei formati come **PNG**, **JPEG** e **BMP**. Queste immagini sono di **base** **colore**, **diffusione**, **specular** e **emissivo**.
 
 Anche se si tratta di una semplificazione eccessiva, può essere utile pensare al processo come segue:
 
 * &quot;riferiti alla scena (es. linear)&quot;: non applicare una conversione
-* &quot;display-reference (es. sRGB)&quot; : applicate la trasformazione inversa per &quot;linearizzare&quot; l&#39;immagine ai fini di un corretto calcolo
+* &quot;display-reference (es. sRGB)&quot; : applica la Trasforma inversa per &quot;linearizzare&quot; l&#39;immagine ai fini di un corretto calcolo
 
 >[!NOTE]
 >
@@ -49,11 +49,11 @@ Anche se si tratta di una semplificazione eccessiva, può essere utile pensare a
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/sd-cm?$png$&jpegSize=200&wid=686)
 
-Quando abbiamo introdotto [ACES](https://www.oscars.org/science-technology/sci-tech-projects/aces), ora abbiamo due spazi colore diversi, l&#39;sRGB lineare (la versione senza gamma di sRGB) e l&#39;[ACEScg](https://acescolorspace.com/), che è uno spazio colore ad ampia gamma (&quot;con riferimento alla scena&quot; o lineare) più adatto per il rendering CG.
+Quando abbiamo introdotto [ACE](https://www.oscars.org/science-technology/sci-tech-projects/aces), ora abbiamo due diversi spazi cromatici, l&#39;sRGB lineare (la versione senza gamma di sRGB) e l&#39;[ACEScg](https://acescolorspace.com/), che è uno spazio cromatico ad ampia gamma (&quot;con riferimento alla scena&quot; o lineare) più adatto per il rendering CG.
 
 *Grafica del grafico del gamut -<https://acescolorspace.com/>*
 
-Il Substance Designer supporta anche **Adobe Color Engine (ACE)**. Con **ACE**, potete scegliere il vostro spazio colore di lavoro tra **sRGB**, **sRGB lineare** e **ACEScg**. Quando si utilizza **sRGB**, **ACE** è simile alla modalità precedente. Quando si utilizza uno spazio colore lineare, **ACE** è più o meno simile a [OpenColorIO](https://opencolorio.org/index.html).
+Il Substance Designer supporta anche **Adobe Color Engine (ACE)**. Con **ACE**, puoi scegliere il tuo spazio colore di lavoro tra **sRGB**, **sRGB lineare** e **ACEScg**. Quando si utilizza **sRGB**, **ACE** è simile alla modalità precedente. Quando si utilizza uno spazio colore lineare, **ACE** è più o meno simile a [OpenColorIO](https://opencolorio.org/index.html).
 
 ## Plug-in Substance
 
@@ -61,7 +61,7 @@ Quando si utilizza il materiale Substance tramite il plug-in di integrazione Sub
 
 ## Applicazioni 3D
 
-### Utilizzo delle texture
+### Utilizzo della Texture
 
 * [Substance texture in Maya](../../renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
 * [Substance texture in 3ds Max](../../renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)

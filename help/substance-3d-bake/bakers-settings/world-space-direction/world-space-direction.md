@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/bakers-settings/world-space-direction.html"
 breadcrumb-title: ''
-description: Calcola le direzioni vettoriali nello spazio mondo e salvale nelle texture per ottenere effetti direzionali e maschere.
+description: Calcola le direzioni vettoriali nello spazio mondo e salvale nella texture per ottenere effetti direzionali e maschere.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > World Space Direction
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 # Direzione spazio globale
 
-Il fornaio World Space Direction consente di calcolare una direzione vettoriale nello spazio mondiale in una texture.
+Il baker di direzione dello spazio mondiale consente di calcolare una direzione vettoriale nello spazio mondiale in una texture.
 
 **Disponibile in:**
 
@@ -31,7 +31,7 @@ Il fornaio World Space Direction consente di calcolare una direzione vettoriale 
 
 | *Parametro* | *Descrizione* |
 | --- | --- |
-| **Direzione di input** | Definisce l&#39;input da cui viene calcolata la direzione.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Da texture</strong>: la direzione del vettore è definita da una texture di input.</li><li data-preserve-html="true"><strong>Da vettore uniforme</strong> (impostazione predefinita): la direzione del vettore è definita dai cursori X, Y, Z.</li></ul> |
+| **Direzione di input** | Definisce l&#39;input da cui viene calcolata la direzione.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Dalla Texture</strong>: la direzione del vettore è definita da una texture di input.</li><li data-preserve-html="true"><strong>Da vettore uniforme</strong> (impostazione predefinita): la direzione del vettore è definita dai cursori X, Y, Z.</li></ul> |
 | **Orientamento normale** | Definisce se il formato normale della texture di output. Questo inverte il canale verde a seconda del formato.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (impostazione predefinita)</li></ul> |
 | **X Y Z** | Cursori per definire i 3 componenti del vettore di direzione, se **Direzione di input** è impostato su **Da vettore uniforme**. |
-| **File di direzione** | Percorso del file di texture di input per definire il vettore di direzione, se **Direzione di input** è impostato su **Da texture**. |
+| **File di direzione** | Percorso del file di texture di input per definire il vettore di direzione, se **Direzione di input** è impostato su **Dalla Texture**. |

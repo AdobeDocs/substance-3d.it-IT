@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Scelte rapide e navigazione
 
-Un elenco di scelte rapide si trova nella parte inferiore delle Preferenze di Componente aggiuntivo. Le associazioni di tasti per ogni scelta rapida possono essere personalizzate immettendo i tasti desiderati nel campo Tasto. Per ogni scelta rapida potete attivare anche Ctrl, Maiusc e Alt.
+Un elenco di scelte rapide si trova nella parte inferiore delle Preferenze di Componente aggiuntivo. Le associazioni di tasti per ogni scelta rapida da tastiera possono essere personalizzate immettendo le chiavi desiderate nel campo Chiave. Ctrl, Maiusc e Alt possono essere attivati anche per ciascuna scelta rapida da tastiera.
 
 Le associazioni di tasti predefinite sono:
 

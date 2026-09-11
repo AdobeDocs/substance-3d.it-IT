@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-Il valore tra virgolette è il parametro Identifier impostato in Substance Designer.
+Il valore tra virgolette è l&#39;Identificatore di parametro impostato in Substance Designer.
 
-In Ispettore unità, puoi passare il mouse su un parametro per visualizzare una descrizione che mostra il nome dell&#39;identificatore impostato nel Substance Designer.
+In Ispettore unità, puoi passare il mouse su un parametro per visualizzare una descrizione che mostra il nome dell&#39;Identificatore impostato nel Substance Designer.
 
 ![](../../../../assets/tooltip-6.png)
 

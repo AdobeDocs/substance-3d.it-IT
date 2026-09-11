@@ -27,7 +27,7 @@ Elenco modifiche:
 * Aggiunto il supporto per Arnold 7.1.0/MtoA 5.1.0 in Maya 2023
 * Il flusso di lavoro di Arnold che utilizza &quot;Applica flusso di lavoro alle mappe&quot; ora identifica correttamente la mappa &quot;Metalness&quot; dal modello Painter Arnold
 * Se applichi un predefinito, i menu a discesa della risoluzione vengono aggiornati correttamente
-* Il comando &#39;substanceRunImageWorkflow&#39; restituirà ora lo shader finale creato
+* Il comando &#39;substanceRunImageWorkflow&#39; restituirà lo shader finale creato
 * Il comando &#39;substanceNodeApplyWorkflow&#39; restituirà anche lo shader finale creato
 * Il comando &#39;substanceUtilityCreateAndLoad&#39; restituirà il substanceNode creato
 

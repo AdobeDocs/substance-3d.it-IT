@@ -54,6 +54,6 @@ I parametri di tipo Integer funzionano allo stesso modo del parametro Set Input 
 
 ## Identificatori
 
-È possibile trovare l&#39;identificatore di un parametro nel parametro SUBSTANCE INST. Spostate il mouse sul parametro e la descrizione comandi mostrerà il nome dell&#39;identificatore. Questo è il nome impostato nel campo dell&#39;identificatore dell&#39;output nel Substance Designer.
+Potete trovare l&#39;identificatore di un parametro in SUBSTANCE INST. Spostate il mouse sul parametro e la descrizione comandi mostrerà il nome identificatore. Questo è il nome impostato nel campo identificatore dell&#39;output in Substance Designer.
 
 ![](../../../../../assets/indent-1.png){width="800px"}

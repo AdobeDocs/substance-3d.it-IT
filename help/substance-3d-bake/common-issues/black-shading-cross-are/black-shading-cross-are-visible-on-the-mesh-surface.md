@@ -27,12 +27,12 @@ Gli artefatti dell’ombreggiatura del nero appaiono su più aree della trama qu
 
 ## Descrizione
 
-Una croce nera ombreggiata di solito significa che la mappa normale non corrisponde alla trama, di solito perché la geometria della trama è cambiata o è stata calcolata in modo diverso dal calcolo eseguito dal fornaio. Ad esempio: la triangolazione della trama è diversa tra il fornaio e la finestra di visualizzazione che esegue il rendering della trama e della sua mappa normale.
+Una croce nera ombreggiata di solito significa che la mappa normale non corrisponde alla trama, in genere perché la geometria della trama è cambiata o è stata calcolata in modo diverso dal calcolo eseguito dal baker. Ad esempio: la triangolazione della trama è diversa tra il baker e la finestra della vista che esegue il rendering della trama e della relativa mappa normale.
 
 ## Soluzione
 
-Assicuratevi che l’applicazione che mostra la trama e la sua mappa normale siano sincronizzate con il modo in cui la texture è stata creata. Ciò implica:
+Assicurati che l’applicazione che mostra la trama e la relativa mappa normale siano sincronizzate con il modo in cui la texture è stata eseguita i baking. Ciò implica:
 
-* Verificate che lo spazio tangente sia identico tra l’osservatore e il fornaio.
-* Verificate che il formato Normale sia identico tra la vista e il fornaio.
-* Verificate che la Triangolazione sia identica tra l’osservatore e il fornaio. Per ulteriori informazioni, vedere [questa pagina](../../guides/triangulating-before-bak/triangulating-before-baking.md).
+* Verificate che lo Spazio tangente sia identico tra il visualizzatore e il baker.
+* Verificate che il formato Normale sia identico tra la vista e il baker.
+* Verificate che la Triangolazione sia identica tra il visualizzatore e il baker. Per ulteriori informazioni, vedere [questa pagina](../../guides/triangulating-before-bak/triangulating-before-baking.md).

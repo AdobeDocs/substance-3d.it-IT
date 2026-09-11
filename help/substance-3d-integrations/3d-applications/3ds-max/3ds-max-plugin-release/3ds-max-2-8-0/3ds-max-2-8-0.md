@@ -30,8 +30,8 @@ ht-degree: 0%
 <b>Corretto:</b>
 
 * È stato migliorato il plug-in Substance per limitare i valori di input della tastiera all&#39;interno dell&#39;intervallo pratico per ciascun parametro, evitando problemi con il controllo del cursore e la regolazione manuale dei valori.
-* È stato risolto un problema a causa del quale la copia delle conversioni delle texture Substance2 (.sbsar) nell&#39;editor materiale di slate causava un&#39;istanza involontaria del nodo copiato, causando potenzialmente arresti anomali relativi a d3d11.dll.
-* È stato risolto un problema di arresto anomalo in 3ds Max durante il rendering di sostanze copiate personalizzate/modificate (.sbsar) con Corona Interactive.
+* È stato risolto un problema a causa del quale la copia delle conversioni di texture Substance2 (.sbsar) nell&#39;editor materiale di slate causava l&#39;istanza involontaria del nodo copiato, causando potenzialmente arresti anomali correlati a d3d11.dll.
+* È stato risolto un problema di arresto anomalo in 3ds Max durante il rendering di sostanze di materiale copiate personalizzate/modificate (.sbsar) con Corona Interactive.
 * È stato risolto un problema nel nodo Substance2 di 3ds Max a causa del quale i cursori per i valori Integer 3 e 4 non rispondevano e solo la voce numerica manuale aggiornava i valori. Inoltre, questi valori non venivano visualizzati correttamente nel formato a virgola mobile. I cursori ora sono funzionali e riflettono accuratamente i tipi di valore desiderati.
 * È stato risolto un problema in 3ds Max 2021 con Rendering Corona in cui i materiali delle Substance venivano visualizzati correttamente nella finestra della vista, ma renderizzati in grigio quando i file venivano trasferiti a un altro PC. Gli utenti non devono più impostare i materiali da zero o caricare i predefiniti per il rendering corretto.
 * È stato risolto un problema di arresto anomalo nel plug-in 3ds Max durante il tentativo di duplicare i nodi Substance nell&#39;editor materiale di Slate.

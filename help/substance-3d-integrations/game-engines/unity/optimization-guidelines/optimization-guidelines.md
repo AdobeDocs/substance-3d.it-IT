@@ -33,7 +33,7 @@ Un importante avvertimento da tenere presente sono i nodi che hanno una risoluzi
 > **Prestare attenzione alla risoluzione e alle impostazioni di risoluzione relative ai genitori.**\
 > Valori elevati influiscono negativamente sulle prestazioni, quindi è importante considerare come verrà utilizzato il materiale e se è possibile ridurre le dimensioni dei dati coinvolti.
 >   
-> Il motore della CPU a Substance è in grado di elaborare dati a 4K, ma è molto lento e può causare il blocco o l’arresto anomalo di un’integrazione.
+> Il motore della CPU a Substance è in grado di calcolare a 4K, ma è molto lento e può causare il blocco di un&#39;integrazione o l&#39;arresto anomalo.
 
 Nell&#39;esempio seguente, la dimensione di output di un nodo [Tile Sampler](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) è impostata su [Absolute](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/output-size) 4096. Ciò fa sì che diversi nodi a valle calcolino a 4K prima di essere ridimensionati per la risoluzione finale dell&#39;output del 2048.
 

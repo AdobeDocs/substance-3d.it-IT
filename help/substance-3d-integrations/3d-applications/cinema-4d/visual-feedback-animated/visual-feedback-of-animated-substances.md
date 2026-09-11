@@ -48,13 +48,13 @@ Pertanto, verrà utilizzata la seguente mappatura dei canali:
 
 Questa relazione viene utilizzata solo per il comando Crea materiale (o materiali) e il materiale creato può essere successivamente modificato. Potete usare questo comando per creare rapidamente un materiale di base, che può quindi essere perfezionato modificando solo alcuni canali.
 
-All’interno dello shader Substance non ci sono solo i pochi canali di output sopra elencati, ma potete utilizzare qualsiasi canale di output che una Substance possa fornire.
+All’interno dello Shader della Substance non ci sono solo i pochi canali di output sopra elencati, ma potete utilizzare qualsiasi canale di output fornito da una Substance.
 
 ## Creazione manuale di materiali di Substance
 
-Anziché utilizzare il comando Crea materiali, potete creare i materiali manualmente utilizzando lo shader di Substance.
+Anziché utilizzare il comando Crea materiali, potete anche creare i materiali manualmente utilizzando lo shader della Substance.
 
-È sufficiente selezionare lo shader della Substance in un canale di materiale e trascinare nella Substance che si desidera utilizzare. Il passaggio successivo consiste nel selezionare il canale di output della Substance da utilizzare in questo shader.
+È sufficiente selezionare lo shader della Substance in un canale di materiale e trascinare nella Substance che si desidera utilizzare. Il prossimo passaggio consiste nel selezionare il canale di output della Substance da utilizzare in questo shader, e hai finito.
 
 Metti Mi piace così:
 

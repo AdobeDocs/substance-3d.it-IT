@@ -130,7 +130,7 @@ float Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputFloat ( string input
 ```
 
 
-Ottieni input Substance float
+Ottieni input Virgola mobile Substance
 
 **Parametri**
 
@@ -483,7 +483,7 @@ Texture2D value ) [inline]
 ```
 
 
-Aggiornate l&#39;input Substance Texture2D.
+Aggiorna input Substance Texture2D.
 
 **Parametri**
 

@@ -46,11 +46,11 @@ Questo pannello controlla la posizione della texture cotta.
 
 | *Parametro* | *Descrizione* |
 | --- | --- |
-| **Metodo** | Controlla come verranno memorizzate le texture cotte con la confezione di Substance.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Embedded</strong>: la texture baked è memorizzata in una sottocartella accanto al pacchetto Substance con un nome specifico.</li><li data-preserve-html="true"><strong>Collegata</strong> (impostazione predefinita): la texture eseguita i baking viene archiviata nella cartella definita e quindi viene fatto riferimento alla Substance inserita nel pacchetto.</li></ul> |
-| **Cartella** | Posizione delle texture eseguite i baking al momento del salvataggio. Fai clic sul pulsante con tre punti per aprire una finestra di dialogo e scegli la cartella di esportazione. A destra sarà visibile un segno di spunta che indica se la cartella esiste effettivamente o meno. |
-| **Nome** | Convenzione di denominazione delle texture eseguite i baking. Fate clic sul pulsante con tre punti per aprire un menu a discesa e inserire altri segnaposto (nome di backup, personalizzato, materiale, trama). |
+| **Metodo** | Controlla come verranno memorizzate le texture cotte con la confezione di Substance.Valori possibili:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Embedded</strong>: la texture baked è memorizzata in una sottocartella accanto al pacchetto Substance con un nome specifico.</li><li data-preserve-html="true"><strong>Collegata</strong> (impostazione predefinita): la texture in baked viene memorizzata nella cartella definita e quindi referenziata nella Substance collocata.</li></ul> |
+| **Cartella** | Posizione delle texture al forno quando vengono salvate. Fai clic sul pulsante con tre punti per aprire una finestra di dialogo e scegli la cartella di esportazione. A destra sarà visibile un segno di spunta che indica se la cartella esiste effettivamente o meno. |
+| **Nome** | Convenzione di denominazione delle texture cotte. Fate clic sul pulsante con tre punti per aprire un menu a discesa e inserire altri segnaposto (nome di backup, personalizzato, materiale, trama). |
 | **Esempio** | Simulare un nome di file per verificare la convenzione di denominazione. |
-| **Inserire la risorsa in una cartella specifica della trama** | Se questa opzione è attivata, le texture eseguite i baking verranno salvate in una cartella denominata file mesh. |
+| **Inserire la risorsa in una cartella specifica della trama** | Se questa opzione è attivata, le texture al forno vengono salvate all’interno di una cartella denominata file mesh. |
 
 ### Trame ad alta definizione
 
@@ -70,13 +70,13 @@ Per ulteriori informazioni, vedere [parametri comuni](../../../bakers-settings/c
 
 Il baker è il punto in cui potete scegliere quale texture eseguita i baking generare. Per impostazione predefinita, l’elenco è vuoto.
 
-* **Aggiunta nuovo baker:** Fare clic sul pulsante &quot;Aggiungi Baker&quot;.
-* **Rimozione di un baker:** Selezionare il baker nell&#39;elenco, quindi fare clic sul pulsante &quot;Elimina baker&quot;.
-* **Spostamento di un baker all&#39;inizio:** Selezionare il baker nell&#39;elenco, quindi fare clic sul pulsante &quot;Pull to top&quot;.
-* **Spostamento verso il basso di un baker:**&#x200B;selezionare il baker nell&#39;elenco, quindi fare clic sul pulsante &quot;Premere verso il basso&quot;.
+* **Aggiunta di un nuovo fornaio:** Fare clic sul pulsante &quot;Aggiungi fornaio&quot;.
+* **Rimozione di un fornaio:** Selezionare il fornaio nell&#39;elenco, quindi fare clic sul pulsante &quot;Elimina fornaio&quot;.
+* **Spostamento di un fornaio in alto:** Selezionare il fornaio nell&#39;elenco, quindi fare clic sul pulsante &quot;Tirare in alto&quot;.
+* **Spostare un fornaio verso il basso:**&#x200B;selezionare il fornaio nell&#39;elenco, quindi fare clic sul pulsante &quot;Spingere verso il basso&quot;.
 
-Per impostazione predefinita, ogni baker nell’area eredita i valori predefiniti (vedi sopra). È possibile, ad esempio, ignorare le dimensioni (risoluzione) facendo clic sulla cella sulla riga del baker. Questo vale per le altre impostazioni della riga.
+Per impostazione predefinita, ogni baker eredita i Valori predefiniti (vedere sopra). Le dimensioni (risoluzione), ad esempio, possono essere sostituite facendo clic sulla cella sulla linea del fornaio. Questo vale per le altre impostazioni della riga.
 
-Quando si fa clic su un baker nell&#39;elenco, la vista Parametri Baker viene aggiornata con i relativi parametri specifici.
+Quando si fa clic su un fornaio nell&#39;elenco, la vista Parametri fornaio viene aggiornata con i relativi parametri specifici.
 
-Per ulteriori informazioni sui parametri specifici, vedere: [Impostazioni Baker](../../../bakers-settings/bakers-settings.md).
+Per ulteriori informazioni sui parametri specifici, vedere: [Impostazioni dei forni](../../../bakers-settings/bakers-settings.md).

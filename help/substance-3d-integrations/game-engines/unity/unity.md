@@ -46,7 +46,7 @@ ht-degree: 0%
 * [Aggiornamento di progetti/problemi noti](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) — Problemi noti con la Substance nel plug-in Unity
 * [Gestione dei Grafici Substance](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html): è possibile creare nuovi materiali in base al materiale di Substance utilizzando Gestione Grafici Substance (SGM)
 * [Modifica dei parametri](../../game-engines/unity/changing-parameters/changing-parameters.md) - I parametri per il materiale della Substance sono accessibili sull&#39;oggetto Grafico Substance (SGO).
-* [Texture generate (Impacchettamento)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md): le texture generate mostrano gli output della Substance calcolati dalla Substance Engine per creare le texture
+* [Texture generate (Impacchettamento)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md): le Texture generate mostrano gli output della Substance calcolati dalla Substance Engine per creare texture
 * [Rendering dello spazio colore](../../game-engines/unity/rendering-color-space/rendering-color-space.md): per risultati ottimali, imposta lo spazio colore su lineare in Impostazioni lettore Unity.
 * [Utilizzo degli input dell&#39;immagine](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [Pubblicazione per dispositivi mobili](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) — Linee guida per la pubblicazione su piattaforme mobili

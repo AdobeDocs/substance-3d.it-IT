@@ -33,7 +33,7 @@ Puoi facilmente portare il tuo progetto Substance Painter in Maverick seguendo q
 **Nella Substance** **Painter**&#x200B;**:**
 
 1. Esporta la trama.
-1. Esportate le texture nella stessa cartella in cui si trova la trama, utilizzando uno dei predefiniti Maverick (visualizza immagine):
+1. Esporta la texture nella stessa cartella in cui si trova la trama, utilizzando uno dei predefiniti Maverick (visualizza immagine):
 
    ![](../../../assets/maverickrender-exportpresets-substancepainter.jpg)
 

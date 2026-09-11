@@ -62,9 +62,9 @@ I file SBSAR possono essere pubblicati con i predefiniti, che si trovano nella c
 
 ## Substance parametri
 
-I parametri esposti in Substance Designer possono essere regolati mediante i controlli Substance parametro. Questi parametri sono impostati dal creatore del Materiale Substance e variano tra i materiali. La regolazione di questi parametri aggiornerà le texture generate, come indicato dall’icona di elaborazione accanto al nome del materiale nella sezione Materiali Substance 3D caricati.
+I parametri esposti in Substance Designer possono essere regolati mediante i controlli Substance parametro. Questi parametri sono impostati dal creatore del Materiale Substance e variano tra i materiali. La regolazione di questi parametri aggiornerà le texture generate, come indicato dall&#39;icona di elaborazione accanto al nome del materiale nella sezione Materiali Substance 3D caricati.
 
-Il formato di file delle texture di output può essere alternato e modificato tramite i menu a discesa.
+Il formato di file delle texture di output può essere commutato e modificato tramite i menu a discesa.
 
 Per ulteriori informazioni, vedere [Esposizione di un parametro](https://experienceleague.adobe.com/it/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) nella pagina della documentazione di Designer.
 

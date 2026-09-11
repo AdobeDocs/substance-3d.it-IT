@@ -42,7 +42,7 @@ ht-degree: 0%
 * È stato aggiunto il pulsante Informazioni su nel menu Substance per visualizzare le informazioni di compilazione relative al plug-in di Substance.
 * Sono state aggiunte descrizioni del mouse nell’interfaccia grafica di Substance per visualizzare i nomi dei parametri Substance esposti
 * Sono stati aggiunti dei pulsanti di navigazione nell&#39;interfaccia grafica della Substance per collegarla al grafico e ai materiali della Substance.
-* Sono state aggiunte nuove icone per la Substance di grafici/materiali/texture nel Browser dei contenuti
+* Sono state aggiunte nuove icone per il grafico/materiale/texture della Substance nel Browser dei contenuti
 * Le miniature delle Substance nel browser dei contenuti sono state aggiornate
 * Rimosso il file .mat dalla parte anteriore dei nomi dei materiali della Substance
 * È stata aggiunta la possibilità di rinominare grafici e materiali Substance

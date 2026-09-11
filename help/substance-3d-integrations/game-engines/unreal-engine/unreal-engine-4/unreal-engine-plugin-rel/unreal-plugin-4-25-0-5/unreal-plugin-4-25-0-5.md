@@ -28,5 +28,5 @@ Aggiunto:
 
 Fisso:
 
-* UE4 si arresta in modo anomalo in Mac quando si chiude l’editor con il plug-in di Substance UE4 installato
+* ARRESTI ANOMALI UE4 su Mac alla chiusura dell&#39;editor con il plug-in di Substance UE4 installato
 * La modifica del parametro di testo in un’istanza di Grafico Substance causa un blocco e un eventuale arresto anomalo

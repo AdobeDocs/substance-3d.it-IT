@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Fisso:
 
-* Le impostazioni predefinite per l’importazione di Substance non vengono applicate alle texture create da un’istanza
-* UE4 si arresta in modo anomalo quando si invia una trama alla Substance Painter dopo l&#39;eliminazione del materiale di base
+* Le impostazioni predefinite per l&#39;importazione di Substance non vengono applicate alle texture create dall&#39;istanza
+* ARRESTI ANOMALI UE4 quando si invia una trama a Substance Painter dopo l’eliminazione del materiale di base
 * Gli aggiornamenti alle impostazioni di compressione nell&#39;editor UE non vengono applicati

@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
-description: Identificate e correggete strani tratti nelle texture al forno causati da problemi di mappatura UV o di trama.
+description: Identifica e correggi strani allungamento nella tua texture eseguita i baking causati da problemi di mappatura UV o di trama.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Why are there strange stretches in my textures after baking or exporting "
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 'Perché ci sono strani tratti nelle mie texture dopo la cottura al forno o l''esportazione '
+title: 'Perché ci sono allungamento strani nelle mie texture dopo aver eseguito i baking o esportato '
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 0%
 ---
 
 
-# Perché ci sono strani tratti nelle mie texture dopo la cottura al forno o l&#39;esportazione?
+# Perché ci sono allungamento strani nelle mie texture dopo aver eseguito i baking o esportato?
 
 >[!WARNING]
 >
 > **Domanda**
 > 
-> Perché ci sono strane linee allungate o sfumature colorate all&#39;esterno dell&#39;Isola UV dopo la cottura al forno o l&#39;esportazione?
+> Perché ci sono strane linee allungamento o sfumature colorate all&#39;esterno dell&#39;Isola UV dopo aver eseguito i baking o esportato?
 
 >[!NOTE]
 >

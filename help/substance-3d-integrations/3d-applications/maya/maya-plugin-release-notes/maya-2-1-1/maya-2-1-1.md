@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Maya 2.1.1
 
-Corretto: il plug-in substance-elink non si arresta in modo anomalo quando viene scaricato
+Corretto: il plug-in Subancelink non viene più arresto anomalo quando viene scaricato

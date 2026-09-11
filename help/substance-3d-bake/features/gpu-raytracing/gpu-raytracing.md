@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
-description: Abilita il Raytracing GPU con accelerazione hardware per velocizzare i calcoli di baking di 25 volte o più, per flussi di lavoro più veloci.
+description: Abilita il Raytracing GPU con accelerazione hardware per velocizzare i esegue i baking di elaborazione fino a 25 volte o più, per flussi di lavoro più veloci.
 helpx_creative_field: ""
 helpx_description: bakers > Features > GPU Raytracing
 helpx_experience_level: ""
@@ -24,11 +24,11 @@ ht-degree: 18%
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-Alcuni fornai supportano l&#39;accelerazione hardware del ray tracing sulla GPU, che di solito aumenta la velocità di calcolo di un fattore di 25 o superiore.
+Alcuni baker supportano l’accelerazione hardware del raytracing sulla GPU, che di solito aumenta la velocità di calcolo di un fattore di 25 o superiore.
 
 ## Requisiti hardware
 
-Il ray tracing verrà attivato automaticamente se il sistema soddisfa i seguenti requisiti:
+Il raytracing viene attivato automaticamente se il sistema soddisfa i seguenti requisiti:
 
 * È installata una GPU compatibile\* (serie RTX, Titan V o GeForce 10xx)
 * I driver della GPU sono aggiornati
@@ -52,9 +52,9 @@ L&#39;aggiornamento è disponibile nella [pagina dedicata](https://support.micro
 >
 > In caso di problemi, Raytracing GPU può essere disattivato nelle preferenze dell’applicazione.
 
-## Panettieri supportati
+## Baker supportati
 
-Le tabelle seguenti elencano il supporto Raytracing GPU per ogni panettiera, in base alla versione dei panettieri Substance 3D:
+Le tabelle seguenti elencano il supporto Raytracing GPU per ogni baker, in base alla versione dei baker Substance 3D:
 
 +++Versione 3 e successive
 

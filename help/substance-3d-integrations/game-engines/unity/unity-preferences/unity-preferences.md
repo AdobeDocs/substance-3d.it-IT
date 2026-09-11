@@ -24,13 +24,13 @@ La finestra delle preferenze di Adobe Substance 3D consente di impostare le opzi
 
 **Genera tutti gli output del grafico**: genererà sempre tutti gli output del grafico per grafico.
 
-**Risoluzione texture** - Risoluzione predefinita per texture generate per grafico
+**Risoluzione Texture** - Risoluzione predefinita per texture generate per grafico
 
 **Risoluzione massima CPU**: la risoluzione massima delle texture supportata quando si utilizza il motore CPU.
 
 **Risorse Substance 3D**: collegamento alla pagina di Substance 3D Assets.
 
-**Substance risorse community 3d**: collegamento alla pagina Risorse community Substance 3D.
+**Substance risorse community 3D**: collegamento alla pagina di Substance 3D Community Assets.
 
 **Informazioni su** - Visualizza le informazioni sulla versione del plug-in.
 

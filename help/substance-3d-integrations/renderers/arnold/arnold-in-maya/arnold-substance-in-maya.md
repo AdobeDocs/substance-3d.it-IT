@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance nel plug-in Maya
 
-È possibile utilizzare il flusso di lavoro Arnold[Rendering](../../../3d-applications/maya/using-workflows/using-workflows.md) per creare automaticamente una rete shader.
+È possibile utilizzare il flusso di lavoro Arnold[Rendering](../../../3d-applications/maya/using-workflows/using-workflows.md) per creare automaticamente una rete di shader.
 
 ![](../../../assets/render-workflow.png)

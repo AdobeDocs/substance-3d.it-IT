@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
-description: Utilizzate la memorizzazione nella cache della geometria per conservare i dati di mesh pre-elaborati e velocizzare notevolmente le successive operazioni di cottura.
+description: Utilizzate la memorizzazione nella cache della geometria per conservare i dati mesh pre-elaborati e velocizzare notevolmente le successive operazioni di esegue i baking.
 helpx_creative_field: ""
 helpx_description: bakers > Features > Geometry Cache
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Cache geometria
 
-Durante la cottura, le trame vengono pre-elaborate per pulirle e convertite in un formato compatibile con il processo di cottura. La cache della geometria consente di conservare questa geometria pre-elaborata in modo da ricaricarla rapidamente per evitare di ripetere questa operazione in un secondo momento (a meno che la mesh di origine non cambi).
+Durante la esegue i baking, le trame vengono pre-elaborate per pulirle e convertite in un formato compatibile con la esegue i baking. La cache della geometria consente di conservare questa geometria pre-elaborata in modo da ricaricarla rapidamente per evitare di ripetere questa operazione in un secondo momento (a meno che la mesh di origine non cambi).
 
-* In **Substance Designer** la cache della geometria viene creata dopo l&#39;esecuzione di un primo bake. La cache viene quindi mantenuta in memoria fino alla chiusura della finestra del baker.
-* In **Substance Painter** la cache della geometria viene salvata come file con estensione **assbin** accanto al file di origine dopo il primo bake.
+* In **Substance Designer** la cache della geometria viene creata dopo l&#39;esecuzione di un primo eseguo i baking. La cache viene quindi mantenuta in memoria fino alla chiusura della finestra del baker.
+* In **Substance Painter** la cache della geometria viene salvata come file con estensione **assbin** accanto al file di origine dopo la prima esegue i baking.
 
-Il riutilizzo della cache della geometria accelera notevolmente il processo di cottura, specialmente quando si modificano le impostazioni del forno per ottenere un risultato perfetto.
+Il riutilizzo della cache della geometria accelera notevolmente il processo di esegue i baking, specialmente quando si modificano le impostazioni del baker per ottenere un risultato perfetto.

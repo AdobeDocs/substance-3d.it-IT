@@ -28,6 +28,6 @@ Per utilizzare l&#39;output di height, è necessario fare doppio clic sull&#39;o
 
 ![](../../../../assets/height-1.png){width="600px"}
 
-Create un nodo di scostamento rilievo, quindi collegate il canale Rosso del height al Height. È quindi possibile inserire un valore TexCoord nell&#39;input Coordinate dell&#39;offset di rilievo. Infine, l’output dello scostamento rilievo viene inserito nell’input UV per tutte le texture della Substance.
+Create un nodo di scostamento rilievo, quindi collegate il canale Rosso del height al Height. È quindi possibile inserire un valore TexCoord nell&#39;input Coordinate dell&#39;offset di rilievo. Infine, l&#39;output dello scostamento rilievo è collegato all&#39;input UV per tutte le texture Substance.
 
 ![](../../../../assets/bump.png){width="800px"}

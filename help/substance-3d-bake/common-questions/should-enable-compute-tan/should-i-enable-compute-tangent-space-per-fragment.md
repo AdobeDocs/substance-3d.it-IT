@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
 breadcrumb-title: ''
-description: Scoprite quando abilitare Calcola spazio tangente per frammento e come influisce sui risultati di cottura.
+description: Scopri quando abilitare Calcola spazio tangente per frammento e come influisce sui risultati di esegue i baking.
 helpx_creative_field: ""
 helpx_description: bakers > Common Questions > Should I enable
 helpx_experience_level: ""
@@ -30,7 +30,7 @@ ht-degree: 1%
 >
 > **Spiegazione**
 > 
-> Quando attivata, questa impostazione indica al fornaio di eseguire il calcolo dello spazio tangente in Shader frammento (detto anche Pixel Shader) anziché in Shader vertice. Significa che il calcolo verrà eseguito per pixel invece di essere interpolato da un vertice all’altro. Queste impostazioni vengono utilizzate dal normale baker di mappe per sapere come codificare la texture. Sapeva anche come leggere la texture dagli shader.
+> Quando attivata, questa impostazione indica al baker di eseguire il calcolo dello Spazio tangente nello Shader del frammento (detto anche Shader pixel) anziché nello Shader del vertice. Significa che il calcolo verrà eseguito per pixel invece di essere interpolato da un vertice all’altro. Queste impostazioni vengono utilizzate dal baker di mappe normali per sapere come codificare la texture. Sapeva anche come leggere la texture dagli shader.
 > 
 > L’attivazione o la disattivazione di questo parametro richiede in genere di rieseguire il rendering delle texture per sincronizzarle con le finestre delle viste 3D e i motori di rendering (ad esempio Iray).
 
@@ -38,7 +38,7 @@ ht-degree: 1%
 >
 > **Soluzione**
 > 
-> A seconda del software o del motore di gioco utilizzato per eseguire il rendering della texture, questa impostazione può essere disattivata o attivata:
+> A seconda del software o del motore di gioco di destinazione per il rendering della texture, questa impostazione può essere disattivata o attivata:
 > 
 > | *Software* | *Calcolare lo spazio tangente per frammento* |
 > | --- | --- |

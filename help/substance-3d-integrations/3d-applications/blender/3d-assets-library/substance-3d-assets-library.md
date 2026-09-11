@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Libreria Substance 3D Assets
 
-Migliaia di materiali e altre risorse professionali sono disponibili per il download nella [pagina](https://helpx.adobe.com/it/substance-3d/unlisted/assets.html). Molte altre risorse condivise gratuitamente dalla community sono disponibili nella [pagina](https://helpx.adobe.com/it/substance-3d/unlisted/community-assets.html).
+Migliaia di materiali e altre risorse professionali sono disponibili per il download nella [pagina](https://helpx.adobe.com/it/substance-3d/unlisted/assets.html). Molte altre risorse condivise gratuitamente dalla community sono disponibili nella [pagina Risorse della community Substance 3D](https://helpx.adobe.com/it/substance-3d/unlisted/community-assets.html).
 
-Dal pannello Substance 3D all&#39;interno di Blender, puoi anche fare clic sui pulsanti Substance 3D Assets e Substance 3D Community Assets per aprire il browser Web a tali pagine.
+Dal pannello Substance 3D all&#39;interno di Blender, puoi anche fare clic sui pulsanti Substance 3D Assets e Risorse community Substance 3D per aprire il browser Web a tali pagine.
 
 ![](../../../assets/blender-assets.png)

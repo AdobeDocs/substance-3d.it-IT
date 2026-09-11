@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # API diagramma di flusso
 
-Per configurare le impostazioni dei materiali procedurali, potete utilizzare i seguenti nodi del diagramma di flusso.
+Potete utilizzare i seguenti nodi del diagramma di flusso per configurare le impostazioni del materiale procedurale.
 
 * [Nodo GetGraphInstanceID](https://docs.aws.amazon.com/lumberyard/latest/userguide/fg-node-ref-procedural-material.html#fg-node-ref-proceduralmaterial-getgraphinstanceid)
 * [Nodo GetInputFloat](https://docs.aws.amazon.com/lumberyard/latest/userguide/fg-node-ref-procedural-material.html#fg-node-ref-proceduralmaterial-getinputfloat)

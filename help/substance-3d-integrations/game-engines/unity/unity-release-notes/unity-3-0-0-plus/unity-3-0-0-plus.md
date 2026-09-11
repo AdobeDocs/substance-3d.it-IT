@@ -144,7 +144,7 @@ ht-degree: 0%
 
 <b>Aggiunto/Aggiornato:</b>
 
-* Supporto per consentire agli utenti di modificare il modo in cui le texture di output vengono assegnate al materiale Unity
+* Supporto per gli utenti per modificare il modo in cui le texture di output vengono assegnate al materiale Unity
 * Compatibilità dei plug-in con la versione più recente di Unity 2022.2
 
 <b>Corretto:</b>

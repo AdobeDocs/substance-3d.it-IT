@@ -37,7 +37,7 @@ Aggiornato/Aggiunto:
 Fisso:
 
 * Bug nella finestra di ispezione quando si preme ripetutamente il pulsante di selezione casuale
-* Gli input di texture Null interrompono gli aggiornamenti delle Substance
+* Gli input di texture Null interrompono gli aggiornamenti di Substance
 * L’interruttore &quot;Genera tutti gli output&quot;, &quot;Genera mappe mappa mappa mappa&quot; e &quot;Solo runtime&quot; non funziona
 * Problemi con gli spazi dei nomi
 * Errore di riferimento nullo quando si entra in modalità di riproduzione con la risorsa del grafico selezionata

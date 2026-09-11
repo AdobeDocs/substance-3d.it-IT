@@ -27,7 +27,7 @@ Il flusso di lavoro \* VRay ora imposta il materiale Vray in modo che utilizzi l
 \* Sono stati aggiornati alcuni collegamenti al nuovo sito substance3d.\
 \* Versione di Substance Engine aggiunta al menu Informazioni su\
 \* Sono stati aggiunti comandi di script per eseguire query sulla versione di Substance Engine\
-\* L&#39;input $pixelsize non si blocca più\
+\* L&#39;input $pixelsize non è più arresto anomalo\
 \* Gli input di valore impostati in Designer sono ora visibili sul nodo, come gli input dell&#39;immagine\
 \* Lo script del flusso di lavoro Redshift ora imposta brdf su ggx e il nodo di rilievo per utilizzare le normali dello spazio tangente\
 \* Nuovo script del flusso di lavoro del modulo di rendering per una migliore corrispondenza con l’utilizzo previsto\

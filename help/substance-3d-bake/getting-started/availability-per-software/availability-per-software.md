@@ -38,6 +38,6 @@ Alcuni baker potrebbero non essere disponibili in ogni software. L&#39;elenco se
 | Posizione | ■ | ■ | ■ |
 | Posizione da trama | ■ | ■ |  |
 | Mappa spessore da trama | ■ | ■ | ■ |
-| Texture trasferita da trama | ■ | ■ |  |
+| Texture trasferita dalla trama | ■ | ■ |  |
 | Direzione spazio globale | ■ | ■ |  |
 | Normali spazio globale | ■ | ■ | ■ |

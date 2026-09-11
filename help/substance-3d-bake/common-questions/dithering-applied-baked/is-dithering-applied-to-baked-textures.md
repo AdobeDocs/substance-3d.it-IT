@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Il dithering viene applicato alle texture cotte?
+# Il dithering viene applicato alle texture eseguite i baking?
 
 >[!WARNING]
 >

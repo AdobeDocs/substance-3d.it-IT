@@ -25,7 +25,7 @@ Per ulteriori informazioni su ciascun baker e le relative impostazioni, consulta
 * [Parametri comuni](../bakers-settings/common-parameters/common-parameters.md)
 * [Occlusione ambientale](../bakers-settings/ambient-occlusion/ambient-occlusion.md)
 * [Occlusione ambientale dalla trama](../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)
-* [Normali piegati da trama](../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md)
+* [Normali incurvate da trama](../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md)
 * [Mappa colori da trama](../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)
 * [Converti UV in SVG](../bakers-settings/convert-uv-to-svg/convert-uv-to-svg.md)
 * [Curvatura](../bakers-settings/curvature/curvature.md)

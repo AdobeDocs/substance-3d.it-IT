@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
-description: Scopri il modello Adobe Standard Material e come utilizzarlo per il rendering basato su elementi fisici in tutte le applicazioni Adobe.
+description: Scopri il modello di Adobe Standard Material e come utilizzarlo per il rendering basato su elementi fisici in più applicazioni Adobe.
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material
 helpx_experience_level: ""

@@ -35,7 +35,7 @@ ht-degree: 0%
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/max8?$png$&jpegSize=100&wid=341)
 
    ![](../../../assets/max1.png)
-1. Con il nodo Substance selezionato, accedi al menu Substance e scegli un modulo di rendering supportato. Il materiale verrà creato e pronto per essere applicato all&#39;oggetto. Le texture delle Substance sono collegate al materiale di rendering.
+1. Con il nodo Substance selezionato, accedi al menu Substance e scegli un modulo di rendering supportato. Il materiale verrà creato e pronto per essere applicato all&#39;oggetto. Le texture di Substance sono collegate al materiale di rendering.
 
    | Rendering supportati |
    | --- |
@@ -68,8 +68,8 @@ ht-degree: 0%
 
    ![](../../../assets/max7.png)
 
-## Substance in porzioni:
+## Substance Affiancamento:
 
-Potete usare le proprietà Coordinate per suddividere le texture delle Substance e impostare i canali di mappatura.
+È possibile utilizzare le proprietà Coordinate per affiancare texture di Substance e impostare Mapping canali.
 
 ![](../../../assets/max10.png)

@@ -24,7 +24,7 @@ Rilasciato il 21 maggio 2020
 
 Aggiunto
 
-* Supporto della pipeline di rendering universale: le texture Substance utilizzeranno automaticamente gli shader e i materiali URP
+* Supporto della pipeline di rendering universale: la texture Substance utilizzerà automaticamente gli shader e i materiali URP
 
 Fisso
 
@@ -36,9 +36,9 @@ Fisso
 * Le maschere Riflessione e HDRP vengono create e funzionano come previsto quando viene importato un materiale Substance da un pacchetto Substance della precedente versione di Unity
 * Il materiale duplicato della Substance sarà il colore desiderato e non più giallo quando si utilizza la funzione di duplicazione
 * L&#39;origine Substance verrà caricata come previsto dopo la chiusura e la riapertura di Unity
-* Arresto anomalo durante l’importazione di un pacchetto in un progetto HDRP (a intermittenza)
+* Arresti anomali durante l’importazione di un pacchetto in un progetto HDRP (in modo intermittente)
 * Il cursore funziona come previsto per i materiali Substance con un parametro esposto in cui l’editor è impostato su Colore (scala di grigi)
-* Arresto anomalo quando si fa clic su &quot;Ripristina predefiniti&quot; con Substance grafici che non hanno una risoluzione predefinita
+* Arresto anomalo quando si fa clic su &quot;Ripristina predefinito&quot; con Substance grafici che non hanno una risoluzione predefinita
 * Arresto anomalo quando si modifica la dimensione di output di un materiale Substance quando il parametro della dimensione di output non è esposto
 * La creazione per iOS non avrà esito negativo
 * Gli script che utilizzano i materiali Substance verranno eseguiti durante la creazione per Windows Standalone

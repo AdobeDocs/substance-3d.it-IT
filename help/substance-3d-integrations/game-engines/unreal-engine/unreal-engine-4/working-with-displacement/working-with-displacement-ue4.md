@@ -40,4 +40,4 @@ Una volta aggiunto l&#39;output del height al materiale, dovrete creare alcuni n
 
 >[!NOTE]
 >
-> Gli altri output di texture sono stati omessi in questa immagine per semplificare il grafico. Qui vengono mostrati solo i nodi Spostamento e Moltiplicatore per maggiore chiarezza.
+> Gli altri output della texture sono stati omessi in questa immagine per semplificare il grafico. Qui vengono mostrati solo i nodi Spostamento e Moltiplicatore per maggiore chiarezza.

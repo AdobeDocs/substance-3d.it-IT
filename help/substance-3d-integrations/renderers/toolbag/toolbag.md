@@ -22,16 +22,16 @@ ht-degree: 5%
 
 In questa pagina viene illustrato come utilizzare la rugosità/output metallico per Toolbag 2.
 
-Toolbag supporta sia i flussi di lavoro di specular/lucidità che quelli di metallizzazione/rugosità.
+Toolbag supporta sia i flussi di lavoro specular/lucentezza che metallico/rugosità.
 
-Substance 3D Painter usa lo shader metallico PBR come impostazione predefinita, ma potete usarlo anche con lo shader specular/lucidità. Questo flusso di lavoro mostrerà come utilizzare gli output metallici per Toolbag 2. Toolbag supporta il flusso di lavoro metallico.
+Per impostazione predefinita, Substance 3D Painter usa lo shader metallico PBR, ma potete usarlo anche con lo specular/lucentezza shader. Questo flusso di lavoro mostrerà come utilizzare gli output metallici per Toolbag 2. Toolbag supporta il flusso di lavoro metallico.
 
 [Scarica scena di esempio](https://www.dropbox.com/s/qyed3un2zhtuibj/toolbag.zip?dl=0)
 
 ## Esportare da Painter
 
-1. Quando si utilizza lo shader PBR metallico predefinito, è possibile esportare utilizzando i canali del documento predefiniti + Normale + Predefinito di esportazione AO.  ***\*I canali dei documenti esportano la mappa normale in base alla configurazione del progetto. Toolbag richiede la mappa Normale OGL. È possibile cambiare il formato normale nella configurazione del progetto.***
-1. In alternativa, puoi creare una configurazione di esportazione personalizzata che utilizza la lucidità
+1. Quando si utilizza lo shader PBR metallico predefinito, è possibile esportare utilizzando i canali del documento predefiniti + Normale + Predefinito di esportazione AO.  ***\*La Mappa normale di esportazione dei canali dei documenti viene esportata in base alla configurazione del progetto. Toolbag richiede Mappa normale OGL. È possibile cambiare il formato normale nella configurazione del progetto.***
+1. In alternativa, puoi creare una configurazione di esportazione personalizzata che utilizza lucentezze
 
    ![](../../assets/settings-export.png){width="600px"}
 1. Prima dell’esportazione, potete impostare il formato normale su OpenGL.  **Modifica>Configurazione progetto**
@@ -42,7 +42,7 @@ Substance 3D Painter usa lo shader metallico PBR come impostazione predefinita, 
 
 1. Imposta Riflettività su Metallicità
 1. Imposta Riflessione su GGX
-1. Aggiungete le texture ai canali appropriati, come illustrato nel seguente grafico:
+1. Aggiungi le texture ai canali appropriati, come illustrato nel seguente grafico:
 
    | Substance 3D Painter Texture | Spazio colore | Materiale Toolbag |
    | --- | --- | --- |

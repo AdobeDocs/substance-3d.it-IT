@@ -32,6 +32,6 @@ Rilasciato il 18 dicembre 2020
 * Substance\_link.dll che utilizza un numero elevato di cicli di CPU
 * Errore di asserzione durante l’esportazione di un predefinito di Substance
 * Arresto anomalo durante la creazione di un predefinito quando non è presente
-* Arresto anomalo con il denoiser per il modulo di rendering Corona
+* Arresto anomalo di denoiser per il modulo di rendering Corona
 
 Questa versione è disponibile per 3ds Max 2019, 2020 e 2021

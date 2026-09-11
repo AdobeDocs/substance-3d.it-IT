@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
-description: Esportate le texture Substance Painter per il modulo di rendering successivo V-Ray utilizzando i modelli di output e le impostazioni del flusso di lavoro corrette.
+description: Esporta texture Substance Painter per il modulo di rendering successivo V-Ray utilizzando i modelli di output e le impostazioni del flusso di lavoro corrette.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Vray > Vray Next - Substance Painter
 helpx_experience_level: ""
@@ -20,19 +20,19 @@ ht-degree: 3%
 
 # Vray Next - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) viene fornito con [shader VrayMtl](https://docs.chaosgroup.com/display/VRAY4MAYA/VRayMtl) per flussi di lavoro metallizzati e specular. È possibile [configurare il progetto Substance Painter](https://docs.substance3d.com/display/SPDOC/Project+Creation) utilizzando il **modello VrayMtl**, che configurerà lo shader viewport.
+Substance Painter 2020.1 (6.1.0) viene fornito con [shader VrayMtl](https://docs.chaosgroup.com/display/VRAY4MAYA/VRayMtl) per flussi di lavoro metallizzati e specular. Puoi [configurare il tuo progetto Substance Painter](https://docs.substance3d.com/display/SPDOC/Project+Creation) utilizzando il **modello VrayMtl**, che configurerà lo shader della finestra della vista.
 
 ![](../../../assets/template-16.jpg)
 
-In Impostazioni shader, potete configurare lo shader Vray per lavorare con VrayMtl.
+In Shader impostazioni è possibile configurare lo shader Vray per l&#39;utilizzo di VrayMtl.
 
 >[!NOTE]
 >
-> Se il progetto è stato configurato per l&#39;utilizzo di [UV Tile UDIM Legacy](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html). Utilizzate il modello di output UDIM successivo Vray.
+> Se il progetto è stato configurato per l&#39;utilizzo di [Porzione UV UDIM Legacy](https://helpx.adobe.com/it/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html). Utilizzate il modello di output di UDIM successivo Vray.
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 
-Per esportare le texture per il rendering in Vray Next, scegliete il Modello di output Vray Mtl.
+Per esportare la texture per il rendering in Vray Next, scegliete il Modello di output Vray Mtl.
 
 ![](../../../assets/template-project.jpg){width="800px"}
 
@@ -40,13 +40,13 @@ Per esportare le texture per il rendering in Vray Next, scegliete il Modello di 
 
 | Substance Painter esportazione | VRayMtl |
 | --- | --- |
-| BaseColor | (**Maya**) Colore diffuso (quantità = 1,0) (**3ds Max**) Diffuso |
+| BaseColor | (**Maya**) Diffusa di colore (quantità = 1,0) (**3ds Max**) Diffusa |
 | Ruvidità | (**Maya**) Rugosità/Riflessione (BRDF = GGX) + (Usa rugosità abilitata)(**3ds Max**) Rugosità → BRDF/ Usa GGX e abilita Usa rugosità |
 | Metallizzato | (**Maya**) Riflessione/Metalness (**3ds Max**) Metalness |
-| Normale | (**Maya**) Mappatura/Mappa rilievo e normale (Tipo mappa = Normale nello spazio tangente)(**3ds** **Max**) Bitmap → Normale |
-| Altezza | (**Maya**) Spostamento Shader/spostamento (**3ds** **Max**) Modificatore oggetto → VrayDisplacementMod → Mappa di testo |
+| Normale | (**Maya**) Mappatura/Mappa rilievo e normale (Tipo mappa = Normale in Spazio tangente)(**3ds** **Max**) Bitmap → Normale |
+| Altezza | (**Maya**) Shader/spostamento di Spostamento (**3ds** **Max**) Modificatore oggetto → VrayDisplacementMod → Mappa di testo |
 | Con emissioni | Auto-illuminazione |
-| Trasmissivo | (**Maya**) Colore diffusione/trasparenza sottosuperficie (**3ds Max**) Traslucidità → Colore retro |
+| Trasmissivo | (**Maya**) Dispersione sottosuperficie/Colore Traslucidità (**3ds Max**) Traslucidità → Colore retro |
 | AnisotropiaAngolo | Rotazione (**Maya**) Anisotropia/Anisotropia (**3ds** **Max**) BRDF/Rotazione |
 | AnisotropiaLivello | (**Maya**) Anisotropia/Anisotropia (**3ds Max**) BRDF/Angolo |
 

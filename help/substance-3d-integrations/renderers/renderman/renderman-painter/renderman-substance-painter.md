@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
-description: Esporta le texture Substance Painter per Renderman utilizzando il materiale pxrSurface e le conversioni di output corrette.
+description: Esporta texture Substance Painter per Renderman utilizzando il materiale pxrSurface e le conversioni di output corrette.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Renderman > Renderman - Substance Painter
 helpx_experience_level: ""
@@ -32,11 +32,11 @@ Si consiglia di utilizzare **pxrSurface** per l&#39;output.
 
 | Substance Painter esportazione | PxrSurface |
 | --- | --- |
-| DiffuseColor | Diffusione/Colore |
+| DiffuseColor | Diffusa/Colore |
 | Rugosità speculare | Rugosità/Specular primario |
 | SpecularFaceColor | Colore Specular/Volto Principale |
 | Normale | Globali/rilievo/Orientamento → PxrNormalMap (Open GL) |
-| Spostamento | (canale rosso ) PxrDispTransform (Risultato F) → (disp scalare) PxrDisplace (Colore di stacco) → (Shader di Spostamento) PxrSurfaceSG |
+| Spostamento | (canale rosso ) PxrDispTransform (Risultato F) → (disp scalare) PxrDisplace (Colore in uscita) → (Shader Spostamento) PxrSurfaceSG |
 | GlowColor | Bagliore/Colore (Guadagno = 1,0) |
 | Presenza | Globali/Presenza |
 

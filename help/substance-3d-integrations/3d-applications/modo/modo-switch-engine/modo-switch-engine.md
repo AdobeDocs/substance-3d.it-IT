@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Substance Engine di commutazione
 
-Esistono due versioni della Substance Engine: CPU e GPU. Il motore GPU viene utilizzato per creare texture superiori a 2K. Il motore CPU è in grado di generare solo texture fino a 2K. Se avete bisogno di texture a risoluzione più elevata, dovete passare al motore GPU.
+Esistono due versioni della Substance Engine: CPU e GPU. Il motore GPU viene utilizzato per creare texture superiore a 2K. Il motore della CPU è in grado di generare solo texture fino a 2K. Se avete bisogno di texture con risoluzione più elevata, dovete passare al motore della GPU.
 
 Selezionare l&#39;opzione Substance nel menu del kit di Substance e scegliere Cambia Substance Engine. Per attivare il motore GPU, è necessario riavviare MODO. Questa impostazione agisce su una preferenza globale. Il motore GPU verrà quindi attivato ogni volta che si esegue MODO finché non viene cambiato manualmente.
 
