@@ -19,7 +19,7 @@ Questo progetto rispetta l&#39;Adobe [codice di condotta](code-of-conduct.md). P
 
 ## Documentazione della Guida per gli autori
 
-Consulta la [Guida per autori](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Consulta la [Guida per autori](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it).
 
 ## Hai Una Domanda?
 
