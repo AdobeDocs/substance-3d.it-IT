@@ -2,13 +2,11 @@
 user-guide-description: Ecosistema Substance 3D
 user-guide-title: Ecosistema Substance 3D
 breadcrumb-title: Guida utente dell'ecosistema Substance 3D
-source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
+source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '818'
 ht-degree: 2%
-
 ---
-
 
 # Ecosistema Substance 3D {#ecosystem}
 
@@ -60,7 +58,7 @@ ht-degree: 2%
       + [Impostazioni plug-in - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4/plugin-settings-ue4.md)
       + [Immagine da Substance - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
       + [Definizione istanza materiale - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-def-1/material-instance-definition-ue4.md)
-      + [Substance in porzioni - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
+      + [Substance Affiancamento - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
       + [Utilizzo dello scostamento rilievo - Parallasse - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset/working-with-bump-offset-parallax-ue4.md)
       + [Utilizzo dello Spostamento - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement/working-with-displacement-ue4.md)
       + [Sorgente in UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4/source-in-ue4.md)
@@ -218,6 +216,8 @@ ht-degree: 2%
   + Miscelatore{#blender}
     + [Panoramica di Blender](/help/substance-3d-integrations/3d-applications/blender/blender.md)
     + Note sulla versione{#release-notes}
+      + [Note sulla versione](/help/substance-3d-integrations/3d-applications/blender/release-notes/release-notes.md)
+      + [Componente aggiuntivo 3.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-3-0-0.md)
       + [Componente aggiuntivo 2.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus/add-on-2-0-0-plus.md)
       + [Componente aggiuntivo 2.0.0](/help/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0/blender-add-on-2-0-0.md)
       + [Componente aggiuntivo 1.0.2](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2/add-on-1-0-2.md)
@@ -245,7 +245,7 @@ ht-degree: 2%
   + [Conversione delle uscite Substance](/help/substance-3d-integrations/renderers/converting-outputs/converting-substance-outputs.md)
   + Gestione colore{#color-management}
     + [Panoramica sulla gestione del colore](/help/substance-3d-integrations/renderers/color-management/color-management.md)
-    + [Substance texture in Maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
+    + [Substance texture a Maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
     + [Substance texture in 3ds Max](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
   + Arnold{#arnold}
     + [Panoramica di Arnold](/help/substance-3d-integrations/renderers/arnold/arnold.md)

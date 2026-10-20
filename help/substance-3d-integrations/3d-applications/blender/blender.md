@@ -1,6 +1,6 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/blender.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Installa e utilizza il componente aggiuntivo Substance 3D per Blender per importare e lavorare con i materiali Substance nei tuoi progetti 3D.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Blender
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: Miscelatore
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: aa5acd016cd1a55ab230d36352c4d3aa5514012a
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 4%
-
+source-wordcount: '66'
+ht-degree: 7%
 ---
-
 
 # Miscelatore
 
@@ -35,3 +33,4 @@ ht-degree: 4%
 * [Risoluzione dei problemi](../../3d-applications/blender/troubleshooting/troubleshooting.md)
 * [Disinstallazione del componente aggiuntivo](../../3d-applications/blender/uninstalling-the-add-on/uninstalling-the-add-on.md)
 * [Componente aggiuntivo Substance 3D per Blender Tutorials](../../3d-applications/blender/add-for-blender-tutorials/substance-3d-add-on-for-blender-tutorials.md)
+* [Note sulla versione](release-notes/release-notes.md)
