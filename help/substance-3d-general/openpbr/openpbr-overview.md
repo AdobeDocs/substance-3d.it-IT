@@ -911,7 +911,7 @@ Allo stesso modo, PBR favorisce una bassa interdipendenza tra le diverse parti d
 
 In pratica, PBR sposta il ruolo dell&#39;artista dalla compensazione per l&#39;illuminazione o le anomalie del modulo di rendering alla descrizione dei materiali in termini di caratteristiche reali. Il risultato è un flusso di lavoro che favorisce la coerenza rispetto alla modifica specifica della scena, con il realismo che emerge naturalmente da input di materiale ben definiti piuttosto che da trucchi di illuminazione manuali.
 
-Per ulteriori informazioni sulle specifiche tecniche di PBR, vedere [The PBR Guide, di Wes McDermott](https://www.adobe.com/learn/substance-3d-designer/web/the-pbr-guide-part-1).
+Per ulteriori informazioni sulle specifiche tecniche di PBR, vedere [The PBR Guide, di Wes McDermott](https://www.adobe.com/it/learn/substance-3d-designer/web/the-pbr-guide-part-1).
 
 ## Appendice ii: Che cos’è l’OpenPBR?
 
