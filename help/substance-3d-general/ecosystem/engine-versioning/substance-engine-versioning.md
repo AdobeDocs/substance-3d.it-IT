@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/it/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ""
 description: Utilizzare questo riferimento per verificare quale versione del motore di Substance è compatibile con il software e garantire la compatibilità del materiale.
 helpx_creative_field: ""
@@ -10,9 +10,9 @@ helpx_tags: ""
 title: Controllo delle versioni del motore di Substance
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 4aabc9cc3e18e14f4d381cd98e2f320f07149298
+source-git-commit: 50cadc1d3d23c51ef24ab742a4eb85503db9b856
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '630'
 ht-degree: 25%
 ---
 
@@ -150,10 +150,10 @@ Consultare le tabelle seguenti per sapere se un materiale di Substance o un mode
 
 ## Plug-in Substance
 
-| Plug-in | Versione motore di Substance | Versione struttura |
-| --- | --- | --- |
-| **Maya** 2.2.2 | 8.4.2 | N.D. |
-| **3ds Max** 2.4.6 | 8.0.3 | N.D. |
-| **Blender** | 8.4.2 | N.D. |
-| **Unità** | 8.2.0 | N.D. |
-| **Irreale** | 8.0.8 | N.D. |
+| Plug-in | Versione motore di Substance |
+| --- | --- |
+| **Maya** 3.1.1 | 9.6.1 |
+| **3ds Max** 3.1.1 | 9.6.1 |
+| **Blender** 3.1.0 | 9.6.1 |
+| **Unità** da 3.8.0 a 3.12.0 | 9.0.0 |
+| **Irreale** 5.8.2 | 9.5.1 |
