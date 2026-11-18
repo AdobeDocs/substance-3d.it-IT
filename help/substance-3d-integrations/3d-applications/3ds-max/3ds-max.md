@@ -1,6 +1,6 @@
 ---
 helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/3ds-max.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Installa e utilizza il plug-in Substance per 3ds Max per importare i materiali Substance e migliorare il flusso di lavoro di rendering.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: 3ds Max
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 5993ae7d081299e43c04acdbce6c44be54b4f861
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '54'
 ht-degree: 0%
-
 ---
-
 
 # 3ds Max
 
@@ -25,6 +23,7 @@ ht-degree: 0%
 ## Sommario
 
 * [Panoramica di Substance in 3ds Max](../../3d-applications/3ds-max/in-3ds-max-overview/substance-in-3ds-max-overview.md)
+* [Download e installazione](download-and-install.md)
 * [Substance impostazioni](../../3d-applications/3ds-max/settings-1/substance-settings.md)
 * [Utilizzo dei predefiniti](../../3d-applications/3ds-max/using-presets/using-presets.md)
 * [Importazione in batch](../../3d-applications/3ds-max/batch-import/batch-import.md)
