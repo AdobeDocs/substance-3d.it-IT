@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/it/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ""
 description: Creazione e utilizzo di predefiniti di rendering per gli output Substance in Maya per generare automaticamente reti di shader per diversi moduli di rendering.
 helpx_creative_field: ""
@@ -69,7 +69,7 @@ Nell&#39;elenco Flussi di lavoro sono disponibili due flussi di lavoro OpenPBR: 
 
 ### Che cos’è l’OpenPBR
 
-OpenPBR è un modello di ombreggiatura di materiali aperto e basato su elementi fisici sviluppato da Adobe e Autodesk e contribuito ad Academy Software Foundation (ASWF). Fornisce una definizione di materiale unificata compatibile tra i moduli di rendering. Per ulteriori informazioni, consulta la [documentazione OpenPBR](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
+OpenPBR è un modello di ombreggiatura di materiali aperto e basato su elementi fisici sviluppato da Adobe e Autodesk e contribuito ad Academy Software Foundation (ASWF). Fornisce una definizione di materiale unificata compatibile tra i moduli di rendering. Per ulteriori informazioni, consulta la [documentazione OpenPBR](https://experienceleague.adobe.com/it/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
 
 ### Quando utilizzare un flusso di lavoro OpenPBR
 
