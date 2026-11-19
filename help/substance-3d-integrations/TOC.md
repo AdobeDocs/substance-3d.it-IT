@@ -2,9 +2,9 @@
 user-guide-description: Ecosistema Substance 3D
 user-guide-title: Ecosistema Substance 3D
 breadcrumb-title: Guida utente dell'ecosistema Substance 3D
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 6453364f7dafa75c5bb2531a8707257498953e23
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '828'
 ht-degree: 2%
 ---
 
@@ -148,7 +148,7 @@ ht-degree: 2%
       + [Maya 2.0.3](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-0-3/maya-2-0-3.md)
       + [Maya 0.9.11](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-0-9-11/maya-0-9-11.md)
     + [Panoramica di Substance in Maya](/help/substance-3d-integrations/3d-applications/maya/in-maya-overview/substance-in-maya-overview.md)
-    + [Installazione](/help/substance-3d-integrations/3d-applications/maya/installation/installation.md)
+    + [Download e installazione](/help/substance-3d-integrations/3d-applications/maya/installation/installation.md)
     + [Substance nodo di output](/help/substance-3d-integrations/3d-applications/maya/output-node/substance-output-node.md)
     + [Utilizzo dei flussi di lavoro](/help/substance-3d-integrations/3d-applications/maya/using-workflows/using-workflows.md)
     + [Utilizzo degli output](/help/substance-3d-integrations/3d-applications/maya/working-with-outputs/working-with-outputs.md)
