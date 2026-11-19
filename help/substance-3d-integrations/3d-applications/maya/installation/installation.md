@@ -10,19 +10,13 @@ helpx_tags: ""
 title: Download e installazione
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 0b6fbb25891bf442fc52b52089422ab0f762c1ae
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '91'
 ht-degree: 0%
 ---
 
 # Download e installazione
-
-La Substance nel plug-in Maya è inclusa per impostazione predefinita nel programma di installazione di Maya.
-
-Puoi scaricare versioni più recenti del programma di installazione dalla [pagina Substance 3D per Maya](https://substance3d.adobe.com/plugins/substance-in-maya/).
-
-## Versioni precedenti dei plug-in
 
 La versione più recente del plug-in viene distribuita in modo nativo da Autodesk con la versione compatibile più recente di Maya. Se è necessaria una build specifica per una versione precedente, di seguito sono disponibili i collegamenti per il download
 
